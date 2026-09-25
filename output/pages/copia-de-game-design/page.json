@@ -1,0 +1,2956 @@
+{
+  "title": "Prototyping | AlvaroCG-A_Portfolio",
+  "lang": "es",
+  "meta": {
+    "description": null,
+    "ogTitle": "Prototyping | AlvaroCG-A_Portfolio",
+    "ogDescription": null,
+    "ogImage": null,
+    "keywords": null,
+    "robots": null
+  },
+  "favicon": "https://www.wix.com/favicon.ico",
+  "canonical": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+  "pageBackground": "rgba(0, 0, 0, 0)",
+  "pageHeight": 9312,
+  "header": {
+    "text": "Álvaro Calvo García-Arias\nTechnical Game Designer\n\nBugs 'N' Guns\n\nPortfolio\n\nPersonal Projects\n\nContact",
+    "links": [
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Game Design",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Prototyping",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Tools N´Tech",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "LevelDesign",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "BlinkBall",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Portfolio",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Winx",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Macbeth",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Personal Projects",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Neon Red",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Super_Transform",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Burger Bros Circus",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Gea Of War",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Against The Clock",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Contact",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1",
+        "depth": 0,
+        "visible": true
+      }
+    ],
+    "images": []
+  },
+  "footer": {
+    "text": "Álvaro Calvo\nTechnical Designer\n\nBugs 'N' Guns\n\nPortfolio\n\nPersonal Projects\n\nContact",
+    "links": [
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Game Design",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Prototyping",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Tools N´Tech",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "LevelDesign",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "BlinkBall",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Portfolio",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Winx",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Macbeth",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Personal Projects",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Neon Red",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Super_Transform",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Burger Bros Circus",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Gea Of War",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Against The Clock",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Contact",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1",
+        "depth": 0,
+        "visible": true
+      }
+    ],
+    "images": []
+  },
+  "sections": [
+    {
+      "index": 0,
+      "id": "comp-lxbqnrrx",
+      "rect": {
+        "x": 0,
+        "y": 344,
+        "w": 1440,
+        "h": 666
+      },
+      "background": "rgb(30, 32, 37)"
+    },
+    {
+      "index": 1,
+      "id": "comp-lxktrgy9",
+      "rect": {
+        "x": 0,
+        "y": 1010,
+        "w": 1440,
+        "h": 2193
+      },
+      "background": "rgb(30, 32, 37)"
+    },
+    {
+      "index": 2,
+      "id": "comp-lxktuqg7",
+      "rect": {
+        "x": 0,
+        "y": 3203,
+        "w": 1440,
+        "h": 3374
+      },
+      "background": "rgb(30, 32, 37)"
+    },
+    {
+      "index": 3,
+      "id": "comp-lxktuvcu",
+      "rect": {
+        "x": 0,
+        "y": 6577,
+        "w": 1440,
+        "h": 2516
+      },
+      "background": "rgb(30, 32, 37)"
+    }
+  ],
+  "blocks": [
+    {
+      "section": -1,
+      "rect": {
+        "x": 20,
+        "y": 349,
+        "w": 138,
+        "h": 22
+      },
+      "type": "list-item",
+      "tag": "li",
+      "level": null,
+      "text": "Menu",
+      "links": [
+        {
+          "text": "Menu",
+          "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design"
+        }
+      ],
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 0)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": -1,
+      "rect": {
+        "x": 20,
+        "y": 395,
+        "w": 138,
+        "h": 22
+      },
+      "type": "list-item",
+      "tag": "li",
+      "level": null,
+      "text": "Prototype",
+      "links": [
+        {
+          "text": "Prototype",
+          "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design"
+        }
+      ],
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 0)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": -1,
+      "rect": {
+        "x": 20,
+        "y": 441,
+        "w": 138,
+        "h": 22
+      },
+      "type": "list-item",
+      "tag": "li",
+      "level": null,
+      "text": "3C",
+      "links": [
+        {
+          "text": "3C",
+          "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design"
+        }
+      ],
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 0)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": -1,
+      "rect": {
+        "x": 20,
+        "y": 487,
+        "w": 138,
+        "h": 22
+      },
+      "type": "list-item",
+      "tag": "li",
+      "level": null,
+      "text": "Elements",
+      "links": [
+        {
+          "text": "Elements",
+          "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design"
+        }
+      ],
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 0)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": -1,
+      "rect": {
+        "x": 20,
+        "y": 533,
+        "w": 138,
+        "h": 22
+      },
+      "type": "list-item",
+      "tag": "li",
+      "level": null,
+      "text": "Enemies",
+      "links": [
+        {
+          "text": "Enemies",
+          "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design"
+        }
+      ],
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 0)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": -1,
+      "rect": {
+        "x": 20,
+        "y": 579,
+        "w": 138,
+        "h": 22
+      },
+      "type": "list-item",
+      "tag": "li",
+      "level": null,
+      "text": "Contact",
+      "links": [
+        {
+          "text": "Contact",
+          "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design"
+        }
+      ],
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 0)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 270,
+        "y": 359,
+        "w": 899,
+        "h": 72
+      },
+      "type": "heading",
+      "tag": "h1",
+      "level": 1,
+      "text": "Prototype & Low level Design",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "60px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "72px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": -72,
+        "y": 519,
+        "w": 761,
+        "h": 427
+      },
+      "type": "embed",
+      "src": "https://www.youtube.com/embed/vTBhdAZtNsY?autoplay=1&mute=1&controls=1&loop=1&origin=https%3A%2F%2Fcalvoalvaro12.wixsite.com&playsinline=1&playlist=vTBhdAZtNsY&enablejsapi=1&widgetid=1&forigin=https%3A%2F%2Fcalvoalvaro12.wixsite.com%2F-lvarocg-a%2Fcopia-de-game-design&aoriginsup=1&vf=3",
+      "title": "BNGPrototype"
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 769,
+        "y": 519,
+        "w": 820,
+        "h": 114
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "This was the look of Bug N´ Guns in the Pre-Alpha.\nThis prototype was made by the design team to iterate and valideate mechanics and level ideas.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "25px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 769,
+        "y": 633,
+        "w": 820,
+        "h": 152
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "All the things in the video was made by a designer and I made quite a lot, in this page I will showcase some of the most important and interesting among all.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "25px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 394,
+        "y": 1139,
+        "w": 651,
+        "h": 60
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "Player core mecanics(3C)",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "45px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "60.3px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 230,
+        "y": 1221,
+        "w": 980,
+        "h": 76
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "One of the key and most important aspects we had to test in-game were the 3C's.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "25px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 230,
+        "y": 1297,
+        "w": 980,
+        "h": 76
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "For this, we prototyped a functional character via blueprints with all the features we wanted to test.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "25px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 230,
+        "y": 1373,
+        "w": 980,
+        "h": 114
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "There were many, some of which were completely discarded while others were iterated countless times. However, I will only talk about two that were especially important and took several iterations and meetings to address.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "25px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 1246,
+        "y": 1139,
+        "w": 81,
+        "h": 110
+      },
+      "type": "button",
+      "text": "",
+      "href": "https://sable-sandalwood-dee.notion.site/PLAYER-CCC-2d1cab680b64497980cc05e238e354ce",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 238)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 1243,
+        "y": 1249,
+        "w": 90,
+        "h": 30
+      },
+      "type": "heading",
+      "tag": "h2",
+      "level": 2,
+      "text": "NOTION",
+      "links": [
+        {
+          "text": "NOTION",
+          "href": "https://sable-sandalwood-dee.notion.site/6b3e2cf0924a4829b68156f894e69264?v=b19f1f11e7794bb48de4bc0fd682faea"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 1243,
+        "y": 1279,
+        "w": 90,
+        "h": 30
+      },
+      "type": "heading",
+      "tag": "h2",
+      "level": 2,
+      "text": "3C´s",
+      "links": [
+        {
+          "text": "3C´s",
+          "href": "https://sable-sandalwood-dee.notion.site/PLAYER-CCC-2d1cab680b64497980cc05e238e354ce"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 233,
+        "y": 1665,
+        "w": 81,
+        "h": 110
+      },
+      "type": "button",
+      "text": "",
+      "href": "https://sable-sandalwood-dee.notion.site/Jumping-cfb2f8fc3ba14e30a5f7f6579502dcd3",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 238)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 340,
+        "y": 1665,
+        "w": 196,
+        "h": 47
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "DobleJump",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "35px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "46.9px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 230,
+        "y": 1775,
+        "w": 90,
+        "h": 30
+      },
+      "type": "heading",
+      "tag": "h2",
+      "level": 2,
+      "text": "NOTION",
+      "links": [
+        {
+          "text": "NOTION",
+          "href": "https://sable-sandalwood-dee.notion.site/Jumping-cfb2f8fc3ba14e30a5f7f6579502dcd3"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 233,
+        "y": 1871,
+        "w": 504,
+        "h": 283
+      },
+      "type": "embed",
+      "src": "https://www.youtube.com/embed/N4DxyZoo71Q?autoplay=0&mute=0&controls=1&loop=0&origin=https%3A%2F%2Fcalvoalvaro12.wixsite.com&playsinline=1&enablejsapi=1&widgetid=3&forigin=https%3A%2F%2Fcalvoalvaro12.wixsite.com%2F-lvarocg-a%2Fcopia-de-game-design&aoriginsup=1&vf=6",
+      "title": "JumpingProto"
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 233,
+        "y": 2223,
+        "w": 81,
+        "h": 110
+      },
+      "type": "button",
+      "text": "",
+      "href": "https://sable-sandalwood-dee.notion.site/Blinkshot-8f6e5fa67ef440c29586d23cf079f8ac",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 238)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 340,
+        "y": 2223,
+        "w": 161,
+        "h": 47
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "Blinkshot",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "35px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "46.9px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 230,
+        "y": 2333,
+        "w": 90,
+        "h": 30
+      },
+      "type": "heading",
+      "tag": "h2",
+      "level": 2,
+      "text": "NOTION",
+      "links": [
+        {
+          "text": "NOTION",
+          "href": "https://sable-sandalwood-dee.notion.site/Blinkshot-8f6e5fa67ef440c29586d23cf079f8ac"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 233,
+        "y": 2429,
+        "w": 504,
+        "h": 283
+      },
+      "type": "embed",
+      "src": "https://www.youtube.com/embed/WHnHrLpxWmY?autoplay=0&mute=0&controls=1&loop=0&origin=https%3A%2F%2Fcalvoalvaro12.wixsite.com&playsinline=1&enablejsapi=1&widgetid=5&forigin=https%3A%2F%2Fcalvoalvaro12.wixsite.com%2F-lvarocg-a%2Fcopia-de-game-design&aoriginsup=1&vf=6",
+      "title": "BlinkshotProto"
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 769,
+        "y": 1665,
+        "w": 820,
+        "h": 30
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "The first and most troublesome feature was the jump, specifically the double jump.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 769,
+        "y": 1695,
+        "w": 820,
+        "h": 60
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "We needed this feature because in the game, we escort a train through hostile terrain, and we can be attacked from all directions.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 769,
+        "y": 1755,
+        "w": 820,
+        "h": 60
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Therefore, it is essential to be able to move quickly from one side of the train to the other.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 769,
+        "y": 1815,
+        "w": 820,
+        "h": 90
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "This meant we needed a considerably high double jump, but giving such a high jump caused the player to move horizontally much more than we intended, and worse, to saty in the air for a very long time.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 769,
+        "y": 1935,
+        "w": 820,
+        "h": 90
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "After many iterations and meetings, we concluded that instead of a double jump, the player would be given a vertical thrust, as if they had two small rockets on their back, providing the height we wanted but without the horizontal inertia.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 769,
+        "y": 2025,
+        "w": 820,
+        "h": 60
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "We also had to add air friction and adjust the gravity values so that jumps in general felt more natural.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 769,
+        "y": 2115,
+        "w": 820,
+        "h": 30
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "It seems obvious now, but at the time, it was a serious issue.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 769,
+        "y": 2223,
+        "w": 820,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "This mechanic is the most representative of the game's essence and also gives the studio its name.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 769,
+        "y": 2293,
+        "w": 820,
+        "h": 35
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "It arises from one of our core verbs: shooting.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 769,
+        "y": 2328,
+        "w": 820,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "This means that all interactions with the world and its systems are done by shooting.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 769,
+        "y": 2398,
+        "w": 820,
+        "h": 140
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Parallel to this, we realized we needed a tool to provide player mobility. Since the game is fast-paced and player cooperation is essential, we needed a way for them to quickly and dynamically regroup and split up. In other words, we needed some type of dash or blink ability.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 769,
+        "y": 2573,
+        "w": 820,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Initially, we considered giving a horizontal dash, but our game is also very vertical, and there are situations where you want to move down or diagonally.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 769,
+        "y": 2643,
+        "w": 820,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Therefore, we needed an omnidirectional tool. After many meetings and iterations, we decided to treat the blink as a shot.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 769,
+        "y": 2713,
+        "w": 820,
+        "h": 105
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "You would choose the direction by aiming and then teleport by shooting. This way, we solved one of the game's mobility problems while reinforcing the idea that everything is done by shooting.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 769,
+        "y": 2853,
+        "w": 820,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "This is one of the core mechanics of the game, and it has many more interactions and functionalities.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 769,
+        "y": 2923,
+        "w": 820,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "However, if I were to explain everything about how this mechanic was conceived and iterated, we would never finish.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 769,
+        "y": 2993,
+        "w": 820,
+        "h": 105
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "There’s still much to discuss about its interactions with enemies and environmental elements, its peculiarities in terms of game feel, and the restrictions in place to prevent players from breaking the level in various ways.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 769,
+        "y": 3133,
+        "w": 820,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "What I’ve explained here is just the ideation process, but this is a mechanic that was adjusted and modified throughout the entire development process.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 394,
+        "y": 3332,
+        "w": 651,
+        "h": 60
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "Elements and Weapons",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "45px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "60.3px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 230,
+        "y": 3414,
+        "w": 980,
+        "h": 114
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Elements and weapons are the players' tools not only for combat and killing enemies but also for all interactions with the world, as in this game, everything is done by shooting.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "25px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 230,
+        "y": 3528,
+        "w": 980,
+        "h": 175
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "To develop the weapons and elements we have now, all four weapons were tested and prototyped. These mechanics underwent the most iterations and had the most versions because they needed to function both as combat weapons and puzzle-solving tools.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "25px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "43.75px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 1246,
+        "y": 3332,
+        "w": 81,
+        "h": 110
+      },
+      "type": "button",
+      "text": "",
+      "href": "https://sable-sandalwood-dee.notion.site/ELEMENTS-269e489d38f5446e8d27e38d62bc7960",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 238)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 1243,
+        "y": 3442,
+        "w": 90,
+        "h": 30
+      },
+      "type": "heading",
+      "tag": "h2",
+      "level": 2,
+      "text": "NOTION",
+      "links": [
+        {
+          "text": "NOTION",
+          "href": "https://sable-sandalwood-dee.notion.site/ELEMENTS-269e489d38f5446e8d27e38d62bc7960"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 1232,
+        "y": 3472,
+        "w": 112,
+        "h": 30
+      },
+      "type": "heading",
+      "tag": "h2",
+      "level": 2,
+      "text": "Elements",
+      "links": [
+        {
+          "text": "Elements",
+          "href": "https://sable-sandalwood-dee.notion.site/ELEMENTS-269e489d38f5446e8d27e38d62bc7960"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 233,
+        "y": 3823,
+        "w": 81,
+        "h": 110
+      },
+      "type": "button",
+      "text": "",
+      "href": "https://sable-sandalwood-dee.notion.site/Fire-DPS-f383ada3dfc14f3b9b0ea630f5473523",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 238)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 338,
+        "y": 3823,
+        "w": 81,
+        "h": 47
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "Fire",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "35px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "46.9px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 230,
+        "y": 3933,
+        "w": 90,
+        "h": 30
+      },
+      "type": "heading",
+      "tag": "h2",
+      "level": 2,
+      "text": "NOTION",
+      "links": [
+        {
+          "text": "NOTION",
+          "href": "https://sable-sandalwood-dee.notion.site/Fire-DPS-f383ada3dfc14f3b9b0ea630f5473523"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 230,
+        "y": 4135,
+        "w": 504,
+        "h": 283
+      },
+      "type": "embed",
+      "src": "https://www.youtube.com/embed/uZoiFMmk6YU?autoplay=0&mute=0&controls=1&loop=0&origin=https%3A%2F%2Fcalvoalvaro12.wixsite.com&playsinline=1&enablejsapi=1&widgetid=7&forigin=https%3A%2F%2Fcalvoalvaro12.wixsite.com%2F-lvarocg-a%2Fcopia-de-game-design&aoriginsup=1&vf=4",
+      "title": "Fire Proto"
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 769,
+        "y": 3823,
+        "w": 820,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Fire was a weapon that we were clear on in terms of puzzles, it was fire. The problem arose more on the combat side.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 769,
+        "y": 3928,
+        "w": 820,
+        "h": 105
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Initially, it was supposed to be like a fire hose, but this concept caused problems with its floor behavior, meaning it left a trail of fire wherever it touched, and that trail caused contact damage.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 769,
+        "y": 4033,
+        "w": 820,
+        "h": 35
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "In other words, it was too powerful.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 769,
+        "y": 4103,
+        "w": 820,
+        "h": 105
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "So, we had to change the concept. After several iterations, ranging from a sniper rifle to a grenade launcher, we finally settled on a burst rifle with three bullets per burst. It's a weapon with high damage but relatively slow.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 769,
+        "y": 4243,
+        "w": 820,
+        "h": 175
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "With this development of the fire weapon, we also decided that the two DPS weapons would be slow and precise but very powerful, while the CC (crowd control) weapons would be very fast, with low damage but excelling at \"painting\" the level with their elements, creating large CC areas. These, when combined with the other weapons, result in a devastating finale.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 233,
+        "y": 4512,
+        "w": 81,
+        "h": 110
+      },
+      "type": "button",
+      "text": "",
+      "href": "https://sable-sandalwood-dee.notion.site/Spores-CC-f8ff913d5a1c4135b43f3abe776a79fe",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 238)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 338,
+        "y": 4512,
+        "w": 217,
+        "h": 47
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "Spore",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "35px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "46.9px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 230,
+        "y": 4622,
+        "w": 90,
+        "h": 30
+      },
+      "type": "heading",
+      "tag": "h2",
+      "level": 2,
+      "text": "NOTION",
+      "links": [
+        {
+          "text": "NOTION",
+          "href": "https://sable-sandalwood-dee.notion.site/Spores-CC-f8ff913d5a1c4135b43f3abe776a79fe"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 233,
+        "y": 4684,
+        "w": 504,
+        "h": 283
+      },
+      "type": "embed",
+      "src": "https://www.youtube.com/embed/VWwqmM7BDx8?autoplay=0&mute=0&controls=1&loop=0&origin=https%3A%2F%2Fcalvoalvaro12.wixsite.com&playsinline=1&enablejsapi=1&widgetid=9&forigin=https%3A%2F%2Fcalvoalvaro12.wixsite.com%2F-lvarocg-a%2Fcopia-de-game-design&aoriginsup=1&vf=6",
+      "title": "SporeProto"
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 769,
+        "y": 4512,
+        "w": 820,
+        "h": 140
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "The spore weapon was the one that most closely resembled its final form from the beginning, as it was conceived as a submachine gun and kept that archetype. It didn't cause problems with its interactions, the main thing that changed was the effect it had on enemies.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 769,
+        "y": 4687,
+        "w": 820,
+        "h": 105
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Initially, it poisoned them, meaning it dealt damage over time. At first, we wanted to differentiate it from fire by having the burn not last over time, it would deal damage and then disappear, while the poison would deal damage over time.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 769,
+        "y": 4792,
+        "w": 820,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "However, this didn't work out, it was clearly the most powerful weapon of all, and its damage potential conflicted with the idea of a CC weapon.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 769,
+        "y": 4897,
+        "w": 820,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "The result was to remove the poison and turn it into a slow effect. As you can see, this weapon didn't cause many problems.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 235,
+        "y": 5106,
+        "w": 81,
+        "h": 110
+      },
+      "type": "button",
+      "text": "",
+      "href": "https://sable-sandalwood-dee.notion.site/Water-Hydrogel-CC-c3debd33f909474ca500d1902eb90406",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 238)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 341,
+        "y": 5106,
+        "w": 217,
+        "h": 47
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "Hydrogel",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "35px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "46.9px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 233,
+        "y": 5216,
+        "w": 90,
+        "h": 30
+      },
+      "type": "heading",
+      "tag": "h2",
+      "level": 2,
+      "text": "NOTION",
+      "links": [
+        {
+          "text": "NOTION",
+          "href": "https://sable-sandalwood-dee.notion.site/Water-Hydrogel-CC-c3debd33f909474ca500d1902eb90406"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 236,
+        "y": 5278,
+        "w": 504,
+        "h": 283
+      },
+      "type": "embed",
+      "src": "https://www.youtube.com/embed/tIn--X-9LRo?autoplay=0&mute=0&controls=1&loop=0&origin=https%3A%2F%2Fcalvoalvaro12.wixsite.com&playsinline=1&enablejsapi=1&widgetid=11&forigin=https%3A%2F%2Fcalvoalvaro12.wixsite.com%2F-lvarocg-a%2Fcopia-de-game-design&aoriginsup=1&vf=6",
+      "title": "YouTube video player"
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 772,
+        "y": 5106,
+        "w": 820,
+        "h": 105
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "The water weapon was quite problematic, not in its behavior, which we knew from the beginning would be a hose, but in the effects it would cause on enemies, the ground, and their interactions.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 772,
+        "y": 5246,
+        "w": 820,
+        "h": 140
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "We had many ideas for how it would interact with enemies and the ground. Ideas ranged from generating a vortex that trapped enemies when it touched the ground, to creating a bubble that lifted the enemy and then exploded, causing fall damage, and many other crazy concepts we tried with water.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 772,
+        "y": 5421,
+        "w": 820,
+        "h": 105
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "In the end, we decided that when the water touched the ground, it would create a bubble that exploded and knocked enemies back when they touched it. If you hit an enemy directly, the hose would push them back.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 772,
+        "y": 5561,
+        "w": 820,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "On the other hand, the interaction with electricity wasn't problematic. Electrifying the bubbles on the ground would stun enemies and deal damage.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 772,
+        "y": 5666,
+        "w": 820,
+        "h": 105
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "The real challenge was the water-spore interaction, especially since it also needed to work for puzzles. We considered making it grow plants, but this was discarded due to art restrictions.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 772,
+        "y": 5771,
+        "w": 820,
+        "h": 105
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "After several other ideas, we settled on the concept that combining water and spores would create a toxic cloud (similar to what spores used to do) that made enemies turn against each other.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 772,
+        "y": 5876,
+        "w": 820,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "For puzzles, we created a specific water-spore interactuable, but we'll discuss that later.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 235,
+        "y": 6051,
+        "w": 81,
+        "h": 110
+      },
+      "type": "button",
+      "text": "",
+      "href": "https://sable-sandalwood-dee.notion.site/Electroplasm-DPS-e1e04b9cf72947e6a8c9ed9a67ea8f02",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 238)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 341,
+        "y": 6051,
+        "w": 217,
+        "h": 47
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "Electroplasm",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "35px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "46.9px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 232,
+        "y": 6161,
+        "w": 90,
+        "h": 30
+      },
+      "type": "heading",
+      "tag": "h2",
+      "level": 2,
+      "text": "NOTION",
+      "links": [
+        {
+          "text": "NOTION",
+          "href": "https://sable-sandalwood-dee.notion.site/Electroplasm-DPS-e1e04b9cf72947e6a8c9ed9a67ea8f02"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 235,
+        "y": 6223,
+        "w": 504,
+        "h": 283
+      },
+      "type": "embed",
+      "src": "https://www.youtube.com/embed/tIn--X-9LRo?autoplay=0&mute=0&controls=1&loop=0&origin=https%3A%2F%2Fcalvoalvaro12.wixsite.com&playsinline=1&enablejsapi=1&widgetid=13&forigin=https%3A%2F%2Fcalvoalvaro12.wixsite.com%2F-lvarocg-a%2Fcopia-de-game-design&aoriginsup=1&vf=5",
+      "title": "YouTube video player"
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 772,
+        "y": 6051,
+        "w": 820,
+        "h": 175
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "The electric weapon was much simpler to design, but it also had a few ups and downs. We had a clear concept of how the weapon would work. Initially, we wanted it to function like a fusion rifle from Destiny 2. The final concept remained similar, with the main adjustment being that it would fire a single projectile instead of multiple ones.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 772,
+        "y": 6226,
+        "w": 820,
+        "h": 35
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "The damage would vary based on how long the weapon was charged.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 772,
+        "y": 6296,
+        "w": 820,
+        "h": 35
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "The biggest challenge was deciding what the weapon would do to enemies.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 772,
+        "y": 6331,
+        "w": 820,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "We had too many good ideas, making it particularly hard to choose. It was clear that the special effect would only apply if the weapon was fully charged.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 772,
+        "y": 6401,
+        "w": 820,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "The most popular candidates were chain lightning and a stun effect, but both were discarded because they provided too much CC for a weapon intended to be DPS.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 772,
+        "y": 6506,
+        "w": 820,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "In the end, we settled on piercing damage, where each enemy the projectile passed through would reduce its damage.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 394,
+        "y": 6706,
+        "w": 651,
+        "h": 60
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "Enemies",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "45px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "60.3px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 230,
+        "y": 6788,
+        "w": 980,
+        "h": 76
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Enemies are a key part of the game, so they obviously took a lot of time and resources to create.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "25px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 230,
+        "y": 6864,
+        "w": 980,
+        "h": 266
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "From a design perspective, we iterated on the enemy concepts countless times to meet the game's needs as well as the restrictions of other departments. In my particular case, besides designing the concept of the enemies during various design meetings. I was also responsible for prototyping them, including their interactions with other mechanics and gameplay elements, as well as their AI through behaviour trees, and iterating them until achieving a satisfactory result.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "25px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 1246,
+        "y": 6706,
+        "w": 81,
+        "h": 110
+      },
+      "type": "button",
+      "text": "",
+      "href": "https://sable-sandalwood-dee.notion.site/ENEMIES-2a75067c74544431abecd884cc34e9df",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 238)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 1243,
+        "y": 6816,
+        "w": 90,
+        "h": 30
+      },
+      "type": "heading",
+      "tag": "h2",
+      "level": 2,
+      "text": "NOTION",
+      "links": [
+        {
+          "text": "NOTION",
+          "href": "https://sable-sandalwood-dee.notion.site/ENEMIES-2a75067c74544431abecd884cc34e9df"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 1230,
+        "y": 6846,
+        "w": 116,
+        "h": 30
+      },
+      "type": "heading",
+      "tag": "h2",
+      "level": 2,
+      "text": "Ememies",
+      "links": [
+        {
+          "text": "Ememies",
+          "href": "https://sable-sandalwood-dee.notion.site/ENEMIES-2a75067c74544431abecd884cc34e9df"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 233,
+        "y": 7216,
+        "w": 81,
+        "h": 110
+      },
+      "type": "button",
+      "text": "",
+      "href": "https://sable-sandalwood-dee.notion.site/Smasher-Mauricio-4e7735800a354204bb4f943fe9123832",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 238)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 319,
+        "y": 7216,
+        "w": 217,
+        "h": 47
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "Puckarb",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "35px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "46.9px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 230,
+        "y": 7326,
+        "w": 90,
+        "h": 30
+      },
+      "type": "heading",
+      "tag": "h2",
+      "level": 2,
+      "text": "NOTION",
+      "links": [
+        {
+          "text": "NOTION",
+          "href": "https://sable-sandalwood-dee.notion.site/Smasher-Mauricio-4e7735800a354204bb4f943fe9123832"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 230,
+        "y": 7417,
+        "w": 504,
+        "h": 283
+      },
+      "type": "embed",
+      "src": "https://www.youtube.com/embed/YiysNERDmto?autoplay=0&mute=0&controls=1&loop=0&origin=https%3A%2F%2Fcalvoalvaro12.wixsite.com&playsinline=1&enablejsapi=1&widgetid=15&forigin=https%3A%2F%2Fcalvoalvaro12.wixsite.com%2F-lvarocg-a%2Fcopia-de-game-design&aoriginsup=1&vf=6",
+      "title": "Smasher Proto"
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 769,
+        "y": 7216,
+        "w": 820,
+        "h": 30
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "The Puckarb is the basic and most common enemy in Bugs N' Guns.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 769,
+        "y": 7246,
+        "w": 820,
+        "h": 90
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "It is a short-range ground enemy with low health that typically appears in groups. One of the most important characteristics of this enemy is its ability to climb, meaning it can be on walls as well as ceilings.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 769,
+        "y": 7336,
+        "w": 820,
+        "h": 60
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "This provides several advantages: first, they create many moments of surprise with ambushes from locations where players are not use to encountering enemies.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 769,
+        "y": 7396,
+        "w": 820,
+        "h": 60
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "At the same time, being always on a surface makes them perfect targets for using weapon combinations to quickly eliminate them.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 769,
+        "y": 7486,
+        "w": 820,
+        "h": 35
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "This enemy was relatively easy to design.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 769,
+        "y": 7521,
+        "w": 820,
+        "h": 105
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "It was clear that we needed a \"smasher\" type enemy, and given the foundational elements we had established for the game, we needed a \"Horde\" type enemy as well.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 769,
+        "y": 7626,
+        "w": 820,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "The climbing ability also came naturally, as the train sometimes travels along walls or ceilings, so we needed enemies that could pursue it.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 233,
+        "y": 7904,
+        "w": 979,
+        "h": 461
+      },
+      "type": "image",
+      "src": "https://static.wixstatic.com/media/1f3734_3d4e17e295a34ce58e6861025e4ae950~mv2.png/v1/fill/w_716,h_337,al_c,lg_1,q_85,enc_avif,quality_auto/1f3734_3d4e17e295a34ce58e6861025e4ae950~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/1f3734_3d4e17e295a34ce58e6861025e4ae950~mv2.png/v1/fill/w_716,h_337,al_c,lg_1,q_85,enc_avif,quality_auto/1f3734_3d4e17e295a34ce58e6861025e4ae950~mv2.png 1x, https://static.wixstatic.com/media/1f3734_3d4e17e295a34ce58e6861025e4ae950~mv2.png/v1/fill/w_716,h_337,al_c,lg_1,q_85,enc_avif,quality_auto/1f3734_3d4e17e295a34ce58e6861025e4ae950~mv2.png 2x",
+      "alt": "image.png",
+      "name": null,
+      "original": null,
+      "natural": {
+        "w": 716,
+        "h": 337
+      },
+      "background": false,
+      "link": null,
+      "hidden": false
+    }
+  ],
+  "cssBackgrounds": [],
+  "fonts": [
+    "Madefor-Text",
+    "cinzel",
+    "prompt",
+    "cormorantgaramond-semibold",
+    "noticia text"
+  ],
+  "allLinks": [
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+    "https://sable-sandalwood-dee.notion.site/PLAYER-CCC-2d1cab680b64497980cc05e238e354ce",
+    "https://sable-sandalwood-dee.notion.site/6b3e2cf0924a4829b68156f894e69264?v=b19f1f11e7794bb48de4bc0fd682faea",
+    "https://sable-sandalwood-dee.notion.site/PLAYER-CCC-2d1cab680b64497980cc05e238e354ce",
+    "https://sable-sandalwood-dee.notion.site/Jumping-cfb2f8fc3ba14e30a5f7f6579502dcd3",
+    "https://sable-sandalwood-dee.notion.site/Jumping-cfb2f8fc3ba14e30a5f7f6579502dcd3",
+    "https://sable-sandalwood-dee.notion.site/Blinkshot-8f6e5fa67ef440c29586d23cf079f8ac",
+    "https://sable-sandalwood-dee.notion.site/Blinkshot-8f6e5fa67ef440c29586d23cf079f8ac",
+    "https://sable-sandalwood-dee.notion.site/ELEMENTS-269e489d38f5446e8d27e38d62bc7960",
+    "https://sable-sandalwood-dee.notion.site/ELEMENTS-269e489d38f5446e8d27e38d62bc7960",
+    "https://sable-sandalwood-dee.notion.site/ELEMENTS-269e489d38f5446e8d27e38d62bc7960",
+    "https://sable-sandalwood-dee.notion.site/Fire-DPS-f383ada3dfc14f3b9b0ea630f5473523",
+    "https://sable-sandalwood-dee.notion.site/Fire-DPS-f383ada3dfc14f3b9b0ea630f5473523",
+    "https://sable-sandalwood-dee.notion.site/Spores-CC-f8ff913d5a1c4135b43f3abe776a79fe",
+    "https://sable-sandalwood-dee.notion.site/Spores-CC-f8ff913d5a1c4135b43f3abe776a79fe",
+    "https://sable-sandalwood-dee.notion.site/Water-Hydrogel-CC-c3debd33f909474ca500d1902eb90406",
+    "https://sable-sandalwood-dee.notion.site/Water-Hydrogel-CC-c3debd33f909474ca500d1902eb90406",
+    "https://sable-sandalwood-dee.notion.site/Electroplasm-DPS-e1e04b9cf72947e6a8c9ed9a67ea8f02",
+    "https://sable-sandalwood-dee.notion.site/Electroplasm-DPS-e1e04b9cf72947e6a8c9ed9a67ea8f02",
+    "https://sable-sandalwood-dee.notion.site/ENEMIES-2a75067c74544431abecd884cc34e9df",
+    "https://sable-sandalwood-dee.notion.site/ENEMIES-2a75067c74544431abecd884cc34e9df",
+    "https://sable-sandalwood-dee.notion.site/ENEMIES-2a75067c74544431abecd884cc34e9df",
+    "https://sable-sandalwood-dee.notion.site/Smasher-Mauricio-4e7735800a354204bb4f943fe9123832",
+    "https://sable-sandalwood-dee.notion.site/Smasher-Mauricio-4e7735800a354204bb4f943fe9123832",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1"
+  ],
+  "url": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+  "slug": "copia-de-game-design",
+  "networkMedia": [
+    "https://static.wixstatic.com/media/1f3734_3d4e17e295a34ce58e6861025e4ae950~mv2.png/v1/fill/w_716,h_337,al_c,lg_1,q_85,enc_avif,quality_auto/1f3734_3d4e17e295a34ce58e6861025e4ae950~mv2.png",
+    "https://static.wixstatic.com/shapes/11062b_0c3890f350ee4227a53c6e1298c6e9ae.svg"
+  ],
+  "pageDataMedia": [
+    "https://static.wixstatic.com/media/11062b_0c3890f350ee4227a53c6e1298c6e9ae.svg",
+    "https://static.wixstatic.com/media/1f3734_3d4e17e295a34ce58e6861025e4ae950~mv2.png"
+  ]
+}

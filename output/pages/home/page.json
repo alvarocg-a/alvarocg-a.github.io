@@ -1,0 +1,1253 @@
+{
+  "title": "Portfolio | AlvaroCG-A_Portfolio",
+  "lang": "es",
+  "meta": {
+    "description": null,
+    "ogTitle": "Portfolio |  alvarocg A",
+    "ogDescription": null,
+    "ogImage": null,
+    "keywords": null,
+    "robots": null
+  },
+  "favicon": "https://www.wix.com/favicon.ico",
+  "canonical": "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+  "pageBackground": "rgba(0, 0, 0, 0)",
+  "pageHeight": 3779,
+  "header": {
+    "text": "Álvaro Calvo García-Arias\nTechnical Game Designer\n\nBugs 'N' Guns\n\nPortfolio\n\nPersonal Projects\n\nContact",
+    "links": [
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Game Design",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Prototyping",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Tools N´Tech",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "LevelDesign",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "BlinkBall",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Portfolio",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Winx",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Macbeth",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Personal Projects",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Neon Red",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Super_Transform",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Burger Bros Circus",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Gea Of War",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Against The Clock",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Contact",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1",
+        "depth": 0,
+        "visible": true
+      }
+    ],
+    "images": []
+  },
+  "footer": {
+    "text": "Álvaro Calvo\nTechnical Designer\n\nBugs 'N' Guns\n\nPortfolio\n\nPersonal Projects\n\nContact",
+    "links": [
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Game Design",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Prototyping",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Tools N´Tech",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "LevelDesign",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "BlinkBall",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Portfolio",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Winx",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Macbeth",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Personal Projects",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Neon Red",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Super_Transform",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Burger Bros Circus",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Gea Of War",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Against The Clock",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Contact",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1",
+        "depth": 0,
+        "visible": true
+      }
+    ],
+    "images": []
+  },
+  "sections": [
+    {
+      "index": 0,
+      "id": "comp-lkmf1yz3",
+      "rect": {
+        "x": 0,
+        "y": 344,
+        "w": 1440,
+        "h": 311
+      },
+      "background": "rgb(30, 32, 37)"
+    },
+    {
+      "index": 1,
+      "id": "comp-lkmftmr8",
+      "rect": {
+        "x": 0,
+        "y": 655,
+        "w": 1440,
+        "h": 682
+      },
+      "background": "rgb(30, 32, 37)"
+    },
+    {
+      "index": 2,
+      "id": "comp-lsvsd26v",
+      "rect": {
+        "x": 0,
+        "y": 1337,
+        "w": 1440,
+        "h": 678
+      },
+      "background": "rgb(30, 32, 37)"
+    },
+    {
+      "index": 3,
+      "id": "comp-mj796pwq",
+      "rect": {
+        "x": 0,
+        "y": 2015,
+        "w": 1440,
+        "h": 650
+      },
+      "background": "rgb(30, 32, 37)"
+    },
+    {
+      "index": 4,
+      "id": "comp-mj796rct",
+      "rect": {
+        "x": 0,
+        "y": 2665,
+        "w": 1440,
+        "h": 895
+      },
+      "background": "rgb(30, 32, 37)"
+    }
+  ],
+  "blocks": [
+    {
+      "section": 0,
+      "rect": {
+        "x": 230,
+        "y": 354,
+        "w": 980,
+        "h": 252
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Hi, I'm Álvaro Calvo, a technical designer with over three years of experience working with Unreal Engine 5 and Unity.\nIn those three years, I've designed from scratch, prototyped, and iterated on everything from movement and combat mechanics to enemies and AI.\nI also create in-engine tools to streamline the workflow for my fellow designers and myself. I also create levels, combat arenas and puzzles as well as design and implement world dynamics, systems and interactions.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "justify",
+        "lineHeight": "36px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 449,
+        "y": 713,
+        "w": 410,
+        "h": 30
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "Game design Skills",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 586,
+        "y": 793,
+        "w": 378,
+        "h": 40
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Mechanics and gameplay design",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "39.6px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 586,
+        "y": 833,
+        "w": 378,
+        "h": 40
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Combat system, balance and programming",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "39.6px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 586,
+        "y": 872,
+        "w": 378,
+        "h": 40
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Game prototyping",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "39.6px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 586,
+        "y": 912,
+        "w": 378,
+        "h": 40
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Level design and enemy encounters",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "39.6px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 586,
+        "y": 951,
+        "w": 378,
+        "h": 40
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Enemies design",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "39.6px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 586,
+        "y": 991,
+        "w": 378,
+        "h": 40
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Unreal Engine",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "39.6px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 586,
+        "y": 1031,
+        "w": 378,
+        "h": 40
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Unity",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "39.6px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 828,
+        "y": 713,
+        "w": 410,
+        "h": 30
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "Soft Skills",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 1006,
+        "y": 793,
+        "w": 378,
+        "h": 40
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Fast learner",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "39.6px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 1006,
+        "y": 833,
+        "w": 378,
+        "h": 40
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Proactive",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "39.6px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 1006,
+        "y": 872,
+        "w": 378,
+        "h": 40
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Team working",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "39.6px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 1006,
+        "y": 912,
+        "w": 378,
+        "h": 40
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Good comunication",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "39.6px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 1006,
+        "y": 951,
+        "w": 378,
+        "h": 40
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Adaptability",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "39.6px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 1006,
+        "y": 991,
+        "w": 378,
+        "h": 40
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Documentation",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "39.6px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 569,
+        "y": 1241,
+        "w": 337,
+        "h": 72
+      },
+      "type": "heading",
+      "tag": "h1",
+      "level": 1,
+      "text": "My Games",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "60px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "72px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 42,
+        "y": 1523,
+        "w": 257,
+        "h": 76
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "The Magic is Back",
+      "links": [
+        {
+          "text": "The Magic is Back",
+          "href": "https://www.youtube.com/watch?v=-eAMfL_nJto"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "50px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "67px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 42,
+        "y": 1476,
+        "w": 274,
+        "h": 76
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "Winx Club:",
+      "links": [
+        {
+          "text": "Winx Club:",
+          "href": "https://www.youtube.com/watch?v=-eAMfL_nJto"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "50px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "67px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 324,
+        "y": 1458,
+        "w": 73,
+        "h": 111
+      },
+      "type": "image",
+      "src": "https://static.wixstatic.com/media/1f3734_e2feabddbf024034be5cb2dd8a7343bc~mv2.png/v1/fill/w_73,h_111,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_e2feabddbf024034be5cb2dd8a7343bc~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/1f3734_e2feabddbf024034be5cb2dd8a7343bc~mv2.png/v1/fill/w_73,h_111,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_e2feabddbf024034be5cb2dd8a7343bc~mv2.png 1x, https://static.wixstatic.com/media/1f3734_e2feabddbf024034be5cb2dd8a7343bc~mv2.png/v1/fill/w_146,h_222,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_e2feabddbf024034be5cb2dd8a7343bc~mv2.png 2x",
+      "alt": "image.png",
+      "name": null,
+      "original": null,
+      "natural": {
+        "w": 73,
+        "h": 111
+      },
+      "background": false,
+      "link": "https://www.ironfrogstudios.com/",
+      "hidden": false
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 41,
+        "y": 1614,
+        "w": 638,
+        "h": 234
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Winx Club: The Magic Is Back aims to deliver an experience that feels both familiar and entirely new.\nPlayers will explore some of the most beloved and iconic locations from the Winx universe.\nPlayers can freely switch between all six fairies, each with their own distinctive magical abilities, to overcome enemies and puzzles in creative new ways.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "33.4px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 41,
+        "y": 1875,
+        "w": 193,
+        "h": 51
+      },
+      "type": "button",
+      "text": "More Info",
+      "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 0)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 648,
+        "y": 1458,
+        "w": 874,
+        "h": 494
+      },
+      "type": "embed",
+      "src": "https://www.youtube.com/embed/-eAMfL_nJto?autoplay=0&mute=0&controls=1&loop=1&origin=https%3A%2F%2Fcalvoalvaro12.wixsite.com&playsinline=1&playlist=-eAMfL_nJto&enablejsapi=1&widgetid=1&forigin=https%3A%2F%2Fcalvoalvaro12.wixsite.com%2F-lvarocg-a&aoriginsup=1&vf=1",
+      "title": "Winx Club: The Magic is Back - Announce Trailer | PS5 Game"
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 41,
+        "y": 2160,
+        "w": 240,
+        "h": 67
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "Macbeth:",
+      "links": [
+        {
+          "text": "Macbeth:",
+          "href": "https://youtu.be/5_zhbJUPkPs"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "50px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "67px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 43,
+        "y": 2219,
+        "w": 193,
+        "h": 34
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "Seeds of fate",
+      "links": [
+        {
+          "text": "Seeds of fate",
+          "href": "https://youtu.be/5_zhbJUPkPs"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "25px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "33.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 298,
+        "y": 2160,
+        "w": 221,
+        "h": 93
+      },
+      "type": "image",
+      "src": "https://static.wixstatic.com/media/1f3734_3a31610596cd4a799e7a68f5a6d0ef3d~mv2.png/v1/fill/w_221,h_93,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_3a31610596cd4a799e7a68f5a6d0ef3d~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/1f3734_3a31610596cd4a799e7a68f5a6d0ef3d~mv2.png/v1/fill/w_221,h_93,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_3a31610596cd4a799e7a68f5a6d0ef3d~mv2.png 1x, https://static.wixstatic.com/media/1f3734_3a31610596cd4a799e7a68f5a6d0ef3d~mv2.png/v1/fill/w_442,h_186,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_3a31610596cd4a799e7a68f5a6d0ef3d~mv2.png 2x",
+      "alt": "image.png",
+      "name": null,
+      "original": null,
+      "natural": {
+        "w": 221,
+        "h": 93
+      },
+      "background": false,
+      "link": "https://divertifica.es/",
+      "hidden": false
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 41,
+        "y": 2279,
+        "w": 638,
+        "h": 200
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Macbeth: Seeds of Fate is an 3D adventure in which players will need to explore the environment to solve puzzles to unravel the story of Macbeth.\nIn this game, you will incarnate Shakespeare, who, with the help of some supernatural powers, must travel between two realities to discover and write the incredible play Macbeth.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "33.4px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 41,
+        "y": 2518,
+        "w": 193,
+        "h": 51
+      },
+      "type": "button",
+      "text": "More Info",
+      "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 0)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 643,
+        "y": 2125,
+        "w": 874,
+        "h": 494
+      },
+      "type": "embed",
+      "src": "https://www.youtube.com/embed/5_zhbJUPkPs?autoplay=0&mute=0&controls=1&loop=1&origin=https%3A%2F%2Fcalvoalvaro12.wixsite.com&playsinline=1&playlist=5_zhbJUPkPs&enablejsapi=1&widgetid=3&forigin=https%3A%2F%2Fcalvoalvaro12.wixsite.com%2F-lvarocg-a&aoriginsup=1&vf=1",
+      "title": "divertifica gameplay macbeth seeds of fate"
+    },
+    {
+      "section": 4,
+      "rect": {
+        "x": 41,
+        "y": 2810,
+        "w": 570,
+        "h": 67
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "BUGS 'N' GUNS",
+      "links": [
+        {
+          "text": "BUGS 'N' GUNS",
+          "href": "https://store.steampowered.com/app/2648130/Bugs_N_Guns/"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "50px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "67px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 4,
+      "rect": {
+        "x": 415,
+        "y": 2814,
+        "w": 65,
+        "h": 59
+      },
+      "type": "image",
+      "src": "https://static.wixstatic.com/media/1f3734_170c1d31d7af422992d63d0e5f7f61b5~mv2.png/v1/fill/w_65,h_59,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_170c1d31d7af422992d63d0e5f7f61b5~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/1f3734_170c1d31d7af422992d63d0e5f7f61b5~mv2.png/v1/fill/w_65,h_59,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_170c1d31d7af422992d63d0e5f7f61b5~mv2.png 1x, https://static.wixstatic.com/media/1f3734_170c1d31d7af422992d63d0e5f7f61b5~mv2.png/v1/fill/w_130,h_118,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_170c1d31d7af422992d63d0e5f7f61b5~mv2.png 2x",
+      "alt": "Steam_Logo.png",
+      "name": null,
+      "original": null,
+      "natural": {
+        "w": 65,
+        "h": 59
+      },
+      "background": false,
+      "link": "https://store.steampowered.com/app/2648130/Bugs_N_Guns/",
+      "hidden": false
+    },
+    {
+      "section": 4,
+      "rect": {
+        "x": 41,
+        "y": 2928,
+        "w": 638,
+        "h": 134
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Is a 3rd-person co-op shooter where players take on the role of interplanetary garbage disposers. Their task is to escort a train through a hostile alien environment using elemental weapons and combinations to fight against a mysterious race of insects.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "33.4px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 4,
+      "rect": {
+        "x": 42,
+        "y": 3130,
+        "w": 193,
+        "h": 51
+      },
+      "type": "button",
+      "text": "More Info",
+      "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 0)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 4,
+      "rect": {
+        "x": 639,
+        "y": 2777,
+        "w": 882,
+        "h": 494
+      },
+      "type": "embed",
+      "src": "https://www.youtube.com/embed/Yzam-WWlWpI?autoplay=0&mute=0&controls=1&loop=1&origin=https%3A%2F%2Fcalvoalvaro12.wixsite.com&playsinline=1&playlist=Yzam-WWlWpI&enablejsapi=1&widgetid=5&forigin=https%3A%2F%2Fcalvoalvaro12.wixsite.com%2F-lvarocg-a&aoriginsup=1&vf=1",
+      "title": "Bugs n' Guns Trailer"
+    },
+    {
+      "section": 4,
+      "rect": {
+        "x": 1414,
+        "y": 3154,
+        "w": 61,
+        "h": 46
+      },
+      "type": "heading",
+      "tag": "h2",
+      "level": 2,
+      "text": "BIG",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "30px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 4,
+      "rect": {
+        "x": 1399,
+        "y": 3195,
+        "w": 91,
+        "h": 22
+      },
+      "type": "heading",
+      "tag": "h2",
+      "level": 2,
+      "text": "Best Student\nGame",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "7px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 4,
+      "rect": {
+        "x": 1371,
+        "y": 3120,
+        "w": 146,
+        "h": 146
+      },
+      "type": "image",
+      "src": "https://static.wixstatic.com/media/80e7fad4bf744597af67178c0c76544c.png/v1/fill/w_146,h_146,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/80e7fad4bf744597af67178c0c76544c.png",
+      "srcset": "https://static.wixstatic.com/media/80e7fad4bf744597af67178c0c76544c.png/v1/fill/w_146,h_146,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/80e7fad4bf744597af67178c0c76544c.png 1x, https://static.wixstatic.com/media/80e7fad4bf744597af67178c0c76544c.png/v1/fill/w_280,h_280,al_c,lg_1,q_85,enc_avif,quality_auto/80e7fad4bf744597af67178c0c76544c.png 2x",
+      "alt": "",
+      "name": null,
+      "original": null,
+      "natural": {
+        "w": 146,
+        "h": 146
+      },
+      "background": false,
+      "link": "https://www.bilbaogamesconference.com/premios-titanium-2023/",
+      "hidden": false
+    }
+  ],
+  "cssBackgrounds": [],
+  "fonts": [
+    "Madefor-Text",
+    "avenir-lt-w01_35-light1475496",
+    "cinzel",
+    "prompt",
+    "playfair display"
+  ],
+  "allLinks": [
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1",
+    "https://www.youtube.com/watch?v=-eAMfL_nJto",
+    "https://www.youtube.com/watch?v=-eAMfL_nJto",
+    "https://www.ironfrogstudios.com/",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+    "https://youtu.be/5_zhbJUPkPs",
+    "https://youtu.be/5_zhbJUPkPs",
+    "https://divertifica.es/",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+    "https://store.steampowered.com/app/2648130/Bugs_N_Guns/",
+    "https://store.steampowered.com/app/2648130/Bugs_N_Guns/",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+    "https://www.bilbaogamesconference.com/premios-titanium-2023/",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1"
+  ],
+  "url": "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+  "slug": "home",
+  "networkMedia": [
+    "https://static.wixstatic.com/media/1f3734_170c1d31d7af422992d63d0e5f7f61b5~mv2.png/v1/fill/w_65,h_59,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_170c1d31d7af422992d63d0e5f7f61b5~mv2.png",
+    "https://static.wixstatic.com/media/1f3734_3a31610596cd4a799e7a68f5a6d0ef3d~mv2.png/v1/fill/w_221,h_93,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_3a31610596cd4a799e7a68f5a6d0ef3d~mv2.png",
+    "https://static.wixstatic.com/media/1f3734_e2feabddbf024034be5cb2dd8a7343bc~mv2.png/v1/fill/w_73,h_111,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_e2feabddbf024034be5cb2dd8a7343bc~mv2.png",
+    "https://static.wixstatic.com/media/80e7fad4bf744597af67178c0c76544c.png/v1/fill/w_146,h_146,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/80e7fad4bf744597af67178c0c76544c.png"
+  ],
+  "pageDataMedia": [
+    "https://static.wixstatic.com/media/1f3734_170c1d31d7af422992d63d0e5f7f61b5~mv2.png",
+    "https://static.wixstatic.com/media/1f3734_3a31610596cd4a799e7a68f5a6d0ef3d~mv2.png",
+    "https://static.wixstatic.com/media/1f3734_e2feabddbf024034be5cb2dd8a7343bc~mv2.png"
+  ]
+}

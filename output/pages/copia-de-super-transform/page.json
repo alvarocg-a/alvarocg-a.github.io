@@ -1,0 +1,1048 @@
+{
+  "title": "Burger Bros Circus | AlvaroCG-A_Portfolio",
+  "lang": "es",
+  "meta": {
+    "description": null,
+    "ogTitle": "Burger Bros Circus | AlvaroCG-A_Portfolio",
+    "ogDescription": null,
+    "ogImage": null,
+    "keywords": null,
+    "robots": null
+  },
+  "favicon": "https://www.wix.com/favicon.ico",
+  "canonical": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+  "pageBackground": "rgba(0, 0, 0, 0)",
+  "pageHeight": 2168,
+  "header": {
+    "text": "Álvaro Calvo García-Arias\nTechnical Game Designer\n\nBugs 'N' Guns\n\nPortfolio\n\nPersonal Projects\n\nContact",
+    "links": [
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Game Design",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Prototyping",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Tools N´Tech",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "LevelDesign",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "BlinkBall",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Portfolio",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Winx",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Macbeth",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Personal Projects",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Neon Red",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Super_Transform",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Burger Bros Circus",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Gea Of War",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Against The Clock",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Contact",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1",
+        "depth": 0,
+        "visible": true
+      }
+    ],
+    "images": []
+  },
+  "footer": {
+    "text": "Álvaro Calvo\nTechnical Designer\n\nBugs 'N' Guns\n\nPortfolio\n\nPersonal Projects\n\nContact",
+    "links": [
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Game Design",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Prototyping",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Tools N´Tech",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "LevelDesign",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "BlinkBall",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Portfolio",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Winx",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Macbeth",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Personal Projects",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Neon Red",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Super_Transform",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Burger Bros Circus",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Gea Of War",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Against The Clock",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Contact",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1",
+        "depth": 0,
+        "visible": true
+      }
+    ],
+    "images": []
+  },
+  "sections": [
+    {
+      "index": 0,
+      "id": "comp-ls90oxqj",
+      "rect": {
+        "x": 0,
+        "y": 344,
+        "w": 1440,
+        "h": 546
+      },
+      "background": "rgb(30, 32, 37)"
+    },
+    {
+      "index": 1,
+      "id": "comp-ls90oxr0",
+      "rect": {
+        "x": 0,
+        "y": 890,
+        "w": 1440,
+        "h": 1059
+      },
+      "background": "rgb(30, 32, 37)"
+    }
+  ],
+  "blocks": [
+    {
+      "section": 0,
+      "rect": {
+        "x": -51,
+        "y": 344,
+        "w": 923,
+        "h": 522
+      },
+      "type": "embed",
+      "src": "https://www.youtube.com/embed/CI8AUE0d21w?autoplay=1&mute=1&controls=1&loop=1&origin=https%3A%2F%2Fcalvoalvaro12.wixsite.com&playsinline=1&playlist=CI8AUE0d21w&enablejsapi=1&widgetid=1&forigin=https%3A%2F%2Fcalvoalvaro12.wixsite.com%2F-lvarocg-a%2Fcopia-de-super-transform&aoriginsup=1&vf=4",
+      "title": "Burguer Bros Circus - Launch Trailer"
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 968,
+        "y": 384,
+        "w": 497,
+        "h": 67
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "Burger Bros Circus",
+      "links": [
+        {
+          "text": "Burger Bros Circus",
+          "href": "https://markelhxc.itch.io/burguer-bros-circus"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "50px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "67px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 1441,
+        "y": 384,
+        "w": 68,
+        "h": 68
+      },
+      "type": "image",
+      "src": "https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_68,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_68,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png 1x, https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_136,h_136,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png 2x",
+      "alt": "",
+      "name": null,
+      "original": null,
+      "natural": {
+        "w": 68,
+        "h": 68
+      },
+      "background": false,
+      "link": "https://markelhxc.itch.io/burguer-bros-circus",
+      "hidden": false
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 967,
+        "y": 479,
+        "w": 638,
+        "h": 100
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Burger Bros Circus is a 1 vs 1 multiplayer, dodgeball-style game where two gymbros must throw junk food at each other in a circus setting to make the audience laugh.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "33.4px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 967,
+        "y": 646,
+        "w": 638,
+        "h": 100
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "The game is part of the Global Game Jam 2024 with the theme 'Make me laugh.' It's a hilarious and chaotic two-player experience.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "33.4px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 967,
+        "y": 813,
+        "w": 638,
+        "h": 67
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "I worked as Game Designer and Programmer on this game in the Global Game Jam 2024",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "33.4px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": -51,
+        "y": 940,
+        "w": 600,
+        "h": 72
+      },
+      "type": "heading",
+      "tag": "h1",
+      "level": 1,
+      "text": "My contributions",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "60px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "72px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": -19,
+        "y": 1073,
+        "w": 706,
+        "h": 63
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Designed and Programming multiple mechanics and systems, including, among others:",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 14,
+        "y": 1136,
+        "w": 673,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "The 3C:",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 46,
+        "y": 1168,
+        "w": 641,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "The camera.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 46,
+        "y": 1199,
+        "w": 641,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "The Contrlol",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 46,
+        "y": 1231,
+        "w": 641,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "The character",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 14,
+        "y": 1262,
+        "w": 673,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Shooting mechanics:",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 46,
+        "y": 1294,
+        "w": 641,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Design, programming and implementation of the two types of shooting.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 46,
+        "y": 1325,
+        "w": 641,
+        "h": 63
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Design, programming and implementation of the projectile trajectory preview.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 46,
+        "y": 1388,
+        "w": 641,
+        "h": 63
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Design, programming and implementation of the diferent types of ammo and level obstacles.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 14,
+        "y": 1451,
+        "w": 673,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "User interface: Programming and implementation of the UI.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": -19,
+        "y": 1514,
+        "w": 706,
+        "h": 63
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Support the rest of the design and art team with the use of unreal engine, github and others.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 909,
+        "y": 940,
+        "w": 600,
+        "h": 72
+      },
+      "type": "heading",
+      "tag": "h1",
+      "level": 1,
+      "text": "Project Details",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "60px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "72px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 936,
+        "y": 1073,
+        "w": 728,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Studio: Blinkshot",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 936,
+        "y": 1105,
+        "w": 728,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Genre: Twin-Stick-Shooter",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 936,
+        "y": 1136,
+        "w": 728,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Platform: PC",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 936,
+        "y": 1168,
+        "w": 728,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Duration:",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 969,
+        "y": 1199,
+        "w": 695,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "24/January/2024 - 28/January/2024",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 936,
+        "y": 1231,
+        "w": 728,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Team Size:",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 969,
+        "y": 1262,
+        "w": 695,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "4 Game Designers",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 969,
+        "y": 1294,
+        "w": 695,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "2 Artist",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 969,
+        "y": 1325,
+        "w": 695,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "1 Programmer",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 936,
+        "y": 1357,
+        "w": 728,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Engine & Tools used: Unreal Engine 5.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 904,
+        "y": 1448,
+        "w": 328,
+        "h": 328
+      },
+      "type": "image",
+      "src": "https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_328,h_328,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_328,h_328,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png 1x, https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_614,h_614,al_c,lg_1,q_90,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png 2x",
+      "alt": "",
+      "name": null,
+      "original": null,
+      "natural": {
+        "w": 328,
+        "h": 328
+      },
+      "background": false,
+      "link": "https://markelhxc.itch.io/burguer-bros-circus",
+      "hidden": false
+    }
+  ],
+  "cssBackgrounds": [],
+  "fonts": [
+    "Madefor-Text",
+    "cinzel",
+    "prompt"
+  ],
+  "allLinks": [
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1",
+    "https://markelhxc.itch.io/burguer-bros-circus",
+    "https://markelhxc.itch.io/burguer-bros-circus",
+    "https://markelhxc.itch.io/burguer-bros-circus",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1"
+  ],
+  "url": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+  "slug": "copia-de-super-transform",
+  "networkMedia": [
+    "https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_328,h_328,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png",
+    "https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_68,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png"
+  ],
+  "pageDataMedia": [
+    "https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png"
+  ]
+}

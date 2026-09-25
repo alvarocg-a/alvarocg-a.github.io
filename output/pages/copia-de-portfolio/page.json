@@ -1,0 +1,942 @@
+{
+  "title": "Personal Projects | AlvaroCG-A_Portfolio",
+  "lang": "es",
+  "meta": {
+    "description": null,
+    "ogTitle": "Personal Projects | AlvaroCG-A_Portfolio",
+    "ogDescription": null,
+    "ogImage": null,
+    "keywords": null,
+    "robots": null
+  },
+  "favicon": "https://www.wix.com/favicon.ico",
+  "canonical": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+  "pageBackground": "rgba(0, 0, 0, 0)",
+  "pageHeight": 3823,
+  "header": {
+    "text": "Álvaro Calvo García-Arias\nTechnical Game Designer\n\nBugs 'N' Guns\n\nPortfolio\n\nPersonal Projects\n\nContact",
+    "links": [
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Game Design",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Prototyping",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Tools N´Tech",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "LevelDesign",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "BlinkBall",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Portfolio",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Winx",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Macbeth",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Personal Projects",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Neon Red",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Super_Transform",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Burger Bros Circus",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Gea Of War",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Against The Clock",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Contact",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1",
+        "depth": 0,
+        "visible": true
+      }
+    ],
+    "images": []
+  },
+  "footer": {
+    "text": "Álvaro Calvo\nTechnical Designer\n\nBugs 'N' Guns\n\nPortfolio\n\nPersonal Projects\n\nContact",
+    "links": [
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Game Design",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Prototyping",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Tools N´Tech",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "LevelDesign",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "BlinkBall",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Portfolio",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Winx",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Macbeth",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Personal Projects",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Neon Red",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Super_Transform",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Burger Bros Circus",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Gea Of War",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Against The Clock",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Contact",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1",
+        "depth": 0,
+        "visible": true
+      }
+    ],
+    "images": []
+  },
+  "sections": [
+    {
+      "index": 0,
+      "id": "comp-mj792uex2",
+      "rect": {
+        "x": 0,
+        "y": 344,
+        "w": 1440,
+        "h": 644
+      },
+      "background": "rgb(30, 32, 37)"
+    },
+    {
+      "index": 1,
+      "id": "comp-mj792uf63",
+      "rect": {
+        "x": 0,
+        "y": 988,
+        "w": 1440,
+        "h": 644
+      },
+      "background": "rgb(30, 32, 37)"
+    },
+    {
+      "index": 2,
+      "id": "comp-mj792ufe4",
+      "rect": {
+        "x": 0,
+        "y": 1632,
+        "w": 1440,
+        "h": 644
+      },
+      "background": "rgb(30, 32, 37)"
+    },
+    {
+      "index": 3,
+      "id": "comp-mj792ufm1",
+      "rect": {
+        "x": 0,
+        "y": 2276,
+        "w": 1440,
+        "h": 644
+      },
+      "background": "rgb(30, 32, 37)"
+    },
+    {
+      "index": 4,
+      "id": "comp-mj792ufu4",
+      "rect": {
+        "x": 0,
+        "y": 2920,
+        "w": 1440,
+        "h": 684
+      },
+      "background": "rgb(30, 32, 37)"
+    }
+  ],
+  "blocks": [
+    {
+      "section": 0,
+      "rect": {
+        "x": 41,
+        "y": 489,
+        "w": 570,
+        "h": 67
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "Neon Red",
+      "links": [
+        {
+          "text": "Neon Red",
+          "href": "https://alvarocga.itch.io/neonred"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "50px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "67px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 296,
+        "y": 493,
+        "w": 59,
+        "h": 59
+      },
+      "type": "image",
+      "src": "https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_59,h_59,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_59,h_59,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png 1x, https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_118,h_118,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png 2x",
+      "alt": "",
+      "name": null,
+      "original": null,
+      "natural": {
+        "w": 59,
+        "h": 59
+      },
+      "background": false,
+      "link": "https://alvarocga.itch.io/neonred",
+      "hidden": false
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 41,
+        "y": 604,
+        "w": 638,
+        "h": 200
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Neon Red is a platformer for speedrunners. By utilizing the red line connecting your arm and hand, you'll need to use momentum and swings to reach the goal as quickly as possible. Defeat enemies and strive to improve your times.\n\nAre you ready to cross the red line and enter Neon Red?",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "33.4px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 42,
+        "y": 829,
+        "w": 193,
+        "h": 51
+      },
+      "type": "button",
+      "text": "More Info",
+      "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 0)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 574,
+        "y": 411,
+        "w": 1015,
+        "h": 574
+      },
+      "type": "embed",
+      "src": "https://www.youtube.com/embed/NoE4qOLrqMI?autoplay=0&mute=0&controls=1&loop=1&origin=https%3A%2F%2Fcalvoalvaro12.wixsite.com&playsinline=1&playlist=NoE4qOLrqMI&enablejsapi=1&widgetid=1&forigin=https%3A%2F%2Fcalvoalvaro12.wixsite.com%2F-lvarocg-a%2Fcopia-de-portfolio&aoriginsup=1&vf=2",
+      "title": "Neon Red  - Trailer"
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 43,
+        "y": 1095,
+        "w": 406,
+        "h": 67
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "Super_Transform",
+      "links": [
+        {
+          "text": "Super_Transform",
+          "href": "https://alvarocga.itch.io/super-transform"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "50px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "67px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 469,
+        "y": 1099,
+        "w": 59,
+        "h": 59
+      },
+      "type": "image",
+      "src": "https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_59,h_59,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_59,h_59,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png 1x, https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_118,h_118,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png 2x",
+      "alt": "",
+      "name": null,
+      "original": null,
+      "natural": {
+        "w": 59,
+        "h": 59
+      },
+      "background": false,
+      "link": "https://alvarocga.itch.io/super-transform",
+      "hidden": false
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 42,
+        "y": 1190,
+        "w": 638,
+        "h": 200
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Super transform is a first person puzzle videogame based on transform different objects to go trought the rooftops.\n\nWe wil embody a interdimensional guard that has the mission to save Madrid in a fractured reality in which Madrid has been flooded and is under the vengeful attacks of the squids.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "33.4px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 42,
+        "y": 1473,
+        "w": 193,
+        "h": 51
+      },
+      "type": "button",
+      "text": "More Info",
+      "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 0)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 574,
+        "y": 1055,
+        "w": 1015,
+        "h": 574
+      },
+      "type": "embed",
+      "src": "https://www.youtube.com/embed/pPfRK8eXA9U?autoplay=0&mute=0&controls=1&loop=1&origin=https%3A%2F%2Fcalvoalvaro12.wixsite.com&playsinline=1&playlist=pPfRK8eXA9U&enablejsapi=1&widgetid=3&forigin=https%3A%2F%2Fcalvoalvaro12.wixsite.com%2F-lvarocg-a%2Fcopia-de-portfolio&aoriginsup=1&vf=3",
+      "title": "Super Transform  - Launch Trailer"
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 44,
+        "y": 1727,
+        "w": 497,
+        "h": 67
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "Burger Bros Circus",
+      "links": [
+        {
+          "text": "Burger Bros Circus",
+          "href": "https://markelhxc.itch.io/burguer-bros-circus"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "50px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "67px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 522,
+        "y": 1731,
+        "w": 59,
+        "h": 59
+      },
+      "type": "image",
+      "src": "https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_59,h_59,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_59,h_59,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png 1x, https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_118,h_118,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png 2x",
+      "alt": "",
+      "name": null,
+      "original": null,
+      "natural": {
+        "w": 59,
+        "h": 59
+      },
+      "background": false,
+      "link": "https://markelhxc.itch.io/burguer-bros-circus",
+      "hidden": false
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 43,
+        "y": 1822,
+        "w": 638,
+        "h": 100
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Burger Bros Circus is a 1 vs 1 multiplayer, dodgeball-style game where two gymbros must throw junk food at each other in a circus setting to make the audience laugh.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "33.4px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 43,
+        "y": 1989,
+        "w": 638,
+        "h": 100
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "The game is part of the Global Game Jam 2024 with the theme 'Make me laugh.' It's a hilarious and chaotic two-player experience.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "33.4px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 42,
+        "y": 2117,
+        "w": 193,
+        "h": 51
+      },
+      "type": "button",
+      "text": "More Info",
+      "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 0)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 575,
+        "y": 1699,
+        "w": 1015,
+        "h": 574
+      },
+      "type": "embed",
+      "src": "https://www.youtube.com/embed/CI8AUE0d21w?autoplay=0&mute=0&controls=1&loop=1&origin=https%3A%2F%2Fcalvoalvaro12.wixsite.com&playsinline=1&playlist=CI8AUE0d21w&enablejsapi=1&widgetid=5&forigin=https%3A%2F%2Fcalvoalvaro12.wixsite.com%2F-lvarocg-a%2Fcopia-de-portfolio&aoriginsup=1&vf=4",
+      "title": "Burguer Bros Circus - Launch Trailer"
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 43,
+        "y": 2383,
+        "w": 406,
+        "h": 67
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "Gea Of War",
+      "links": [
+        {
+          "text": "Gea Of War",
+          "href": "https://dcrespo3d.github.io/GGJ2023/build_web/gea_of_war.html"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "50px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "67px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 349,
+        "y": 2387,
+        "w": 59,
+        "h": 59
+      },
+      "type": "image",
+      "src": "https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_59,h_59,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_59,h_59,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png 1x, https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_118,h_118,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png 2x",
+      "alt": "",
+      "name": null,
+      "original": null,
+      "natural": {
+        "w": 59,
+        "h": 59
+      },
+      "background": false,
+      "link": "https://dcrespo3d.github.io/GGJ2023/build_web/gea_of_war.html",
+      "hidden": false
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 43,
+        "y": 2467,
+        "w": 754,
+        "h": 267
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Gea of War is a retro, arcade, 2D, pixel art, shooter videogame in which will control a demigoddess trying to keep the earth safe from contamination. For this, the player will have to manage both his life and that of the earth, channeling the energy of nature through the roots of his bow.\n\nIt is a frenetic videogame, in which through some simple mechanics, and the management of the resources that are presented, the player will have to survive as long as possible to try to achieve the best score.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "33.4px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 42,
+        "y": 2761,
+        "w": 193,
+        "h": 51
+      },
+      "type": "button",
+      "text": "More Info",
+      "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 0)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 574,
+        "y": 2343,
+        "w": 1015,
+        "h": 574
+      },
+      "type": "embed",
+      "src": "https://www.youtube.com/embed/SLGUOeP3ZOI?autoplay=0&mute=0&controls=1&loop=1&origin=https%3A%2F%2Fcalvoalvaro12.wixsite.com&playsinline=1&playlist=SLGUOeP3ZOI&enablejsapi=1&widgetid=7&forigin=https%3A%2F%2Fcalvoalvaro12.wixsite.com%2F-lvarocg-a%2Fcopia-de-portfolio&aoriginsup=1&vf=4",
+      "title": "GeaOfWar Trailer"
+    },
+    {
+      "section": 4,
+      "rect": {
+        "x": 42,
+        "y": 3057,
+        "w": 468,
+        "h": 67
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "Against The Clock",
+      "links": [
+        {
+          "text": "Against The Clock",
+          "href": "https://alvarocga.itch.io/against-the-clokc"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "50px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "67px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 4,
+      "rect": {
+        "x": 509,
+        "y": 3061,
+        "w": 59,
+        "h": 59
+      },
+      "type": "image",
+      "src": "https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_59,h_59,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_59,h_59,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png 1x, https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_118,h_118,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png 2x",
+      "alt": "",
+      "name": null,
+      "original": null,
+      "natural": {
+        "w": 59,
+        "h": 59
+      },
+      "background": false,
+      "link": "https://alvarocga.itch.io/against-the-clokc",
+      "hidden": false
+    },
+    {
+      "section": 4,
+      "rect": {
+        "x": 43,
+        "y": 3171,
+        "w": 754,
+        "h": 134
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "Against the clock is a simple videogame where you have to colect all the hammers on the map and go through a portal before the clock tick 00:00\n\nwas a solo development for BSc Game Design and Development degree.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "33.4px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 4,
+      "rect": {
+        "x": 42,
+        "y": 3405,
+        "w": 193,
+        "h": 51
+      },
+      "type": "button",
+      "text": "More Info",
+      "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 0)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 4,
+      "rect": {
+        "x": 574,
+        "y": 2987,
+        "w": 1015,
+        "h": 574
+      },
+      "type": "embed",
+      "src": "https://www.youtube.com/embed/EYnCGiVuaXQ?autoplay=0&mute=0&controls=1&loop=1&origin=https%3A%2F%2Fcalvoalvaro12.wixsite.com&playsinline=1&playlist=EYnCGiVuaXQ&enablejsapi=1&widgetid=9&forigin=https%3A%2F%2Fcalvoalvaro12.wixsite.com%2F-lvarocg-a%2Fcopia-de-portfolio&aoriginsup=1&vf=1",
+      "title": "Against The Clock"
+    }
+  ],
+  "cssBackgrounds": [],
+  "fonts": [
+    "Madefor-Text",
+    "avenir-lt-w01_35-light1475496",
+    "cinzel",
+    "prompt"
+  ],
+  "allLinks": [
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1",
+    "https://alvarocga.itch.io/neonred",
+    "https://alvarocga.itch.io/neonred",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+    "https://alvarocga.itch.io/super-transform",
+    "https://alvarocga.itch.io/super-transform",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+    "https://markelhxc.itch.io/burguer-bros-circus",
+    "https://markelhxc.itch.io/burguer-bros-circus",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+    "https://dcrespo3d.github.io/GGJ2023/build_web/gea_of_war.html",
+    "https://dcrespo3d.github.io/GGJ2023/build_web/gea_of_war.html",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+    "https://alvarocga.itch.io/against-the-clokc",
+    "https://alvarocga.itch.io/against-the-clokc",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1"
+  ],
+  "url": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+  "slug": "copia-de-portfolio",
+  "networkMedia": [
+    "https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_59,h_59,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png"
+  ],
+  "pageDataMedia": [
+    "https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png"
+  ]
+}

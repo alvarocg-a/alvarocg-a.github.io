@@ -1,0 +1,1058 @@
+{
+  "title": "Game Design | AlvaroCG-A_Portfolio",
+  "lang": "es",
+  "meta": {
+    "description": null,
+    "ogTitle": "Game Design | AlvaroCG-A_Portfolio",
+    "ogDescription": null,
+    "ogImage": null,
+    "keywords": null,
+    "robots": null
+  },
+  "favicon": "https://www.wix.com/favicon.ico",
+  "canonical": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+  "pageBackground": "rgba(0, 0, 0, 0)",
+  "pageHeight": 4262,
+  "header": {
+    "text": "Álvaro Calvo García-Arias\nTechnical Game Designer\n\nBugs 'N' Guns\n\nPortfolio\n\nPersonal Projects\n\nContact",
+    "links": [
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Game Design",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Prototyping",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Tools N´Tech",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "LevelDesign",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "BlinkBall",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Portfolio",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Winx",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Macbeth",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Personal Projects",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Neon Red",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Super_Transform",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Burger Bros Circus",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Gea Of War",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Against The Clock",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Contact",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1",
+        "depth": 0,
+        "visible": true
+      }
+    ],
+    "images": []
+  },
+  "footer": {
+    "text": "Álvaro Calvo\nTechnical Designer\n\nBugs 'N' Guns\n\nPortfolio\n\nPersonal Projects\n\nContact",
+    "links": [
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Game Design",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Prototyping",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Tools N´Tech",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "LevelDesign",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "BlinkBall",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Portfolio",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Winx",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Macbeth",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Personal Projects",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Neon Red",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Super_Transform",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Burger Bros Circus",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Gea Of War",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Against The Clock",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Contact",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1",
+        "depth": 0,
+        "visible": true
+      }
+    ],
+    "images": []
+  },
+  "sections": [
+    {
+      "index": 0,
+      "id": "comp-lwi7nhvc6",
+      "rect": {
+        "x": 0,
+        "y": 344,
+        "w": 1440,
+        "h": 3699
+      },
+      "background": "rgb(30, 32, 37)"
+    }
+  ],
+  "blocks": [
+    {
+      "section": 0,
+      "rect": {
+        "x": 375,
+        "y": 393,
+        "w": 688,
+        "h": 72
+      },
+      "type": "heading",
+      "tag": "h1",
+      "level": 1,
+      "text": "Game Design",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "60px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "72px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": -37,
+        "y": 574,
+        "w": 711,
+        "h": 772
+      },
+      "type": "image",
+      "src": "https://static.wixstatic.com/media/1f3734_a1479b31052e4071bff5bf222d5adb4e~mv2.jpg/v1/fill/w_711,h_772,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/image_edited.jpg",
+      "srcset": "https://static.wixstatic.com/media/1f3734_a1479b31052e4071bff5bf222d5adb4e~mv2.jpg/v1/fill/w_711,h_772,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/image_edited.jpg 1x, https://static.wixstatic.com/media/1f3734_a1479b31052e4071bff5bf222d5adb4e~mv2.jpg/v1/fill/w_867,h_941,al_c,q_85,enc_avif,quality_auto/image_edited.jpg 2x",
+      "alt": "image_edited.jpg",
+      "name": null,
+      "original": null,
+      "natural": {
+        "w": 711,
+        "h": 772
+      },
+      "background": false,
+      "link": "https://2985fbec-fbea-42c8-b0ec-e741836772d0.filesusr.com/ugd/1f3734_db3252979e94479a8d3b44617b6f59b4.pdf",
+      "hidden": false
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 245,
+        "y": 1378,
+        "w": 146,
+        "h": 38
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "One Pager",
+      "links": [
+        {
+          "text": "One Pager",
+          "href": "https://2985fbec-fbea-42c8-b0ec-e741836772d0.filesusr.com/ugd/1f3734_db3252979e94479a8d3b44617b6f59b4.pdf"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "25px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 799,
+        "y": 569,
+        "w": 820,
+        "h": 304
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "As a designer, I have been deeply engaged in shaping the game concept from the start to the vertical slice.\nI have conceptualized the core gameplay loop and established the fundamental design pillars that have influenced all our design decisions.\nI have consistently contributed to and participated in all design meetings, playing a crucial role in every decision throughout the game's development.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "25px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 799,
+        "y": 956,
+        "w": 820,
+        "h": 152
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "I also contributed to the documentation of the GDD for Bugs N’ Guns, focusing primarily on the 3Cs (Character, Camera, Control) and the sections related to combat, encounters, enemies, weapons and interactive elements.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "25px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 799,
+        "y": 1108,
+        "w": 820,
+        "h": 114
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "To achieve this, we used Notion to create a comprehensive GDD, and tools like Photoshop and Illustrator to produce detailed documentation for art and programming purposes.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "25px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 1534,
+        "y": 1232,
+        "w": 81,
+        "h": 110
+      },
+      "type": "button",
+      "text": "",
+      "href": "https://sable-sandalwood-dee.notion.site/6b3e2cf0924a4829b68156f894e69264?v=b19f1f11e7794bb48de4bc0fd682faea",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 238)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 1529,
+        "y": 1356,
+        "w": 90,
+        "h": 30
+      },
+      "type": "heading",
+      "tag": "h2",
+      "level": 2,
+      "text": "NOTION",
+      "links": [
+        {
+          "text": "NOTION",
+          "href": "https://sable-sandalwood-dee.notion.site/6b3e2cf0924a4829b68156f894e69264?v=b19f1f11e7794bb48de4bc0fd682faea"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 1529,
+        "y": 1386,
+        "w": 90,
+        "h": 30
+      },
+      "type": "heading",
+      "tag": "h2",
+      "level": 2,
+      "text": "GDD",
+      "links": [
+        {
+          "text": "GDD",
+          "href": "https://sable-sandalwood-dee.notion.site/6b3e2cf0924a4829b68156f894e69264?v=b19f1f11e7794bb48de4bc0fd682faea"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 779,
+        "y": 1630,
+        "w": 865,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "One of the most challenging tasks in design is to ensure that everyone shares the same vision for the game.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 779,
+        "y": 1735,
+        "w": 865,
+        "h": 210
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "However, it's also the most important because if not, each team member will have a different idea of what is being done, leading to aimless decision-making that can harm the final result.\n\nTo tackle this in the design team, we established three pillars and three verbs to build the gameplay upon:",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 779,
+        "y": 1980,
+        "w": 865,
+        "h": 35
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "CORE VERBS: Escort, cooperate, shoot",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 779,
+        "y": 2015,
+        "w": 865,
+        "h": 35
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "EXPERIENCE PILLARS: Reactivity, Dependence, Frenzy",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 779,
+        "y": 2085,
+        "w": 865,
+        "h": 105
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "From these foundations, we designed the entire game, from the core loop to the levels, including weapons, enemies, elemental interactions, and the rest of the mechanics and dynamics present in Bugs N' Guns.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 779,
+        "y": 2225,
+        "w": 865,
+        "h": 210
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Coming to these conclusions was undoubtedly the most time-consuming part of discussions and meetings for us. However, once we established the anchor on which all our decisions pivoted, the rest came much more easily and naturally (not to say there weren't any discussions), as it was no longer about designing based on what each team member believed to be the most fun, but rather on what best supported those anchors we had set.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 779,
+        "y": 2470,
+        "w": 865,
+        "h": 105
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "That way, when discussing any feature, we always referred back to what aligns best with our pillars to make the decision. In this manner, even if another idea seemed more fun to you, ultimately the team would conclude what was best.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 236,
+        "y": 2624,
+        "w": 146,
+        "h": 38
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "CDD(Sp)",
+      "links": [
+        {
+          "text": "CDD(Sp)",
+          "href": "https://2985fbec-fbea-42c8-b0ec-e741836772d0.filesusr.com/ugd/1f3734_06888f3c870144789cc8dd1eaf834c35.pdf"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "25px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": -48,
+        "y": 2790,
+        "w": 715,
+        "h": 400
+      },
+      "type": "embed",
+      "src": "https://www.youtube.com/embed/XM_g9x7btv4?autoplay=0&mute=0&controls=1&loop=1&origin=https%3A%2F%2Fcalvoalvaro12.wixsite.com&playsinline=1&playlist=XM_g9x7btv4&enablejsapi=1&widgetid=1&forigin=https%3A%2F%2Fcalvoalvaro12.wixsite.com%2F-lvarocg-a%2Fcopia-de-copia-de-bugs-n-guns&aoriginsup=1&vf=1",
+      "title": "Bugs n' Guns (Gameplay Trailer)"
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": -47,
+        "y": 3214,
+        "w": 715,
+        "h": 591
+      },
+      "type": "image",
+      "src": "https://static.wixstatic.com/media/1f3734_dcd325a4078d4d33b84695d2b390b58b~mv2.png/v1/fill/w_406,h_336,al_c,lg_1,q_85,enc_avif,quality_auto/1f3734_dcd325a4078d4d33b84695d2b390b58b~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/1f3734_dcd325a4078d4d33b84695d2b390b58b~mv2.png/v1/fill/w_406,h_336,al_c,lg_1,q_85,enc_avif,quality_auto/1f3734_dcd325a4078d4d33b84695d2b390b58b~mv2.png 1x, https://static.wixstatic.com/media/1f3734_dcd325a4078d4d33b84695d2b390b58b~mv2.png/v1/fill/w_406,h_336,al_c,lg_1,q_85,enc_avif,quality_auto/1f3734_dcd325a4078d4d33b84695d2b390b58b~mv2.png 2x",
+      "alt": "TheWeaponsAndTheElement_BNG.png",
+      "name": null,
+      "original": null,
+      "natural": {
+        "w": 406,
+        "h": 336
+      },
+      "background": false,
+      "link": null,
+      "hidden": false
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 777,
+        "y": 2790,
+        "w": 865,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "After establishing our pillars, we began to develop the mechanics and dynamics that would make up the game.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 777,
+        "y": 2860,
+        "w": 865,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "A very representative example of how we followed our pillars in the design process is the elements and their interactions.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 777,
+        "y": 2965,
+        "w": 865,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "The elements and their interactions are one of the central axes on which combat revolves.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 777,
+        "y": 3035,
+        "w": 865,
+        "h": 105
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "This system is designed in such a way that each player has two weapons. These weapons, when combined, produce powerful interactions either on enemies or on the ground.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 777,
+        "y": 3175,
+        "w": 865,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "It is important to clarify that a player's weapons only interact with those of the other player, meaning their two elemental weapons do not create any combinations.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 777,
+        "y": 3245,
+        "w": 865,
+        "h": 105
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "This was decided to promote one of our core verbs, which is cooperation, as well as one of our experience pillars, which is dependency. Without mutual assistance, it will be impossible to progress in the adventure.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 777,
+        "y": 3385,
+        "w": 865,
+        "h": 105
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Besides combat, the element system is also used in the different puzzles of the game, where players will have to combine their weapons to escort the train through the hostile terrains of Bugs n' Guns.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 777,
+        "y": 3490,
+        "w": 865,
+        "h": 105
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "By doing this with their weapons, we also promote another core verb, shoot, as it was decided that all the actions and puzzles that players have to solve would be done by shooting.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 777,
+        "y": 3630,
+        "w": 865,
+        "h": 105
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Lastly, a very fast-paced combat was established to generate frenzy, while dynamically changing environments and situations to make players make on-the-fly decisions, promoting reactivity.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 777,
+        "y": 3735,
+        "w": 865,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "We achieve this by changing the environment or adding obstacles that players have to deal with while escorting the train",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 605,
+        "y": 3954,
+        "w": 230,
+        "h": 58
+      },
+      "type": "button",
+      "text": "Bugs N´Guns",
+      "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 0)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    }
+  ],
+  "cssBackgrounds": [],
+  "fonts": [
+    "Madefor-Text",
+    "cinzel",
+    "prompt",
+    "cormorantgaramond-semibold"
+  ],
+  "allLinks": [
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1",
+    "https://2985fbec-fbea-42c8-b0ec-e741836772d0.filesusr.com/ugd/1f3734_db3252979e94479a8d3b44617b6f59b4.pdf",
+    "https://2985fbec-fbea-42c8-b0ec-e741836772d0.filesusr.com/ugd/1f3734_db3252979e94479a8d3b44617b6f59b4.pdf",
+    "https://sable-sandalwood-dee.notion.site/6b3e2cf0924a4829b68156f894e69264?v=b19f1f11e7794bb48de4bc0fd682faea",
+    "https://sable-sandalwood-dee.notion.site/6b3e2cf0924a4829b68156f894e69264?v=b19f1f11e7794bb48de4bc0fd682faea",
+    "https://sable-sandalwood-dee.notion.site/6b3e2cf0924a4829b68156f894e69264?v=b19f1f11e7794bb48de4bc0fd682faea",
+    "https://2985fbec-fbea-42c8-b0ec-e741836772d0.filesusr.com/ugd/1f3734_06888f3c870144789cc8dd1eaf834c35.pdf",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1"
+  ],
+  "url": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+  "slug": "copia-de-copia-de-bugs-n-guns",
+  "networkMedia": [
+    "https://static.wixstatic.com/media/1f3734_a1479b31052e4071bff5bf222d5adb4e~mv2.jpg/v1/fill/w_711,h_772,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/image_edited.jpg",
+    "https://static.wixstatic.com/media/1f3734_dcd325a4078d4d33b84695d2b390b58b~mv2.png/v1/fill/w_406,h_336,al_c,lg_1,q_85,enc_avif,quality_auto/1f3734_dcd325a4078d4d33b84695d2b390b58b~mv2.png",
+    "https://static.wixstatic.com/shapes/11062b_0c3890f350ee4227a53c6e1298c6e9ae.svg"
+  ],
+  "pageDataMedia": [
+    "https://static.wixstatic.com/media/11062b_0c3890f350ee4227a53c6e1298c6e9ae.svg",
+    "https://static.wixstatic.com/media/11062b_169a881e1a2a485a8c64f9e6e131b390.svg",
+    "https://static.wixstatic.com/media/1f3734_a1479b31052e4071bff5bf222d5adb4e~mv2.jpg",
+    "https://static.wixstatic.com/media/1f3734_dcd325a4078d4d33b84695d2b390b58b~mv2.png",
+    "https://static.wixstatic.com/media/1f3734_f853f8e6530044cc914c17d2fe9e6850~mv2.png"
+  ]
+}

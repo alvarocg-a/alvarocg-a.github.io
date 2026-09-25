@@ -1,0 +1,1281 @@
+{
+  "title": "LevelDesign Dev | AlvaroCG-A_Portfolio",
+  "lang": "es",
+  "meta": {
+    "description": null,
+    "ogTitle": "LevelDesign Dev | AlvaroCG-A_Portfolio",
+    "ogDescription": null,
+    "ogImage": null,
+    "keywords": null,
+    "robots": null
+  },
+  "favicon": "https://www.wix.com/favicon.ico",
+  "canonical": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign-1",
+  "pageBackground": "rgba(0, 0, 0, 0)",
+  "pageHeight": 5474,
+  "header": {
+    "text": "Álvaro Calvo García-Arias\nTechnical Game Designer\n\nBugs 'N' Guns\n\nPortfolio\n\nPersonal Projects\n\nContact",
+    "links": [
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Game Design",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Prototyping",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Tools N´Tech",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "LevelDesign",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "BlinkBall",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Portfolio",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Winx",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Macbeth",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Personal Projects",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Neon Red",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Super_Transform",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Burger Bros Circus",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Gea Of War",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Against The Clock",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Contact",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1",
+        "depth": 0,
+        "visible": true
+      }
+    ],
+    "images": []
+  },
+  "footer": {
+    "text": "Álvaro Calvo\nTechnical Designer\n\nBugs 'N' Guns\n\nPortfolio\n\nPersonal Projects\n\nContact",
+    "links": [
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Game Design",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Prototyping",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Tools N´Tech",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "LevelDesign",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "BlinkBall",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Portfolio",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Winx",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Macbeth",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Personal Projects",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Neon Red",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Super_Transform",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Burger Bros Circus",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Gea Of War",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Against The Clock",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Contact",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1",
+        "depth": 0,
+        "visible": true
+      }
+    ],
+    "images": []
+  },
+  "sections": [
+    {
+      "index": 0,
+      "id": "comp-lzx1v0ge",
+      "rect": {
+        "x": 0,
+        "y": 344,
+        "w": 1440,
+        "h": 1489
+      },
+      "background": "rgb(30, 32, 37)"
+    },
+    {
+      "index": 1,
+      "id": "comp-lzx1v0gs7",
+      "rect": {
+        "x": 0,
+        "y": 1833,
+        "w": 1440,
+        "h": 1824
+      },
+      "background": "rgb(30, 32, 37)"
+    },
+    {
+      "index": 2,
+      "id": "comp-lzx1v0h09",
+      "rect": {
+        "x": 0,
+        "y": 3657,
+        "w": 1440,
+        "h": 799
+      },
+      "background": "rgb(30, 32, 37)"
+    },
+    {
+      "index": 3,
+      "id": "comp-lzx1v0h27",
+      "rect": {
+        "x": 0,
+        "y": 4456,
+        "w": 1440,
+        "h": 799
+      },
+      "background": "rgb(30, 32, 37)"
+    }
+  ],
+  "blocks": [
+    {
+      "section": 0,
+      "rect": {
+        "x": -86,
+        "y": 354,
+        "w": 81,
+        "h": 110
+      },
+      "type": "button",
+      "text": "",
+      "href": "https://sable-sandalwood-dee.notion.site/LEVEL-DESIGN-9b41a421d3874e27a6570153073ee32b",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 238)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 526,
+        "y": 388,
+        "w": 388,
+        "h": 72
+      },
+      "type": "heading",
+      "tag": "h1",
+      "level": 1,
+      "text": "Level design",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "60px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "72px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": -88,
+        "y": 464,
+        "w": 90,
+        "h": 30
+      },
+      "type": "heading",
+      "tag": "h2",
+      "level": 2,
+      "text": "NOTION",
+      "links": [
+        {
+          "text": "NOTION",
+          "href": "https://sable-sandalwood-dee.notion.site/LEVEL-DESIGN-9b41a421d3874e27a6570153073ee32b"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": -89,
+        "y": 525,
+        "w": 761,
+        "h": 427
+      },
+      "type": "embed",
+      "src": "https://www.youtube.com/embed/tICzsxpXogc?autoplay=1&mute=1&controls=1&loop=1&origin=https%3A%2F%2Fcalvoalvaro12.wixsite.com&playsinline=1&playlist=tICzsxpXogc&enablejsapi=1&widgetid=1&forigin=https%3A%2F%2Fcalvoalvaro12.wixsite.com%2F-lvarocg-a%2Fcopia-de-leveldesign-1&aoriginsup=1&vf=3",
+      "title": "BNG Level Video"
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 751,
+        "y": 525,
+        "w": 820,
+        "h": 76
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "This video demonstrates the transition from 2D layout to level blocking.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "25px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 751,
+        "y": 639,
+        "w": 820,
+        "h": 190
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "In this section, I will showcase my work in the level design of Bugs N' Guns, including the creation of the beat chart and level layout, the design of arenas and encounters, and the prototyping of ideas for different parts of the level, from puzzles to the game's final stage.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "25px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": -89,
+        "y": 1040,
+        "w": 81,
+        "h": 110
+      },
+      "type": "button",
+      "text": "",
+      "href": "https://sable-sandalwood-dee.notion.site/Level-info-c69360a2bd75489696d31a57eb194598",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 238)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 291,
+        "y": 1080,
+        "w": 857,
+        "h": 60
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "Rules, objectives and general concept",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "45px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "60.3px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": -89,
+        "y": 1150,
+        "w": 90,
+        "h": 30
+      },
+      "type": "heading",
+      "tag": "h2",
+      "level": 2,
+      "text": "NOTION",
+      "links": [
+        {
+          "text": "NOTION",
+          "href": "https://sable-sandalwood-dee.notion.site/Level-info-c69360a2bd75489696d31a57eb194598"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": -89,
+        "y": 1193,
+        "w": 761,
+        "h": 536
+      },
+      "type": "image",
+      "src": "https://static.wixstatic.com/media/1f3734_e895076b29774e25af47bb2714b029d2~mv2.png/v1/fill/w_720,h_507,al_c,lg_1,q_90,enc_avif,quality_auto/1f3734_e895076b29774e25af47bb2714b029d2~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/1f3734_e895076b29774e25af47bb2714b029d2~mv2.png/v1/fill/w_720,h_507,al_c,lg_1,q_90,enc_avif,quality_auto/1f3734_e895076b29774e25af47bb2714b029d2~mv2.png 1x, https://static.wixstatic.com/media/1f3734_e895076b29774e25af47bb2714b029d2~mv2.png/v1/fill/w_720,h_507,al_c,lg_1,q_90,enc_avif,quality_auto/1f3734_e895076b29774e25af47bb2714b029d2~mv2.png 2x",
+      "alt": "image.png",
+      "name": null,
+      "original": null,
+      "natural": {
+        "w": 720,
+        "h": 507
+      },
+      "background": false,
+      "link": "https://www.notion.so/Level-info-c69360a2bd75489696d31a57eb194598",
+      "hidden": false
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 753,
+        "y": 1192,
+        "w": 820,
+        "h": 152
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "I was directly involved in making decisions about the general concepts on which the level should be designed, including the feelings and experiences we wanted the player to have and how we planned to deliver it to the players.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "25px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 753,
+        "y": 1382,
+        "w": 820,
+        "h": 76
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "I also focused on the technical aspects of the level to ensure our goals were achievable with the team and time we had available.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "25px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 753,
+        "y": 1614,
+        "w": 820,
+        "h": 114
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "In the photo on the left, you can see the objective table, which outlines what to promote and what to avoid, as we decided to follow for the creation of the entire level.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "25px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": -89,
+        "y": 1847,
+        "w": 81,
+        "h": 110
+      },
+      "type": "button",
+      "text": "",
+      "href": "https://sable-sandalwood-dee.notion.site/Beat-chart-f3648a0a18444f2abd06e8bf40f4dfbd",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 238)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 371,
+        "y": 1887,
+        "w": 651,
+        "h": 60
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "General path and beatchart",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "45px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "60.3px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": -88,
+        "y": 1957,
+        "w": 90,
+        "h": 30
+      },
+      "type": "heading",
+      "tag": "h2",
+      "level": 2,
+      "text": "NOTION",
+      "links": [
+        {
+          "text": "NOTION",
+          "href": "https://sable-sandalwood-dee.notion.site/Beat-chart-f3648a0a18444f2abd06e8bf40f4dfbd"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": -88,
+        "y": 2018,
+        "w": 739,
+        "h": 437
+      },
+      "type": "image",
+      "src": "https://static.wixstatic.com/media/1f3734_75f9fa624abd4e299e2a01c308ce1342~mv2.png/v1/fill/w_739,h_437,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_75f9fa624abd4e299e2a01c308ce1342~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/1f3734_75f9fa624abd4e299e2a01c308ce1342~mv2.png/v1/fill/w_739,h_437,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_75f9fa624abd4e299e2a01c308ce1342~mv2.png 1x, https://static.wixstatic.com/media/1f3734_75f9fa624abd4e299e2a01c308ce1342~mv2.png/v1/fill/w_1365,h_807,al_c,q_90,enc_avif,quality_auto/1f3734_75f9fa624abd4e299e2a01c308ce1342~mv2.png 2x",
+      "alt": "",
+      "name": null,
+      "original": null,
+      "natural": {
+        "w": 739,
+        "h": 437
+      },
+      "background": false,
+      "link": "https://sable-sandalwood-dee.notion.site/Beat-chart-f3648a0a18444f2abd06e8bf40f4dfbd",
+      "hidden": false
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 753,
+        "y": 2018,
+        "w": 820,
+        "h": 30
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "I have been involved in the design and creation of the beatchart for Bugs N' Guns.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 753,
+        "y": 2078,
+        "w": 820,
+        "h": 60
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "This has been a tool we've used to define the rhythm, intensity, and duration of all the level phases.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 753,
+        "y": 2168,
+        "w": 820,
+        "h": 60
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "We determined when fights would occur, with which enemies, and how intense they would be.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 753,
+        "y": 2258,
+        "w": 820,
+        "h": 60
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "We also established where the puzzles would be located, what elements would be used to solve them, and how difficult they would be.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 753,
+        "y": 2348,
+        "w": 820,
+        "h": 60
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Additionally, we outline various 'WOW' moments where we wanted to leave an impact on the player",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": -88,
+        "y": 2569,
+        "w": 739,
+        "h": 699
+      },
+      "type": "image",
+      "src": "https://static.wixstatic.com/media/1f3734_faa9b11e66834021a9e846c9ccacd5e5~mv2.jpg/v1/fill/w_739,h_699,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_faa9b11e66834021a9e846c9ccacd5e5~mv2.jpg",
+      "srcset": "https://static.wixstatic.com/media/1f3734_faa9b11e66834021a9e846c9ccacd5e5~mv2.jpg/v1/fill/w_739,h_699,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_faa9b11e66834021a9e846c9ccacd5e5~mv2.jpg 1x, https://static.wixstatic.com/media/1f3734_faa9b11e66834021a9e846c9ccacd5e5~mv2.jpg/v1/fill/w_1478,h_1398,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_faa9b11e66834021a9e846c9ccacd5e5~mv2.jpg 2x",
+      "alt": "",
+      "name": null,
+      "original": null,
+      "natural": {
+        "w": 739,
+        "h": 699
+      },
+      "background": false,
+      "link": null,
+      "hidden": false
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 752,
+        "y": 2569,
+        "w": 820,
+        "h": 35
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "I was involved in designing and creating the 2D layout for all the levels in",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 752,
+        "y": 2604,
+        "w": 820,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Bugs N’ Guns, starting from initial whiteboard sketches and culminating in the final detailed map.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 752,
+        "y": 2674,
+        "w": 820,
+        "h": 140
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "One of the major challenges we encountered in the level design process was managing the diverse gameplay and multiple biomes, combined with the player’s high mobility and vertical exploration, which complicated the task for our art team to visually complete the levels.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 752,
+        "y": 2814,
+        "w": 820,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Consequently, our design strategy emphasized reusing areas efficiently while ensuring varied gameplay with minimal adjustments.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 752,
+        "y": 2919,
+        "w": 820,
+        "h": 35
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Three clear examples illustrate this approach from our initial 2D layout.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 752,
+        "y": 2989,
+        "w": 820,
+        "h": 35
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "First, we designed two large arenas that players revisit.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 752,
+        "y": 3024,
+        "w": 820,
+        "h": 105
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "By incorporating new elements upon reentry, such as the weapons available at that stage and slight changes in the environment, we create distinctly different gameplay experiences each time players enter these arenas.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 752,
+        "y": 3164,
+        "w": 820,
+        "h": 105
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Second, we developed three smaller arenas intended for more static combat. These arenas share identical wall and ceiling designs, allowing us to reuse most of the level’s decorative elements.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 752,
+        "y": 3269,
+        "w": 820,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "By altering the floor layout, enemy placements, and train positions, each of these arenas maintains a unique feel.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 752,
+        "y": 3374,
+        "w": 820,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Lastly, the entry and exit passages of the largest arena are symmetrical caves, which eliminates the need for duplicating decorative efforts.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 752,
+        "y": 3444,
+        "w": 820,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "These sections focus on platforming, with a twist. In one, players are required to chase the train, while in the other, they use the train as a platform.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 752,
+        "y": 3514,
+        "w": 820,
+        "h": 70
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "By designing a single, symmetrical passageway, we achieve two distinct platforming experiences.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 394,
+        "y": 3717,
+        "w": 651,
+        "h": 60
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "Arenas and encounters",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "45px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "60.3px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 394,
+        "y": 4516,
+        "w": 651,
+        "h": 60
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "Prototype level ideas",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "45px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "60.3px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 3,
+      "rect": {
+        "x": 604,
+        "y": 5167,
+        "w": 230,
+        "h": 58
+      },
+      "type": "button",
+      "text": "Bugs N´Guns",
+      "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 0)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    }
+  ],
+  "cssBackgrounds": [],
+  "fonts": [
+    "Madefor-Text",
+    "cinzel",
+    "prompt",
+    "cormorantgaramond-semibold"
+  ],
+  "allLinks": [
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1",
+    "https://sable-sandalwood-dee.notion.site/LEVEL-DESIGN-9b41a421d3874e27a6570153073ee32b",
+    "https://sable-sandalwood-dee.notion.site/LEVEL-DESIGN-9b41a421d3874e27a6570153073ee32b",
+    "https://sable-sandalwood-dee.notion.site/Level-info-c69360a2bd75489696d31a57eb194598",
+    "https://sable-sandalwood-dee.notion.site/Level-info-c69360a2bd75489696d31a57eb194598",
+    "https://www.notion.so/Level-info-c69360a2bd75489696d31a57eb194598",
+    "https://sable-sandalwood-dee.notion.site/Beat-chart-f3648a0a18444f2abd06e8bf40f4dfbd",
+    "https://sable-sandalwood-dee.notion.site/Beat-chart-f3648a0a18444f2abd06e8bf40f4dfbd",
+    "https://sable-sandalwood-dee.notion.site/Beat-chart-f3648a0a18444f2abd06e8bf40f4dfbd",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1"
+  ],
+  "url": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign-1",
+  "slug": "copia-de-leveldesign-1",
+  "networkMedia": [
+    "https://static.wixstatic.com/media/1f3734_75f9fa624abd4e299e2a01c308ce1342~mv2.png/v1/fill/w_739,h_437,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_75f9fa624abd4e299e2a01c308ce1342~mv2.png",
+    "https://static.wixstatic.com/media/1f3734_e895076b29774e25af47bb2714b029d2~mv2.png/v1/fill/w_720,h_507,al_c,lg_1,q_90,enc_avif,quality_auto/1f3734_e895076b29774e25af47bb2714b029d2~mv2.png",
+    "https://static.wixstatic.com/media/1f3734_faa9b11e66834021a9e846c9ccacd5e5~mv2.jpg/v1/fill/w_739,h_699,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_faa9b11e66834021a9e846c9ccacd5e5~mv2.jpg",
+    "https://static.wixstatic.com/shapes/11062b_0c3890f350ee4227a53c6e1298c6e9ae.svg"
+  ],
+  "pageDataMedia": [
+    "https://static.wixstatic.com/media/11062b_0c3890f350ee4227a53c6e1298c6e9ae.svg",
+    "https://static.wixstatic.com/media/1f3734_75f9fa624abd4e299e2a01c308ce1342~mv2.png",
+    "https://static.wixstatic.com/media/1f3734_e895076b29774e25af47bb2714b029d2~mv2.png",
+    "https://static.wixstatic.com/media/1f3734_faa9b11e66834021a9e846c9ccacd5e5~mv2.jpg"
+  ]
+}

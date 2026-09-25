@@ -1,0 +1,1077 @@
+{
+  "title": "Páginas de la colección | AlvaroCG-A_Portfolio",
+  "lang": "es",
+  "meta": {
+    "description": null,
+    "ogTitle": "Páginas de la colección | AlvaroCG-A_Portfolio",
+    "ogDescription": null,
+    "ogImage": null,
+    "keywords": null,
+    "robots": null
+  },
+  "favicon": "https://www.wix.com/favicon.ico",
+  "canonical": "https://calvoalvaro12.wixsite.com/-lvarocg-a/portfolio-collections/my-portfolio",
+  "pageBackground": "rgba(0, 0, 0, 0)",
+  "pageHeight": 2222,
+  "header": {
+    "text": "Álvaro Calvo García-Arias\nTechnical Game Designer\n\nBugs 'N' Guns\n\nPortfolio\n\nPersonal Projects\n\nContact",
+    "links": [
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Game Design",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Prototyping",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Tools N´Tech",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "LevelDesign",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "BlinkBall",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Portfolio",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Winx",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Macbeth",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Personal Projects",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Neon Red",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Super_Transform",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Burger Bros Circus",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Gea Of War",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Against The Clock",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Contact",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1",
+        "depth": 0,
+        "visible": true
+      }
+    ],
+    "images": []
+  },
+  "footer": {
+    "text": "Álvaro Calvo\nTechnical Designer\n\nBugs 'N' Guns\n\nPortfolio\n\nPersonal Projects\n\nContact",
+    "links": [
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Game Design",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Prototyping",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Tools N´Tech",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "LevelDesign",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "BlinkBall",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Portfolio",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Winx",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Macbeth",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Personal Projects",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Neon Red",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Super_Transform",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Burger Bros Circus",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Gea Of War",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Against The Clock",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Contact",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1",
+        "depth": 0,
+        "visible": true
+      }
+    ],
+    "images": []
+  },
+  "sections": [
+    {
+      "index": 0,
+      "id": "comp-lkmifmbl",
+      "rect": {
+        "x": 0,
+        "y": 344,
+        "w": 1440,
+        "h": 1659
+      },
+      "background": "rgb(30, 32, 37)"
+    }
+  ],
+  "blocks": [
+    {
+      "section": 0,
+      "rect": {
+        "x": -37,
+        "y": 305,
+        "w": 626,
+        "h": 579
+      },
+      "type": "wix-video",
+      "info": {
+        "fittingType": "fill",
+        "alignType": "center",
+        "hasBgScrollEffect": "",
+        "bgEffectName": "",
+        "videoId": "1f3734_0b4b964cb358450e8fe0e15a590b2f36",
+        "videoWidth": 1920,
+        "videoHeight": 1080,
+        "qualities": [
+          {
+            "quality": "360p",
+            "size": 230400,
+            "url": "video/1f3734_0b4b964cb358450e8fe0e15a590b2f36/360p/mp4/file.mp4"
+          },
+          {
+            "quality": "480p",
+            "size": 409920,
+            "url": "video/1f3734_0b4b964cb358450e8fe0e15a590b2f36/480p/mp4/file.mp4"
+          },
+          {
+            "quality": "720p",
+            "size": 921600,
+            "url": "video/1f3734_0b4b964cb358450e8fe0e15a590b2f36/720p/mp4/file.mp4"
+          },
+          {
+            "quality": "1080p",
+            "size": 2073600,
+            "url": "video/1f3734_0b4b964cb358450e8fe0e15a590b2f36/1080p/mp4/file.mp4"
+          }
+        ],
+        "isVideoDataExists": "1",
+        "videoFormat": "mp4",
+        "playbackRate": 1,
+        "autoPlay": true,
+        "containerId": "comp-lkmifmco3",
+        "animatePoster": "none"
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": -37,
+        "y": 305,
+        "w": 626,
+        "h": 579
+      },
+      "type": "image",
+      "src": "https://static.wixstatic.com/media/1f3734_0b4b964cb358450e8fe0e15a590b2f36f000.jpg/v1/fill/w_431,h_399,al_c,q_80,usm_0.33_1.00_0.00,enc_avif,quality_auto/1f3734_0b4b964cb358450e8fe0e15a590b2f36f000.jpg",
+      "srcset": null,
+      "alt": "",
+      "name": null,
+      "original": {
+        "uri": "1f3734_0b4b964cb358450e8fe0e15a590b2f36f000.jpg",
+        "width": 1920,
+        "height": 1080
+      },
+      "natural": {
+        "w": 0,
+        "h": 0
+      },
+      "background": true,
+      "link": null,
+      "hidden": false
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 646,
+        "y": 395,
+        "w": 541,
+        "h": 85
+      },
+      "type": "heading",
+      "tag": "h2",
+      "level": 2,
+      "text": "Bugs 'N' Guns",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "56px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 646,
+        "y": 480,
+        "w": 541,
+        "h": 39
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "TFM 2022-2023 (In development)",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "26px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 663,
+        "y": 543,
+        "w": 469,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "A cooperative multiplayer third person shooter",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "32.4px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 646,
+        "y": 595,
+        "w": 150,
+        "h": 42
+      },
+      "type": "button",
+      "text": "More",
+      "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 0)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 60,
+        "y": 921,
+        "w": 431,
+        "h": 201
+      },
+      "type": "wix-video",
+      "info": {
+        "fittingType": "fill",
+        "alignType": "center",
+        "hasBgScrollEffect": "",
+        "bgEffectName": "",
+        "videoId": "1f3734_f72c7ec981f7476786d489cbaec07ea9",
+        "videoWidth": 1920,
+        "videoHeight": 1080,
+        "qualities": [
+          {
+            "quality": "360p",
+            "size": 230400,
+            "url": "video/1f3734_f72c7ec981f7476786d489cbaec07ea9/360p/mp4/file.mp4"
+          },
+          {
+            "quality": "480p",
+            "size": 409920,
+            "url": "video/1f3734_f72c7ec981f7476786d489cbaec07ea9/480p/mp4/file.mp4"
+          },
+          {
+            "quality": "720p",
+            "size": 921600,
+            "url": "video/1f3734_f72c7ec981f7476786d489cbaec07ea9/720p/mp4/file.mp4"
+          },
+          {
+            "quality": "1080p",
+            "size": 2073600,
+            "url": "video/1f3734_f72c7ec981f7476786d489cbaec07ea9/1080p/mp4/file.mp4"
+          }
+        ],
+        "isVideoDataExists": "1",
+        "videoFormat": "mp4",
+        "playbackRate": 1,
+        "autoPlay": true,
+        "containerId": "comp-lkmifmcx1",
+        "animatePoster": "none"
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 60,
+        "y": 921,
+        "w": 431,
+        "h": 201
+      },
+      "type": "image",
+      "src": "https://static.wixstatic.com/media/1f3734_f72c7ec981f7476786d489cbaec07ea9f000.jpg/v1/fill/w_431,h_201,al_c,q_80,usm_0.33_1.00_0.00,enc_avif,quality_auto/1f3734_f72c7ec981f7476786d489cbaec07ea9f000.jpg",
+      "srcset": null,
+      "alt": "",
+      "name": null,
+      "original": {
+        "uri": "1f3734_f72c7ec981f7476786d489cbaec07ea9f000.jpg",
+        "width": 1920,
+        "height": 1080
+      },
+      "natural": {
+        "w": 0,
+        "h": 0
+      },
+      "background": true,
+      "link": null,
+      "hidden": false
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 645,
+        "y": 927,
+        "w": 541,
+        "h": 85
+      },
+      "type": "heading",
+      "tag": "h2",
+      "level": 2,
+      "text": "Super Transform",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "56px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 646,
+        "y": 1017,
+        "w": 541,
+        "h": 39
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "VideoGame Jam 2023",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "26px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 369,
+        "y": 1180,
+        "w": 150,
+        "h": 42
+      },
+      "type": "button",
+      "text": "More",
+      "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 0)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 646,
+        "y": 1088,
+        "w": 583,
+        "h": 130
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Super transform is a puzzle game in the Superliminal style, based on the mechanics of Zeldas UltraHand, in which we will have to transform different elements of the city Madrid to make our way through",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "32.4px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 60,
+        "y": 1243,
+        "w": 431,
+        "h": 158
+      },
+      "type": "wix-video",
+      "info": {
+        "fittingType": "fill",
+        "alignType": "center",
+        "hasBgScrollEffect": "",
+        "bgEffectName": "",
+        "videoId": "1f3734_37154eda771a45b3b79e02f5cd6d7644",
+        "videoWidth": 1920,
+        "videoHeight": 1080,
+        "qualities": [
+          {
+            "quality": "360p",
+            "size": 230400,
+            "url": "video/1f3734_37154eda771a45b3b79e02f5cd6d7644/360p/mp4/file.mp4"
+          },
+          {
+            "quality": "480p",
+            "size": 409920,
+            "url": "video/1f3734_37154eda771a45b3b79e02f5cd6d7644/480p/mp4/file.mp4"
+          },
+          {
+            "quality": "720p",
+            "size": 921600,
+            "url": "video/1f3734_37154eda771a45b3b79e02f5cd6d7644/720p/mp4/file.mp4"
+          },
+          {
+            "quality": "1080p",
+            "size": 2073600,
+            "url": "video/1f3734_37154eda771a45b3b79e02f5cd6d7644/1080p/mp4/file.mp4"
+          }
+        ],
+        "isVideoDataExists": "1",
+        "videoFormat": "mp4",
+        "playbackRate": 1,
+        "autoPlay": true,
+        "containerId": "comp-lkmifmd64",
+        "animatePoster": "none"
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 60,
+        "y": 1243,
+        "w": 431,
+        "h": 158
+      },
+      "type": "image",
+      "src": "https://static.wixstatic.com/media/1f3734_37154eda771a45b3b79e02f5cd6d7644f000.jpg/v1/fill/w_431,h_158,al_c,q_80,usm_0.33_1.00_0.00,enc_avif,quality_auto/1f3734_37154eda771a45b3b79e02f5cd6d7644f000.jpg",
+      "srcset": null,
+      "alt": "",
+      "name": null,
+      "original": {
+        "uri": "1f3734_37154eda771a45b3b79e02f5cd6d7644f000.jpg",
+        "width": 1920,
+        "height": 1080
+      },
+      "natural": {
+        "w": 0,
+        "h": 0
+      },
+      "background": true,
+      "link": null,
+      "hidden": false
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 646,
+        "y": 1243,
+        "w": 541,
+        "h": 85
+      },
+      "type": "heading",
+      "tag": "h2",
+      "level": 2,
+      "text": "Gea Of War",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "56px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 646,
+        "y": 1328,
+        "w": 541,
+        "h": 39
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "VideoGame Jam 2022",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "26px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 646,
+        "y": 1417,
+        "w": 469,
+        "h": 65
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Embodies a demigoddess who fights to save the earth from an epidemic of mutant animals",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "32.4px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 646,
+        "y": 1614,
+        "w": 150,
+        "h": 42
+      },
+      "type": "button",
+      "text": "More",
+      "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 0)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 60,
+        "y": 1520,
+        "w": 431,
+        "h": 148
+      },
+      "type": "image",
+      "src": "https://static.wixstatic.com/media/1f3734_d6b16ffb6b3e4e838f4ec7b5e0e63c73~mv2.jpg/v1/fill/w_431,h_148,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_d6b16ffb6b3e4e838f4ec7b5e0e63c73~mv2.jpg",
+      "srcset": null,
+      "alt": "",
+      "name": null,
+      "original": {
+        "uri": "1f3734_d6b16ffb6b3e4e838f4ec7b5e0e63c73~mv2.jpg",
+        "width": 1241,
+        "height": 900
+      },
+      "natural": {
+        "w": 0,
+        "h": 0
+      },
+      "background": true,
+      "link": null,
+      "hidden": false
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 646,
+        "y": 1520,
+        "w": 541,
+        "h": 85
+      },
+      "type": "heading",
+      "tag": "h2",
+      "level": 2,
+      "text": "Against The Clock",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "56px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 646,
+        "y": 1605,
+        "w": 541,
+        "h": 39
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "TFG 2020",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "26px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 646,
+        "y": 1659,
+        "w": 583,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Run and take all the hamers before the clock hits 0:00.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "32.4px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 646,
+        "y": 1891,
+        "w": 150,
+        "h": 42
+      },
+      "type": "button",
+      "text": "More",
+      "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 0)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 60,
+        "y": 1788,
+        "w": 112,
+        "h": 16
+      },
+      "type": "image",
+      "src": "https://static.wixstatic.com/media/1f3734_ace5eab72e8b4accb276bd656dc16b50~mv2.png/v1/fill/w_431,h_154,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_ace5eab72e8b4accb276bd656dc16b50~mv2.png",
+      "srcset": null,
+      "alt": "ZombieWvwPNG.png",
+      "name": null,
+      "original": {
+        "uri": "1f3734_ace5eab72e8b4accb276bd656dc16b50~mv2.png",
+        "width": 1920,
+        "height": 1080
+      },
+      "natural": {
+        "w": 0,
+        "h": 0
+      },
+      "background": true,
+      "link": null,
+      "hidden": false
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 646,
+        "y": 1788,
+        "w": 541,
+        "h": 85
+      },
+      "type": "heading",
+      "tag": "h2",
+      "level": 2,
+      "text": "Zombie Wave",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "56px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 646,
+        "y": 1873,
+        "w": 541,
+        "h": 39
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "University proyect 2020",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "26px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 646,
+        "y": 1932,
+        "w": 469,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "A multiplayer zombie wave shooter",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "32.4px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 646,
+        "y": 2159,
+        "w": 150,
+        "h": 42
+      },
+      "type": "button",
+      "text": "More",
+      "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-atc",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 0)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    }
+  ],
+  "cssBackgrounds": [],
+  "fonts": [
+    "Madefor-Text",
+    "avenir-lt-w01_35-light1475496",
+    "cinzel",
+    "prompt"
+  ],
+  "allLinks": [
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-atc",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1"
+  ],
+  "url": "https://calvoalvaro12.wixsite.com/-lvarocg-a/portfolio-collections/my-portfolio",
+  "slug": "portfolio-collections_my-portfolio",
+  "networkMedia": [
+    "https://static.wixstatic.com/media/1f3734_0b4b964cb358450e8fe0e15a590b2f36f000.jpg/v1/fill/w_431,h_399,al_c,q_80,usm_0.33_1.00_0.00,enc_avif,quality_auto/1f3734_0b4b964cb358450e8fe0e15a590b2f36f000.jpg",
+    "https://static.wixstatic.com/media/1f3734_0b4b964cb358450e8fe0e15a590b2f36f000.jpg/v1/fill/w_70,h_40,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1f3734_0b4b964cb358450e8fe0e15a590b2f36f000.jpg",
+    "https://static.wixstatic.com/media/1f3734_37154eda771a45b3b79e02f5cd6d7644f000.jpg/v1/fill/w_431,h_158,al_c,q_80,usm_0.33_1.00_0.00,enc_avif,quality_auto/1f3734_37154eda771a45b3b79e02f5cd6d7644f000.jpg",
+    "https://static.wixstatic.com/media/1f3734_37154eda771a45b3b79e02f5cd6d7644f000.jpg/v1/fill/w_70,h_40,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1f3734_37154eda771a45b3b79e02f5cd6d7644f000.jpg",
+    "https://static.wixstatic.com/media/1f3734_ace5eab72e8b4accb276bd656dc16b50~mv2.png/v1/fill/w_431,h_154,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_ace5eab72e8b4accb276bd656dc16b50~mv2.png",
+    "https://static.wixstatic.com/media/1f3734_ace5eab72e8b4accb276bd656dc16b50~mv2.png/v1/fill/w_68,h_39,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1f3734_ace5eab72e8b4accb276bd656dc16b50~mv2.png",
+    "https://static.wixstatic.com/media/1f3734_d6b16ffb6b3e4e838f4ec7b5e0e63c73~mv2.jpg/v1/fill/w_431,h_148,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_d6b16ffb6b3e4e838f4ec7b5e0e63c73~mv2.jpg",
+    "https://static.wixstatic.com/media/1f3734_d6b16ffb6b3e4e838f4ec7b5e0e63c73~mv2.jpg/v1/fill/w_51,h_37,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1f3734_d6b16ffb6b3e4e838f4ec7b5e0e63c73~mv2.jpg",
+    "https://static.wixstatic.com/media/1f3734_f72c7ec981f7476786d489cbaec07ea9f000.jpg/v1/fill/w_431,h_201,al_c,q_80,usm_0.33_1.00_0.00,enc_avif,quality_auto/1f3734_f72c7ec981f7476786d489cbaec07ea9f000.jpg",
+    "https://static.wixstatic.com/media/1f3734_f72c7ec981f7476786d489cbaec07ea9f000.jpg/v1/fill/w_70,h_40,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1f3734_f72c7ec981f7476786d489cbaec07ea9f000.jpg",
+    "https://video.wixstatic.com/video/1f3734_0b4b964cb358450e8fe0e15a590b2f36/480p/mp4/file.mp4",
+    "https://video.wixstatic.com/video/1f3734_37154eda771a45b3b79e02f5cd6d7644/360p/mp4/file.mp4",
+    "https://video.wixstatic.com/video/1f3734_f72c7ec981f7476786d489cbaec07ea9/360p/mp4/file.mp4"
+  ],
+  "pageDataMedia": [
+    "https://static.wixstatic.com/media/1f3734_ace5eab72e8b4accb276bd656dc16b50~mv2.png",
+    "https://static.wixstatic.com/media/1f3734_d6b16ffb6b3e4e838f4ec7b5e0e63c73~mv2.jpg"
+  ]
+}

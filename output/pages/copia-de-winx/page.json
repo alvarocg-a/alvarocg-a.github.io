@@ -1,0 +1,1283 @@
+{
+  "title": "Macbeth | AlvaroCG-A_Portfolio",
+  "lang": "es",
+  "meta": {
+    "description": null,
+    "ogTitle": "Macbeth | AlvaroCG-A_Portfolio",
+    "ogDescription": null,
+    "ogImage": null,
+    "keywords": null,
+    "robots": null
+  },
+  "favicon": "https://www.wix.com/favicon.ico",
+  "canonical": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+  "pageBackground": "rgba(0, 0, 0, 0)",
+  "pageHeight": 2504,
+  "header": {
+    "text": "Álvaro Calvo García-Arias\nTechnical Game Designer\n\nBugs 'N' Guns\n\nPortfolio\n\nPersonal Projects\n\nContact",
+    "links": [
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Game Design",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Prototyping",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Tools N´Tech",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "LevelDesign",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "BlinkBall",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Portfolio",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Winx",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Macbeth",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Personal Projects",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Neon Red",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Super_Transform",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Burger Bros Circus",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Gea Of War",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Against The Clock",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Contact",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1",
+        "depth": 0,
+        "visible": true
+      }
+    ],
+    "images": []
+  },
+  "footer": {
+    "text": "Álvaro Calvo\nTechnical Designer\n\nBugs 'N' Guns\n\nPortfolio\n\nPersonal Projects\n\nContact",
+    "links": [
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Game Design",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Prototyping",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Tools N´Tech",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "LevelDesign",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "BlinkBall",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Portfolio",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Winx",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Macbeth",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Personal Projects",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Neon Red",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Super_Transform",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Burger Bros Circus",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Gea Of War",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Against The Clock",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Contact",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1",
+        "depth": 0,
+        "visible": true
+      }
+    ],
+    "images": []
+  },
+  "sections": [
+    {
+      "index": 0,
+      "id": "comp-mj7e0kl5",
+      "rect": {
+        "x": 0,
+        "y": 344,
+        "w": 1440,
+        "h": 567
+      },
+      "background": "rgb(30, 32, 37)"
+    },
+    {
+      "index": 1,
+      "id": "comp-mj7ffy8q",
+      "rect": {
+        "x": 0,
+        "y": 911,
+        "w": 1440,
+        "h": 503
+      },
+      "background": "rgb(30, 32, 37)"
+    },
+    {
+      "index": 2,
+      "id": "comp-mj7e0klh2",
+      "rect": {
+        "x": 0,
+        "y": 1413,
+        "w": 1440,
+        "h": 872
+      },
+      "background": "rgb(30, 32, 37)"
+    }
+  ],
+  "blocks": [
+    {
+      "section": 0,
+      "rect": {
+        "x": -51,
+        "y": 383,
+        "w": 812,
+        "h": 459
+      },
+      "type": "embed",
+      "src": "https://www.youtube.com/embed/5_zhbJUPkPs?autoplay=1&mute=1&controls=1&loop=1&origin=https%3A%2F%2Fcalvoalvaro12.wixsite.com&playsinline=1&playlist=5_zhbJUPkPs&enablejsapi=1&widgetid=1&forigin=https%3A%2F%2Fcalvoalvaro12.wixsite.com%2F-lvarocg-a%2Fcopia-de-winx&aoriginsup=1&vf=4",
+      "title": "divertifica gameplay macbeth seeds of fate"
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 967,
+        "y": 383,
+        "w": 240,
+        "h": 67
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "Macbeth:",
+      "links": [
+        {
+          "text": "Macbeth:",
+          "href": "https://youtu.be/5_zhbJUPkPs"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "50px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "67px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 968,
+        "y": 442,
+        "w": 193,
+        "h": 34
+      },
+      "type": "heading",
+      "tag": "h3",
+      "level": 3,
+      "text": "Seeds of fate",
+      "links": [
+        {
+          "text": "Seeds of fate",
+          "href": "https://youtu.be/5_zhbJUPkPs"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "25px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "33.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 1224,
+        "y": 383,
+        "w": 221,
+        "h": 93
+      },
+      "type": "image",
+      "src": "https://static.wixstatic.com/media/1f3734_3a31610596cd4a799e7a68f5a6d0ef3d~mv2.png/v1/fill/w_221,h_93,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_3a31610596cd4a799e7a68f5a6d0ef3d~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/1f3734_3a31610596cd4a799e7a68f5a6d0ef3d~mv2.png/v1/fill/w_221,h_93,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_3a31610596cd4a799e7a68f5a6d0ef3d~mv2.png 1x, https://static.wixstatic.com/media/1f3734_3a31610596cd4a799e7a68f5a6d0ef3d~mv2.png/v1/fill/w_442,h_186,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_3a31610596cd4a799e7a68f5a6d0ef3d~mv2.png 2x",
+      "alt": "image.png",
+      "name": null,
+      "original": null,
+      "natural": {
+        "w": 221,
+        "h": 93
+      },
+      "background": false,
+      "link": "https://divertifica.es/",
+      "hidden": false
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 1486,
+        "y": 396,
+        "w": 67,
+        "h": 67
+      },
+      "type": "image",
+      "src": "https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_67,h_67,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_67,h_67,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png 1x, https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_134,h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png 2x",
+      "alt": "",
+      "name": null,
+      "original": null,
+      "natural": {
+        "w": 67,
+        "h": 67
+      },
+      "background": false,
+      "link": "https://divertifica.itch.io/macbeth-seeds-of-fate",
+      "hidden": false
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 967,
+        "y": 503,
+        "w": 638,
+        "h": 100
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Macbeth: Seeds of Fate is an interactive 3D adventure in which players will need to explore the environment to solve puzzles to unravel the story of Macbeth.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "33.4px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 967,
+        "y": 603,
+        "w": 638,
+        "h": 120
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "In this game, you will incarnate Shakespeare, who, with the help of some supernatural powers, must travel between two realities to discover and write the incredible play Macbeth.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 967,
+        "y": 819,
+        "w": 638,
+        "h": 67
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "I worked as Game Designer and Technical designer on this game in Divertifica",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "20px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "33.4px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": -51,
+        "y": 934,
+        "w": 370,
+        "h": 48
+      },
+      "type": "heading",
+      "tag": "h1",
+      "level": 1,
+      "text": "About this game:",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "40px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "48px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": -51,
+        "y": 1006,
+        "w": 938,
+        "h": 63
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "This game has been canceled, but is playable in Itch.io. What you see in the video is the vertical slice we created for funding purposes.",
+      "links": [
+        {
+          "text": "Itch.io",
+          "href": "https://divertifica.itch.io/macbeth-seeds-of-fate"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": -51,
+        "y": 1100,
+        "w": 938,
+        "h": 63
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "The game was initially conceived as a 2D minigame-based experience. You can see the trailer for that version on the right. However, we later shifted our focus toward a more ambitious storytelling approach.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": -51,
+        "y": 1195,
+        "w": 938,
+        "h": 63
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "The new concept was that the player would control Shakespeare, who, guided by the three Moirai (Fates), is led to an ancient castle where the events of the play took place.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": -51,
+        "y": 1289,
+        "w": 938,
+        "h": 63
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "With the ability to travel between the past and the present, the player would have to solve puzzles and unravel the story that Shakespeare would eventually write.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 982,
+        "y": 971,
+        "w": 608,
+        "h": 344
+      },
+      "type": "embed",
+      "src": "https://www.youtube.com/embed/FyymwatUNNI?autoplay=0&mute=0&controls=1&loop=1&origin=https%3A%2F%2Fcalvoalvaro12.wixsite.com&playsinline=1&playlist=FyymwatUNNI&enablejsapi=1&widgetid=3&forigin=https%3A%2F%2Fcalvoalvaro12.wixsite.com%2F-lvarocg-a%2Fcopia-de-winx&aoriginsup=1&vf=3",
+      "title": "MacbethProto_2D Trailer"
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": -51,
+        "y": 1463,
+        "w": 600,
+        "h": 72
+      },
+      "type": "heading",
+      "tag": "h1",
+      "level": 1,
+      "text": "My contributions",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "60px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "72px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": -19,
+        "y": 1596,
+        "w": 706,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Designed and prototype mechanics and systems, including, among others:",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 14,
+        "y": 1628,
+        "w": 673,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Player core mechanics:",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 46,
+        "y": 1659,
+        "w": 641,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "The movement, Camera and control mechanics of the player (3C).",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 46,
+        "y": 1691,
+        "w": 641,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Dimensional transition mechanich.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 46,
+        "y": 1722,
+        "w": 641,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "All the puzzles and interactions.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 14,
+        "y": 1754,
+        "w": 673,
+        "h": 63
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Level Interactuables: Design, Programming and implementation of the level interactuables (Doors, candles, drawers, key...).",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 14,
+        "y": 1817,
+        "w": 673,
+        "h": 95
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Level design: From beatchart to final going through layout and bloking, I designed the entire level.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": -19,
+        "y": 1911,
+        "w": 706,
+        "h": 63
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Thecnical implementation of Shaders and final gameplay elements like puzzles or the transition mechanich.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": -19,
+        "y": 2006,
+        "w": 706,
+        "h": 63
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Support the rest of the design team with the use of unreal engine, github and others.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 909,
+        "y": 1463,
+        "w": 600,
+        "h": 72
+      },
+      "type": "heading",
+      "tag": "h1",
+      "level": 1,
+      "text": "Project Details",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "60px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "72px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 936,
+        "y": 1596,
+        "w": 728,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Studio: Divertifica",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 936,
+        "y": 1628,
+        "w": 728,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Genre: Puzzle/Narrative",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 936,
+        "y": 1659,
+        "w": 728,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Platform: PC",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 936,
+        "y": 1691,
+        "w": 728,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Duration:",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 969,
+        "y": 1722,
+        "w": 695,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "3/Dec/2023 - 10/Jan/2025",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 936,
+        "y": 1754,
+        "w": 728,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Team Size:",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 969,
+        "y": 1785,
+        "w": 695,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "1 Creative director",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 969,
+        "y": 1817,
+        "w": 695,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "3 Game Designers",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 969,
+        "y": 1848,
+        "w": 695,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "3 Programmers",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 969,
+        "y": 1880,
+        "w": 695,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "8 Artist",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 969,
+        "y": 1911,
+        "w": 695,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "2 Sound designers",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 969,
+        "y": 1943,
+        "w": 695,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "3 Cast",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 936,
+        "y": 1974,
+        "w": 728,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Engine used: Unreal Engine 5.",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 2,
+      "rect": {
+        "x": 1364,
+        "y": 1596,
+        "w": 299,
+        "h": 299
+      },
+      "type": "image",
+      "src": "https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_299,h_299,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png",
+      "srcset": "https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_299,h_299,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png 1x, https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_598,h_598,al_c,lg_1,q_85,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png 2x",
+      "alt": "",
+      "name": null,
+      "original": null,
+      "natural": {
+        "w": 299,
+        "h": 299
+      },
+      "background": false,
+      "link": "https://divertifica.itch.io/macbeth-seeds-of-fate",
+      "hidden": false
+    }
+  ],
+  "cssBackgrounds": [],
+  "fonts": [
+    "Madefor-Text",
+    "cinzel",
+    "prompt"
+  ],
+  "allLinks": [
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1",
+    "https://youtu.be/5_zhbJUPkPs",
+    "https://youtu.be/5_zhbJUPkPs",
+    "https://divertifica.es/",
+    "https://divertifica.itch.io/macbeth-seeds-of-fate",
+    "https://divertifica.itch.io/macbeth-seeds-of-fate",
+    "https://divertifica.itch.io/macbeth-seeds-of-fate",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1"
+  ],
+  "url": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+  "slug": "copia-de-winx",
+  "networkMedia": [
+    "https://static.wixstatic.com/media/1f3734_3a31610596cd4a799e7a68f5a6d0ef3d~mv2.png/v1/fill/w_221,h_93,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_3a31610596cd4a799e7a68f5a6d0ef3d~mv2.png",
+    "https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_299,h_299,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png",
+    "https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png/v1/fill/w_67,h_67,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png"
+  ],
+  "pageDataMedia": [
+    "https://static.wixstatic.com/media/1f3734_3a31610596cd4a799e7a68f5a6d0ef3d~mv2.png",
+    "https://static.wixstatic.com/media/1f3734_92f1c81b690746d0a17f2f16f4e3f745~mv2.png"
+  ]
+}

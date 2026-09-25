@@ -1,0 +1,562 @@
+{
+  "title": "Zombie | AlvaroCG-A_Portfolio",
+  "lang": "es",
+  "meta": {
+    "description": null,
+    "ogTitle": "Zombie | AlvaroCG-A_Portfolio",
+    "ogDescription": null,
+    "ogImage": null,
+    "keywords": null,
+    "robots": null
+  },
+  "favicon": "https://www.wix.com/favicon.ico",
+  "canonical": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-atc",
+  "pageBackground": "rgba(0, 0, 0, 0)",
+  "pageHeight": 1712,
+  "header": {
+    "text": "Álvaro Calvo García-Arias\nTechnical Game Designer\n\nBugs 'N' Guns\n\nPortfolio\n\nPersonal Projects\n\nContact",
+    "links": [
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Game Design",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Prototyping",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Tools N´Tech",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "LevelDesign",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "BlinkBall",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Portfolio",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Winx",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Macbeth",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Personal Projects",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Neon Red",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Super_Transform",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Burger Bros Circus",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Gea Of War",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Against The Clock",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Contact",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1",
+        "depth": 0,
+        "visible": true
+      }
+    ],
+    "images": []
+  },
+  "footer": {
+    "text": "Álvaro Calvo\nTechnical Designer\n\nBugs 'N' Guns\n\nPortfolio\n\nPersonal Projects\n\nContact",
+    "links": [
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Game Design",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Prototyping",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Tools N´Tech",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "LevelDesign",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "BlinkBall",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Portfolio",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Bugs 'N' Guns",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Winx",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Macbeth",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Personal Projects",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+        "depth": 0,
+        "visible": true
+      },
+      {
+        "text": "Neon Red",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Super_Transform",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Burger Bros Circus",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Gea Of War",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Against The Clock",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+        "depth": 1,
+        "visible": false
+      },
+      {
+        "text": "Contact",
+        "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1",
+        "depth": 0,
+        "visible": true
+      }
+    ],
+    "images": []
+  },
+  "sections": [
+    {
+      "index": 0,
+      "id": "comp-lkd6p43t",
+      "rect": {
+        "x": 0,
+        "y": 344,
+        "w": 1440,
+        "h": 523
+      },
+      "background": "rgb(30, 32, 37)"
+    },
+    {
+      "index": 1,
+      "id": "comp-lsvsz2k4",
+      "rect": {
+        "x": 0,
+        "y": 867,
+        "w": 1440,
+        "h": 626
+      },
+      "background": "rgb(30, 32, 37)"
+    }
+  ],
+  "blocks": [
+    {
+      "section": 0,
+      "rect": {
+        "x": 0,
+        "y": 344,
+        "w": 112,
+        "h": 16
+      },
+      "type": "image",
+      "src": "https://static.wixstatic.com/media/1f3734_ace5eab72e8b4accb276bd656dc16b50~mv2.png/v1/fill/w_1440,h_446,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_ace5eab72e8b4accb276bd656dc16b50~mv2.png",
+      "srcset": null,
+      "alt": "ZombieWvwPNG.png",
+      "name": null,
+      "original": {
+        "uri": "1f3734_ace5eab72e8b4accb276bd656dc16b50~mv2.png",
+        "width": 1920,
+        "height": 1080
+      },
+      "natural": {
+        "w": 0,
+        "h": 0
+      },
+      "background": true,
+      "link": null,
+      "hidden": false
+    },
+    {
+      "section": 0,
+      "rect": {
+        "x": 568,
+        "y": 813,
+        "w": 304,
+        "h": 32
+      },
+      "type": "text",
+      "tag": "p",
+      "level": null,
+      "text": "Web in development",
+      "links": [],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "18px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "center",
+        "lineHeight": "31.5px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 263,
+        "y": 1138,
+        "w": 18,
+        "h": 38
+      },
+      "type": "button",
+      "text": "Previous",
+      "href": null,
+      "style": {
+        "font": "Arial",
+        "size": "13.3333px",
+        "weight": "400",
+        "color": "rgb(0, 0, 0)",
+        "align": "center",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 1159,
+        "y": 1138,
+        "w": 18,
+        "h": 38
+      },
+      "type": "button",
+      "text": "Next",
+      "href": null,
+      "style": {
+        "font": "Arial",
+        "size": "13.3333px",
+        "weight": "400",
+        "color": "rgb(0, 0, 0)",
+        "align": "center",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 244,
+        "y": 878,
+        "w": 952,
+        "h": 559
+      },
+      "type": "wix-video",
+      "info": {
+        "fittingType": "fill",
+        "alignType": "center",
+        "hasBgScrollEffect": "",
+        "bgEffectName": "",
+        "videoId": "1f3734_87c62fb06f4645579572182dedc7b208",
+        "videoWidth": 1280,
+        "videoHeight": 720,
+        "qualities": [
+          {
+            "quality": "360p",
+            "size": 230400,
+            "url": "video/1f3734_87c62fb06f4645579572182dedc7b208/360p/mp4/file.mp4"
+          },
+          {
+            "quality": "480p",
+            "size": 409920,
+            "url": "video/1f3734_87c62fb06f4645579572182dedc7b208/480p/mp4/file.mp4"
+          },
+          {
+            "quality": "720p",
+            "size": 921600,
+            "url": "video/1f3734_87c62fb06f4645579572182dedc7b208/720p/mp4/file.mp4"
+          }
+        ],
+        "isVideoDataExists": "1",
+        "videoFormat": "mp4",
+        "playbackRate": 1,
+        "autoPlay": true,
+        "containerId": "comp-lsvsz2kt",
+        "animatePoster": "none"
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 244,
+        "y": 878,
+        "w": 952,
+        "h": 559
+      },
+      "type": "image",
+      "src": "https://static.wixstatic.com/media/1f3734_87c62fb06f4645579572182dedc7b208f000.jpg/v1/fill/w_952,h_559,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/1f3734_87c62fb06f4645579572182dedc7b208f000.jpg",
+      "srcset": null,
+      "alt": "",
+      "name": null,
+      "original": {
+        "uri": "1f3734_87c62fb06f4645579572182dedc7b208f000.jpg",
+        "width": 1280,
+        "height": 720
+      },
+      "natural": {
+        "w": 0,
+        "h": 0
+      },
+      "background": true,
+      "link": null,
+      "hidden": false
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 201,
+        "y": 870,
+        "w": 1038,
+        "h": 575
+      },
+      "type": "button",
+      "text": "More Info",
+      "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 0)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 1022,
+        "y": 883,
+        "w": 170,
+        "h": 51
+      },
+      "type": "button",
+      "text": "",
+      "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+      "style": {
+        "font": "Arial, Helvetica, sans-serif",
+        "size": "10px",
+        "weight": "400",
+        "color": "rgb(0, 0, 238)",
+        "align": "start",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    },
+    {
+      "section": 1,
+      "rect": {
+        "x": 1030,
+        "y": 893,
+        "w": 153,
+        "h": 31
+      },
+      "type": "heading",
+      "tag": "h6",
+      "level": 6,
+      "text": "Bugs 'N' Guns",
+      "links": [
+        {
+          "text": "Bugs 'N' Guns",
+          "href": "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side"
+        }
+      ],
+      "style": {
+        "font": "prompt, sans-serif",
+        "size": "22px",
+        "weight": "400",
+        "color": "rgb(255, 255, 255)",
+        "align": "start",
+        "lineHeight": "31.02px",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "italic": false
+      }
+    }
+  ],
+  "cssBackgrounds": [],
+  "fonts": [
+    "Madefor-Text",
+    "cinzel",
+    "prompt"
+  ],
+  "allLinks": [
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/#comp-lsvsz2kt",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/#comp-lsvsz2l35",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/#comp-lsvsz2l83",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/#comp-lsvsz2lc5",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/#comp-lsvsz2lh3",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-copia-de-bugs-n-guns",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-game-design",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-designandprototype",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-toolsandtech",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-leveldesign",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/s-projects-side-by-side",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-neon-red",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-winx",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-portfolio",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform-1",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-gow",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super-transform",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-bng",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-super",
+    "https://calvoalvaro12.wixsite.com/-lvarocg-a/blank-1"
+  ],
+  "url": "https://calvoalvaro12.wixsite.com/-lvarocg-a/copia-de-atc",
+  "slug": "copia-de-atc",
+  "networkMedia": [
+    "https://static.wixstatic.com/media/1f3734_87c62fb06f4645579572182dedc7b208f000.jpg/v1/fill/w_143,h_80,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1f3734_87c62fb06f4645579572182dedc7b208f000.jpg",
+    "https://static.wixstatic.com/media/1f3734_87c62fb06f4645579572182dedc7b208f000.jpg/v1/fill/w_952,h_559,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/1f3734_87c62fb06f4645579572182dedc7b208f000.jpg",
+    "https://static.wixstatic.com/media/1f3734_ace5eab72e8b4accb276bd656dc16b50~mv2.png/v1/fill/w_1440,h_446,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/1f3734_ace5eab72e8b4accb276bd656dc16b50~mv2.png",
+    "https://static.wixstatic.com/media/1f3734_ace5eab72e8b4accb276bd656dc16b50~mv2.png/v1/fill/w_40,h_22,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1f3734_ace5eab72e8b4accb276bd656dc16b50~mv2.png",
+    "https://static.wixstatic.com/shapes/06f469158f5346a3be7e4100e38370cd.svg",
+    "https://video.wixstatic.com/video/1f3734_87c62fb06f4645579572182dedc7b208/720p/mp4/file.mp4"
+  ],
+  "pageDataMedia": [
+    "https://static.wixstatic.com/media/1f3734_ace5eab72e8b4accb276bd656dc16b50~mv2.png"
+  ]
+}
