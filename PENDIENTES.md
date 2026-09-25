@@ -1,0 +1,31 @@
+# Contenido pendiente
+
+Cada hueco pendiente en la web tiene un **ID** visible (recuadro naranja con rayas o texto en naranja) y el atributo `data-placeholder="ID"` en el HTML. Para encontrarlo: busca el ID en el proyecto.
+
+## Placeholders
+
+| ID | Página | Qué falta |
+|---|---|---|
+| `BNG-TOOLS-DEBUG-TXT` | `bng-tools.html` | Texto de la Debugging Tool (en Wix solo había el título; he dejado una descripción provisional sacada de la captura) |
+| `BNG-TOOLS-STREAMING-MEDIA` | `bng-tools.html` | Imagen o vídeo de Level Streaming |
+| `BNG-TOOLS-STREAMING-TXT` | `bng-tools.html` | Texto de Level Streaming |
+| `BNG-TOOLS-CHECKPOINT-MEDIA` | `bng-tools.html` | Imagen o vídeo de Checkpoints & saves |
+| `BNG-TOOLS-CHECKPOINT-TXT` | `bng-tools.html` | Texto de Checkpoints & saves |
+| `BNG-TOOLS-OPTIMIZATION-MEDIA` | `bng-tools.html` | Imagen o vídeo de Optimization |
+| `BNG-TOOLS-OPTIMIZATION-TXT` | `bng-tools.html` | Texto de Optimization |
+| `BNG-BLINKBALL-VIDEO` | `bng-blinkball.html` | (Opcional) vídeo de gameplay de BlinkBall |
+
+## Cómo sustituirlos
+
+- **Imagen:** copia el archivo en `assets/img/…` y cambia el bloque `<div class="ph" …>…</div>` por:
+  ```html
+  <figure><div class="media"><img src="assets/img/bng/level-streaming.webp" alt="Descripción" loading="lazy" class="zoomable"></div></figure>
+  ```
+- **Vídeo de YouTube:** cambia el bloque por `<div class="yt" data-yt="ID_DEL_VIDEO" data-title="Título"></div>` (la miniatura se carga sola).
+- **Texto:** cambia el `<p class="ph-text" …>…</p>` por párrafos normales `<p>…</p>`.
+
+## Estructura
+
+- Cada página es un `.html` en la raíz. El menú, el pie y la sub-navegación de Bugs 'N' Guns se generan desde `js/site.js` (array `NAV`): para añadir una página, añade una entrada ahí.
+- Estilos en `css/style.css` (colores y tipografías en las variables de `:root`).
+- Imágenes optimizadas (WebP) en `assets/img/`.
