@@ -131,21 +131,24 @@
       "</div></footer>";
   }
 
-  /* ---------- YouTube: thumbnail first, iframe on click ---------- */
+  /* ---------- Videos (YouTube or Vimeo): thumbnail first, iframe on click ---------- */
   function initVideos() {
-    document.querySelectorAll(".yt[data-yt]").forEach(function (el) {
-      var id = el.getAttribute("data-yt");
+    document.querySelectorAll(".yt[data-yt], .yt[data-vimeo]").forEach(function (el) {
+      var vimeo = el.getAttribute("data-vimeo");
+      var id = vimeo || el.getAttribute("data-yt");
       var title = (el.getAttribute("data-title") || "Video").replace(/"/g, "&quot;");
       var thumb = el.getAttribute("data-thumb") || ("assets/img/thumbs/" + id + ".webp");
       el.innerHTML = '<img src="' + thumb + '" alt="" loading="lazy" decoding="async">' +
         '<button class="yt-play" type="button" aria-label="Play video: ' + title + '"><span>' + ICON.play + "</span></button>";
       var img = el.querySelector("img");
-      img.addEventListener("error", function () { img.src = "https://i.ytimg.com/vi/" + id + "/hqdefault.jpg"; }, { once: true });
+      if (!vimeo) img.addEventListener("error", function () { img.src = "https://i.ytimg.com/vi/" + id + "/hqdefault.jpg"; }, { once: true });
       el.querySelector(".yt-play").addEventListener("click", function () {
         var f = document.createElement("iframe");
-        f.src = "https://www.youtube-nocookie.com/embed/" + id + "?autoplay=1&rel=0&modestbranding=1";
+        f.src = vimeo
+          ? "https://player.vimeo.com/video/" + id + "?autoplay=1&dnt=1&title=0&byline=0&portrait=0"
+          : "https://www.youtube-nocookie.com/embed/" + id + "?autoplay=1&rel=0&modestbranding=1";
         f.title = el.getAttribute("data-title") || "Video";
-        f.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share";
+        f.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; fullscreen; gyroscope; picture-in-picture; web-share";
         f.allowFullscreen = true;
         el.innerHTML = "";
         el.appendChild(f);
