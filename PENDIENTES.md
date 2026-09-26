@@ -14,6 +14,8 @@ Cada hueco pendiente en la web tiene un **ID** visible (recuadro naranja con ray
 | `BNG-TOOLS-OPTIMIZATION-MEDIA` | `bng-tools.html` | Imagen o vídeo de Optimization |
 | `BNG-TOOLS-OPTIMIZATION-TXT` | `bng-tools.html` | Texto de Optimization |
 | `BNG-PROTO-ENEMIES-MORE` | `bng-prototyping.html` | El resto de enemigos (en Wix, tras el Puckarb, solo había una imagen de "WIP") |
+| `BNG-PROTO-HYDROGEL-VIDEO` | `bng-prototyping.html` | Vídeo de Hydrogel: el de Wix (`tIn--X-9LRo`) es privado en YouTube |
+| `BNG-PROTO-ELECTROPLASM-VIDEO` | `bng-prototyping.html` | Vídeo de Electroplasm (en Wix usaba el mismo vídeo privado) |
 | `BNG-BLINKBALL-VIDEO` | `bng-blinkball.html` | (Opcional) vídeo de gameplay de BlinkBall |
 
 ## Cómo sustituirlos

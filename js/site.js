@@ -27,6 +27,8 @@
       { id: "bng-blinkball", label: "BlinkBall", href: "bng-blinkball.html" }
     ],
     personal: [
+      { id: "you-are-nobody", label: "You Are Nobody", href: "you-are-nobody.html" },
+      { id: "beat-found", label: "Beat Found", href: "beat-found.html" },
       { id: "neon-red", label: "Neon Red", href: "neon-red.html" },
       { id: "super-transform", label: "Super Transform", href: "super-transform.html" },
       { id: "burger-bros-circus", label: "Burger Bros Circus", href: "burger-bros-circus.html" },
@@ -203,6 +205,22 @@
     update();
   }
 
+  /* ---------- Sticky sheets only when they fit in the viewport ---------- */
+  function initSheets() {
+    var sheets = document.querySelectorAll(".sheet");
+    if (!sheets.length) return;
+    function fit() {
+      sheets.forEach(function (el) {
+        el.classList.remove("no-stick");
+        var top = parseFloat(getComputedStyle(el).top) || 0;
+        if (el.offsetHeight + top + 24 > window.innerHeight) el.classList.add("no-stick");
+      });
+    }
+    window.addEventListener("resize", fit);
+    window.addEventListener("load", fit);
+    fit();
+  }
+
   renderHeader();
   renderSectionNav();
   renderFooter();
@@ -211,4 +229,5 @@
   initLightbox();
   initReveal();
   initScrollSpy();
+  initSheets();
 })();
