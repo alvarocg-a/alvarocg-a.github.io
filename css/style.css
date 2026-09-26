@@ -212,15 +212,18 @@ body:not([data-header="over"]) .proj-head, body:not([data-header="over"]) .page-
 .proj-grid { display: grid; grid-template-columns: 300px minmax(0, 1fr); gap: clamp(32px, 5vw, 72px); padding-block: 44px 0; }
 .proj-grid.ruled { border-top: 1px solid var(--line); }
 .sheet { position: sticky; top: calc(var(--hdr) + 72px); align-self: start; }
+.award-inline { padding: 6px 14px 6px 8px; min-height: 46px; }
+.award-inline img { width: 32px; height: 32px; }
 .proj-grid.ruled .sheet { top: calc(var(--hdr) + 24px); }
+.sheet.no-stick { position: static; } /* set by JS when the sheet is taller than the viewport */
 .sheet-logo { height: 44px; width: auto; max-width: 140px; object-fit: contain; object-position: left; margin-bottom: 12px; }
-.sheet dl div { padding: 12px 0; border-bottom: 1px solid var(--line); }
+.sheet dl div { padding: 8px 0; border-bottom: 1px solid var(--line); }
 .sheet dt { font-size: .68rem; font-weight: 600; letter-spacing: .18em; text-transform: uppercase; color: var(--muted); }
-.sheet dd { margin: 3px 0 0; font-size: .92rem; }
+.sheet dd { margin: 2px 0 0; font-size: .9rem; line-height: 1.45; }
 .sheet dd small { display: block; color: var(--muted); font-size: .8rem; margin-top: 2px; }
 .sheet .award { display: flex; margin-top: 20px; }
 .sheet-links { margin-top: 18px; }
-.sheet-links a { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 10px 0; border-bottom: 1px solid var(--line); font-family: var(--disp); font-weight: 600; font-size: 1.05rem; letter-spacing: .06em; text-transform: uppercase; }
+.sheet-links a { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 8px 0; border-bottom: 1px solid var(--line); font-family: var(--disp); font-weight: 600; font-size: 1.05rem; letter-spacing: .06em; text-transform: uppercase; }
 .sheet-links a:hover { color: var(--accent); }
 .sheet-links .ic { width: 14px; height: 14px; }
 .proj-main { min-width: 0; }

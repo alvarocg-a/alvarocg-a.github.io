@@ -203,6 +203,22 @@
     update();
   }
 
+  /* ---------- Sticky sheets only when they fit in the viewport ---------- */
+  function initSheets() {
+    var sheets = document.querySelectorAll(".sheet");
+    if (!sheets.length) return;
+    function fit() {
+      sheets.forEach(function (el) {
+        el.classList.remove("no-stick");
+        var top = parseFloat(getComputedStyle(el).top) || 0;
+        if (el.offsetHeight + top + 24 > window.innerHeight) el.classList.add("no-stick");
+      });
+    }
+    window.addEventListener("resize", fit);
+    window.addEventListener("load", fit);
+    fit();
+  }
+
   renderHeader();
   renderSectionNav();
   renderFooter();
@@ -211,4 +227,5 @@
   initLightbox();
   initReveal();
   initScrollSpy();
+  initSheets();
 })();
