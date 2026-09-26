@@ -13,6 +13,7 @@ Cada hueco pendiente en la web tiene un **ID** visible (recuadro naranja con ray
 | `BNG-TOOLS-CHECKPOINT-TXT` | `bng-tools.html` | Texto de Checkpoints & saves |
 | `BNG-TOOLS-OPTIMIZATION-MEDIA` | `bng-tools.html` | Imagen o vídeo de Optimization |
 | `BNG-TOOLS-OPTIMIZATION-TXT` | `bng-tools.html` | Texto de Optimization |
+| `BNG-PROTO-ENEMIES-MORE` | `bng-prototyping.html` | El resto de enemigos (en Wix, tras el Puckarb, solo había una imagen de "WIP") |
 | `BNG-BLINKBALL-VIDEO` | `bng-blinkball.html` | (Opcional) vídeo de gameplay de BlinkBall |
 
 ## Cómo sustituirlos

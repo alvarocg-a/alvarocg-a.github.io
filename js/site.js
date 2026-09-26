@@ -189,6 +189,20 @@
     document.querySelectorAll(".link-arrow:not(.has-icon)").forEach(function (a) { a.insertAdjacentHTML("beforeend", ICON.arrow); a.classList.add("has-icon"); });
   }
 
+  /* ---------- Side index: highlight the section in view ---------- */
+  function initScrollSpy() {
+    var links = [].slice.call(document.querySelectorAll(".toc-side a[href^='#']"));
+    if (!links.length || !("IntersectionObserver" in window)) return;
+    var targets = links.map(function (a) { return document.getElementById(a.getAttribute("href").slice(1)); });
+    function update() {
+      var line = window.innerHeight * 0.3, current = 0;
+      targets.forEach(function (t, i) { if (t && t.getBoundingClientRect().top < line) current = i; });
+      links.forEach(function (a, i) { a.classList.toggle("is-active", i === current); });
+    }
+    window.addEventListener("scroll", update, { passive: true });
+    update();
+  }
+
   renderHeader();
   renderSectionNav();
   renderFooter();
@@ -196,4 +210,5 @@
   initVideos();
   initLightbox();
   initReveal();
+  initScrollSpy();
 })();

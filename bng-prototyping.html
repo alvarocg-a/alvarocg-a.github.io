@@ -19,127 +19,90 @@
 <body data-section="bng" data-page="bng-prototyping">
 <div id="site-header"><noscript><nav class="wrap" style="padding:20px 0;display:flex;gap:16px;flex-wrap:wrap"><a href="index.html">Portfolio</a><a href="index.html#work">Work</a><a href="bugs-n-guns.html">Bugs 'N' Guns</a><a href="personal-projects.html">Personal</a><a href="contact.html">Contact</a></nav></noscript></div>
 <main id="main">
-<section class="page-hero">
-  <div class="wrap">
-    <p class="eyebrow"><a href="bugs-n-guns.html">Bugs 'N' Guns</a></p>
-    <h1>Prototyping</h1>
-    <p class="lead">Prototype &amp; low-level design: iterating and validating mechanics and level ideas in UE5 Blueprints.</p>
-    
-    
-  </div>
-</section><nav data-subnav="bng" aria-label="Bugs 'N' Guns sections"></nav>
-<section class="section">
-  <div class="wrap">
-    <div class="split wide-media">
-      <div class="reveal"><div class="yt" data-yt="vTBhdAZtNsY" data-title="Bugs &#x27;N&#x27; Guns — Pre-Alpha prototype"><a class="yt-fallback" href="https://www.youtube.com/watch?v=vTBhdAZtNsY" target="_blank" rel="noopener">Watch on YouTube</a></div></div>
-      <div class="prose reveal">
-        <p>This was the look of Bugs 'N' Guns in the Pre-Alpha. This prototype was made by the design team to iterate and validate mechanics and level ideas.</p>
-        <p>Everything in the video was made by a designer, and I made quite a lot of it. On this page I showcase some of the most important and interesting pieces.</p>
-        <nav class="toc" aria-label="On this page">
-          <a class="chip" href="#three-cs">Player core mechanics (3Cs)</a>
-          <a class="chip" href="#elements">Elements &amp; weapons</a>
-          <a class="chip" href="#enemies">Enemies</a>
-        </nav>
-      </div>
-    </div>
-  </div>
-</section>
+<section class="wrap proj-head">
+  <p class="eyebrow"><a href="bugs-n-guns.html">Bugs 'N' Guns</a> · 02</p>
+  <h1>Prototyping</h1>
+  <p class="hero-lead">Prototype &amp; low-level design: iterating and validating mechanics and level ideas in UE5 Blueprints.</p>
+  
+</section><nav data-subnav="bng" aria-label="Bugs 'N' Guns sections"></nav><section class="wrap glance-wrap"><p class="section-label">At a glance</p><dl class="glance"><div><dt>Pre-Alpha</dt><dd>Prototype built by the design team in UE5 Blueprints</dd></div><div><dt>3Cs</dt><dd>Double jump reworked into a vertical thrust; Blinkshot as the core mobility mechanic</dd></div><div><dt>Weapons</dt><dd>Four elemental weapons, each both a combat weapon and a puzzle tool</dd></div><div><dt>Enemies</dt><dd>Concepts, interactions and AI with behaviour trees</dd></div></dl></section><div class="wrap proj-grid"><aside class="sheet side-index"><p class="side-title">On this page</p><ol class="toc-side"><li><a href="#prototype"><span>01</span>Pre-Alpha prototype</a></li><li><a href="#three-cs"><span>02</span>Player 3Cs</a></li><li><a href="#double-jump"><span>03</span>· Double jump</a></li><li><a href="#blinkshot"><span>04</span>· Blinkshot</a></li><li><a href="#elements"><span>05</span>Elements &amp; weapons</a></li><li><a href="#fire"><span>06</span>· Fire</a></li><li><a href="#spore"><span>07</span>· Spore</a></li><li><a href="#hydrogel"><span>08</span>· Hydrogel</a></li><li><a href="#electroplasm"><span>09</span>· Electroplasm</a></li><li><a href="#enemies"><span>10</span>Enemies</a></li><li><a href="#puckarb"><span>11</span>· Puckarb</a></li></ol><p class="side-title">Documentation</p><ul class="sheet-links"><li><a href="https://sable-sandalwood-dee.notion.site/PLAYER-CCC-2d1cab680b64497980cc05e238e354ce" target="_blank" rel="noopener">3Cs<svg class="ic" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></li><li><a href="https://sable-sandalwood-dee.notion.site/ELEMENTS-269e489d38f5446e8d27e38d62bc7960" target="_blank" rel="noopener">Elements<svg class="ic" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></li><li><a href="https://sable-sandalwood-dee.notion.site/ENEMIES-2a75067c74544431abecd884cc34e9df" target="_blank" rel="noopener">Enemies<svg class="ic" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></li></ul></aside><div class="proj-main dossier">
+    <header class="ch-head" id="prototype"><span class="ch-num">01</span><h2>Pre-Alpha prototype</h2><div class="prose"><p>This was the look of Bugs 'N' Guns in the Pre-Alpha. This prototype was made by the design team to iterate and validate mechanics and level ideas.</p><p>Everything in the video was made by a designer, and I made quite a lot of it. On this page I showcase some of the most important and interesting pieces.</p></div></header>
+    <div class="yt" data-yt="vTBhdAZtNsY" data-title="Bugs &#x27;N&#x27; Guns — Pre-Alpha prototype"><a class="yt-fallback" href="https://www.youtube.com/watch?v=vTBhdAZtNsY" target="_blank" rel="noopener">Watch on YouTube</a></div>
 
-<section class="chapter" id="three-cs">
-  <div class="wrap">
-    <h2 class="chapter-title">Player core mechanics (3Cs)</h2>
-    <div class="prose chapter-intro">
-      <p>One of the key and most important aspects we had to test in-game were the 3Cs. For this, we prototyped a functional character via Blueprints with all the features we wanted to test.</p>
-      <p>There were many, some of which were completely discarded while others were iterated countless times. Here I'll only talk about two that were especially important and took several iterations and meetings to address.</p>
-      <div class="chips"><a class="chip" href="https://sable-sandalwood-dee.notion.site/PLAYER-CCC-2d1cab680b64497980cc05e238e354ce" target="_blank" rel="noopener">Notion · 3Cs <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></div>
-    </div>
-    <div style="margin-top:clamp(32px,5vw,56px)">
+    <header class="ch-head" id="three-cs"><span class="ch-num">02</span><h2>Player core mechanics (3Cs)</h2><div class="prose"><p>One of the key and most important aspects we had to test in-game were the 3Cs. For this, we prototyped a functional character via Blueprints with all the features we wanted to test.</p><p>There were many, some of which were completely discarded while others were iterated countless times. Here are two that were especially important and took several iterations and meetings to address.</p></div></header>
     
-    <div class="block">
-      <div class="block-head"><h3 class="small">Double jump</h3><div class="chips"><a class="chip" href="https://sable-sandalwood-dee.notion.site/Jumping-cfb2f8fc3ba14e30a5f7f6579502dcd3" target="_blank" rel="noopener">Notion · Double jump <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></div></div>
-      <div class="split">
-        <div class="reveal sticky-media"><div class="yt" data-yt="N4DxyZoo71Q" data-title="Double jump prototype"><a class="yt-fallback" href="https://www.youtube.com/watch?v=N4DxyZoo71Q" target="_blank" rel="noopener">Watch on YouTube</a></div></div>
-        <div class="prose reveal"><p>The first and most troublesome feature was the jump, specifically the double jump.</p><p>We needed this feature because in the game we escort a train through hostile terrain, and we can be attacked from all directions. Therefore, it is essential to be able to move quickly from one side of the train to the other.</p><p>This meant we needed a considerably high double jump, but such a high jump caused the player to move horizontally much more than we intended and, worse, to stay in the air for a very long time.</p><p>After many iterations and meetings, we concluded that instead of a double jump, the player would be given a vertical thrust, as if they had two small rockets on their back, providing the height we wanted but without the horizontal inertia.</p><p>We also had to add air friction and adjust the gravity values so that jumps in general felt more natural. It seems obvious now, but at the time it was a serious issue.</p></div>
-      </div>
-    </div>
+    <article class="dcase reveal" id="double-jump">
+      <div class="dcase-head"><div><h3>Double jump</h3><ul class="tags"><li>3Cs</li><li>Movement</li></ul></div><a class="chip" href="https://sable-sandalwood-dee.notion.site/Jumping-cfb2f8fc3ba14e30a5f7f6579502dcd3" target="_blank" rel="noopener">Notion · Double jump <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></div>
+      <div class="yt" data-yt="N4DxyZoo71Q" data-title="Double jump prototype"><a class="yt-fallback" href="https://www.youtube.com/watch?v=N4DxyZoo71Q" target="_blank" rel="noopener">Watch on YouTube</a></div>
+      <div class="cps"><div class="cp"><p class="cp-label">Challenge</p><div class="prose"><p>The first and most troublesome feature was the jump, specifically the double jump.</p><p>We needed it because in the game we escort a train through hostile terrain and can be attacked from all directions, so it is essential to be able to move quickly from one side of the train to the other.</p></div></div><div class="cp"><p class="cp-label">Iterations</p><div class="prose"><p>This meant we needed a considerably high double jump, but such a high jump caused the player to move horizontally much more than we intended and, worse, to stay in the air for a very long time.</p></div></div><div class="cp final"><p class="cp-label">Final design</p><div class="prose"><p>After many iterations and meetings, instead of a double jump the player gets a vertical thrust, as if they had two small rockets on their back, providing the height we wanted without the horizontal inertia.</p><p>We also added air friction and adjusted the gravity values so that jumps in general felt more natural. It seems obvious now, but at the time it was a serious issue.</p></div></div></div>
+    </article>
     
-    <div class="block">
-      <div class="block-head"><h3 class="small">Blinkshot</h3><div class="chips"><a class="chip" href="https://sable-sandalwood-dee.notion.site/Blinkshot-8f6e5fa67ef440c29586d23cf079f8ac" target="_blank" rel="noopener">Notion · Blinkshot <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></div></div>
-      <div class="split reverse">
-        <div class="reveal sticky-media"><div class="yt" data-yt="WHnHrLpxWmY" data-title="Blinkshot prototype"><a class="yt-fallback" href="https://www.youtube.com/watch?v=WHnHrLpxWmY" target="_blank" rel="noopener">Watch on YouTube</a></div></div>
-        <div class="prose reveal"><p>This mechanic is the most representative of the game's essence and also gives the studio its name. It arises from one of our core verbs: shooting. This means that all interactions with the world and its systems are done by shooting.</p><p>In parallel, we realized we needed a tool for player mobility. Since the game is fast-paced and player cooperation is essential, players needed a way to quickly and dynamically regroup and split up; in other words, some type of dash or blink ability.</p><p>Initially, we considered a horizontal dash, but our game is also very vertical, and there are situations where you want to move down or diagonally. We needed an omnidirectional tool. After many meetings and iterations, we decided to treat the blink as a shot.</p><p>You choose the direction by aiming and then teleport by shooting. This way, we solved one of the game's mobility problems while reinforcing the idea that everything is done by shooting.</p><p>This is one of the core mechanics of the game, and it has many more interactions and functionalities: its interactions with enemies and environmental elements, its game-feel peculiarities, and the restrictions in place to prevent players from breaking the level in various ways.</p><p>What I've explained here is just the ideation process; this mechanic was adjusted and modified throughout the entire development.</p></div>
-      </div>
-    </div>
-    </div>
-  </div>
-</section>
+    <article class="dcase reveal" id="blinkshot">
+      <div class="dcase-head"><div><h3>Blinkshot</h3><ul class="tags"><li>3Cs</li><li>Mobility</li><li>Core mechanic</li></ul></div><a class="chip" href="https://sable-sandalwood-dee.notion.site/Blinkshot-8f6e5fa67ef440c29586d23cf079f8ac" target="_blank" rel="noopener">Notion · Blinkshot <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></div>
+      <div class="yt" data-yt="WHnHrLpxWmY" data-title="Blinkshot prototype"><a class="yt-fallback" href="https://www.youtube.com/watch?v=WHnHrLpxWmY" target="_blank" rel="noopener">Watch on YouTube</a></div>
+      <div class="cps"><div class="cp"><p class="cp-label">Challenge</p><div class="prose"><p>This mechanic is the most representative of the game's essence and also gives the studio its name. It arises from one of our core verbs, shooting: all interactions with the world and its systems are done by shooting.</p><p>In parallel, we needed a mobility tool. Since the game is fast-paced and cooperation is essential, players needed to quickly and dynamically regroup and split up: some type of dash or blink ability.</p></div></div><div class="cp"><p class="cp-label">Iterations</p><div class="prose"><p>Initially, we considered a horizontal dash, but our game is also very vertical, and there are situations where you want to move down or diagonally. We needed an omnidirectional tool.</p></div></div><div class="cp final"><p class="cp-label">Final design</p><div class="prose"><p>After many meetings and iterations, we decided to treat the blink as a shot: you choose the direction by aiming and teleport by shooting. This solved one of the game's mobility problems while reinforcing the idea that everything is done by shooting.</p><p>It has many more interactions and functionalities: with enemies and environmental elements, its game-feel peculiarities, and the restrictions that prevent players from breaking the level. What I explain here is just the ideation; the mechanic was adjusted throughout the entire development.</p></div></div></div>
+    </article>
 
-<section class="chapter" id="elements">
-  <div class="wrap">
-    <h2 class="chapter-title">Elements &amp; weapons</h2>
-    <div class="prose chapter-intro">
-      <p>Elements and weapons are the players' tools not only for combat and killing enemies but also for all interactions with the world, as in this game everything is done by shooting.</p>
-      <p>To develop the weapons and elements we have now, all four weapons were tested and prototyped. These mechanics underwent the most iterations and had the most versions, because they needed to work both as combat weapons and as puzzle-solving tools.</p>
-      <div class="chips"><a class="chip" href="https://sable-sandalwood-dee.notion.site/ELEMENTS-269e489d38f5446e8d27e38d62bc7960" target="_blank" rel="noopener">Notion · Elements <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></div>
+    <header class="ch-head" id="elements"><span class="ch-num">03</span><h2>Elements &amp; weapons</h2><div class="prose"><p>Elements and weapons are the players' tools not only for combat but for all interactions with the world, as in this game everything is done by shooting.</p><p>All four weapons were tested and prototyped. They underwent the most iterations and had the most versions, because they needed to work both as combat weapons and as puzzle-solving tools. The two DPS weapons ended up slow and precise but very powerful, while the CC (crowd control) weapons are very fast, with low damage, but excel at “painting” the level with their elements.</p></div></header>
+    <div class="wgrid reveal">
+      <div class="wcard"><div class="wcard-top"><h4>Fire</h4><span class="role role-dps">DPS</span></div>
+        <dl><div><dt>Final archetype</dt><dd>Burst rifle, three bullets per burst</dd></div><div><dt>Effect</dt><dd>High damage, relatively slow</dd></div></dl></div>
+      <div class="wcard"><div class="wcard-top"><h4>Spore</h4><span class="role role-cc">CC</span></div>
+        <dl><div><dt>Final archetype</dt><dd>Submachine gun</dd></div><div><dt>Effect</dt><dd>Slows enemies down</dd></div></dl></div>
+      <div class="wcard"><div class="wcard-top"><h4>Hydrogel</h4><span class="role role-cc">CC</span></div>
+        <dl><div><dt>Final archetype</dt><dd>Hose</dd></div><div><dt>Effect</dt><dd>Ground bubbles that explode and knock enemies back; direct hits push them back</dd></div></dl></div>
+      <div class="wcard"><div class="wcard-top"><h4>Electroplasm</h4><span class="role role-dps">DPS</span></div>
+        <dl><div><dt>Final archetype</dt><dd>Charged single projectile</dd></div><div><dt>Effect</dt><dd>Piercing damage, reduced by each enemy it passes through</dd></div></dl></div>
     </div>
-    <div style="margin-top:clamp(32px,5vw,56px)">
-    
-    <div class="block">
-      <div class="block-head"><h3 class="small">Fire</h3><div class="chips"><a class="chip" href="https://sable-sandalwood-dee.notion.site/Fire-DPS-f383ada3dfc14f3b9b0ea630f5473523" target="_blank" rel="noopener">Notion · Fire <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></div></div>
-      <div class="split">
-        <div class="reveal sticky-media"><div class="yt" data-yt="uZoiFMmk6YU" data-title="Fire weapon prototype"><a class="yt-fallback" href="https://www.youtube.com/watch?v=uZoiFMmk6YU" target="_blank" rel="noopener">Watch on YouTube</a></div></div>
-        <div class="prose reveal"><p>Fire was clear in terms of puzzles: it was fire. The problem arose more on the combat side.</p><p>Initially it was supposed to be like a fire hose, but this concept caused problems with its floor behaviour: it left a trail of fire wherever it touched, and that trail caused contact damage. In other words, it was too powerful.</p><p>So we had to change the concept. After several iterations, ranging from a sniper rifle to a grenade launcher, we settled on a burst rifle with three bullets per burst: high damage but relatively slow.</p><p>With this, we also decided that the two DPS weapons would be slow and precise but very powerful, while the CC (crowd control) weapons would be very fast, with low damage, but excelling at “painting” the level with their elements, creating large CC areas. Combined with the other weapons, the result is devastating.</p></div>
-      </div>
-    </div>
-    
-    <div class="block">
-      <div class="block-head"><h3 class="small">Spore</h3><div class="chips"><a class="chip" href="https://sable-sandalwood-dee.notion.site/Spores-CC-f8ff913d5a1c4135b43f3abe776a79fe" target="_blank" rel="noopener">Notion · Spore <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></div></div>
-      <div class="split reverse">
-        <div class="reveal sticky-media"><div class="yt" data-yt="VWwqmM7BDx8" data-title="Spore weapon prototype"><a class="yt-fallback" href="https://www.youtube.com/watch?v=VWwqmM7BDx8" target="_blank" rel="noopener">Watch on YouTube</a></div></div>
-        <div class="prose reveal"><p>The spore weapon was the one closest to its final form from the beginning: it was conceived as a submachine gun and kept that archetype. It didn't cause problems with its interactions; the main thing that changed was its effect on enemies.</p><p>Initially it poisoned them, dealing damage over time. We wanted to differentiate it from fire: the burn would deal damage and disappear, while the poison would deal damage over time.</p><p>However, this didn't work out. It was clearly the most powerful weapon of all, and its damage potential conflicted with the idea of a CC weapon. The result was to remove the poison and turn it into a slow effect.</p></div>
-      </div>
+    <div class="combos reveal">
+      <p class="cp-label">Key combinations</p>
+      <ul>
+        <li><strong>Hydrogel + Electroplasm:</strong> electrified bubbles stun enemies and deal damage.</li>
+        <li><strong>Hydrogel + Spore:</strong> a toxic cloud that makes enemies turn against each other, plus a dedicated water–spore interactable for puzzles.</li>
+        <li><strong>DPS + CC:</strong> combining the CC areas with the other weapons results in a devastating finale.</li>
+      </ul>
     </div>
     
-    <div class="block">
-      <div class="block-head"><h3 class="small">Hydrogel</h3><div class="chips"><a class="chip" href="https://sable-sandalwood-dee.notion.site/Water-Hydrogel-CC-c3debd33f909474ca500d1902eb90406" target="_blank" rel="noopener">Notion · Hydrogel <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></div></div>
-      <div class="split">
-        <div class="reveal sticky-media"><div class="yt" data-yt="tIn--X-9LRo" data-title="Hydrogel weapon prototype" data-thumb="https://i.ytimg.com/vi/tIn--X-9LRo/hqdefault.jpg"><a class="yt-fallback" href="https://www.youtube.com/watch?v=tIn--X-9LRo" target="_blank" rel="noopener">Watch on YouTube</a></div></div>
-        <div class="prose reveal"><p>The water weapon was quite problematic, not in its behaviour, which we knew from the beginning would be a hose, but in the effects it would cause on enemies, the ground and their interactions.</p><p>Ideas ranged from a vortex that trapped enemies when it touched the ground, to a bubble that lifted the enemy and then exploded, causing fall damage, and many other crazy concepts.</p><p>In the end, when water touches the ground it creates a bubble that explodes and knocks enemies back when they touch it. Hitting an enemy directly with the hose pushes them back. The interaction with electricity wasn't problematic: electrifying the bubbles on the ground stuns enemies and deals damage.</p><p>The real challenge was the water–spore interaction, especially since it also needed to work for puzzles. We considered making it grow plants, but this was discarded due to art restrictions. We settled on combining water and spores into a toxic cloud (similar to what spores used to do) that makes enemies turn against each other. For puzzles, we created a specific water–spore interactable.</p></div>
-      </div>
-    </div>
+    <article class="dcase reveal" id="fire">
+      <div class="dcase-head"><div><h3>Fire</h3><ul class="tags"><li>DPS</li></ul></div><a class="chip" href="https://sable-sandalwood-dee.notion.site/Fire-DPS-f383ada3dfc14f3b9b0ea630f5473523" target="_blank" rel="noopener">Notion · Fire <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></div>
+      <div class="yt" data-yt="uZoiFMmk6YU" data-title="Fire weapon prototype"><a class="yt-fallback" href="https://www.youtube.com/watch?v=uZoiFMmk6YU" target="_blank" rel="noopener">Watch on YouTube</a></div>
+      <div class="cps"><div class="cp"><p class="cp-label">Challenge</p><div class="prose"><p>Fire was clear in terms of puzzles: it was fire. The problem arose more on the combat side.</p></div></div><div class="cp"><p class="cp-label">Iterations</p><div class="prose"><p>Initially it was supposed to be like a fire hose, but it left a trail of fire wherever it touched the floor, and that trail caused contact damage. In other words, it was too powerful.</p><p>We tried several concepts, ranging from a sniper rifle to a grenade launcher.</p></div></div><div class="cp final"><p class="cp-label">Final design</p><div class="prose"><p>A burst rifle with three bullets per burst: high damage but relatively slow.</p><p>This also set the rule for the whole arsenal: DPS weapons slow, precise and powerful; CC weapons fast, low damage and great at creating large CC areas.</p></div></div></div>
+    </article>
     
-    <div class="block">
-      <div class="block-head"><h3 class="small">Electroplasm</h3><div class="chips"><a class="chip" href="https://sable-sandalwood-dee.notion.site/Electroplasm-DPS-e1e04b9cf72947e6a8c9ed9a67ea8f02" target="_blank" rel="noopener">Notion · Electroplasm <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></div></div>
-      <div class="split reverse">
-        <div class="reveal sticky-media"><div class="yt" data-yt="tIn--X-9LRo" data-title="Electroplasm weapon prototype" data-thumb="https://i.ytimg.com/vi/tIn--X-9LRo/hqdefault.jpg"><a class="yt-fallback" href="https://www.youtube.com/watch?v=tIn--X-9LRo" target="_blank" rel="noopener">Watch on YouTube</a></div></div>
-        <div class="prose reveal"><p>The electric weapon was much simpler to design, although it also had a few ups and downs. Initially we wanted it to work like a fusion rifle from Destiny 2. The final concept remained similar, the main change being that it fires a single projectile instead of multiple ones. Damage varies with how long the weapon is charged.</p><p>The biggest challenge was deciding what the weapon would do to enemies. We had too many good ideas, which made it particularly hard to choose. It was clear that the special effect would only apply when fully charged.</p><p>The most popular candidates were chain lightning and a stun, but both were discarded because they provided too much CC for a DPS weapon. In the end we settled on piercing damage, where each enemy the projectile passes through reduces its damage.</p></div>
-      </div>
-    </div>
-    </div>
-  </div>
-</section>
+    <article class="dcase reveal" id="spore">
+      <div class="dcase-head"><div><h3>Spore</h3><ul class="tags"><li>CC</li></ul></div><a class="chip" href="https://sable-sandalwood-dee.notion.site/Spores-CC-f8ff913d5a1c4135b43f3abe776a79fe" target="_blank" rel="noopener">Notion · Spore <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></div>
+      <div class="yt" data-yt="VWwqmM7BDx8" data-title="Spore weapon prototype"><a class="yt-fallback" href="https://www.youtube.com/watch?v=VWwqmM7BDx8" target="_blank" rel="noopener">Watch on YouTube</a></div>
+      <div class="cps"><div class="cp"><p class="cp-label">Challenge</p><div class="prose"><p>The spore weapon was the closest to its final form from the beginning: conceived as a submachine gun, it kept that archetype and didn't cause problems with its interactions. What changed was its effect on enemies.</p></div></div><div class="cp"><p class="cp-label">Iterations</p><div class="prose"><p>Initially it poisoned them, dealing damage over time, to differentiate it from fire, whose burn would deal damage and disappear.</p><p>However, this didn't work out: it was clearly the most powerful weapon of all, and its damage potential conflicted with the idea of a CC weapon.</p></div></div><div class="cp final"><p class="cp-label">Final design</p><div class="prose"><p>We removed the poison and turned it into a slow effect.</p></div></div></div>
+    </article>
+    
+    <article class="dcase reveal" id="hydrogel">
+      <div class="dcase-head"><div><h3>Hydrogel</h3><ul class="tags"><li>CC</li></ul></div><a class="chip" href="https://sable-sandalwood-dee.notion.site/Water-Hydrogel-CC-c3debd33f909474ca500d1902eb90406" target="_blank" rel="noopener">Notion · Hydrogel <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></div>
+      <div class="yt" data-yt="tIn--X-9LRo" data-title="Hydrogel weapon prototype" data-thumb="https://i.ytimg.com/vi/tIn--X-9LRo/hqdefault.jpg"><a class="yt-fallback" href="https://www.youtube.com/watch?v=tIn--X-9LRo" target="_blank" rel="noopener">Watch on YouTube</a></div>
+      <div class="cps"><div class="cp"><p class="cp-label">Challenge</p><div class="prose"><p>The water weapon was problematic, not in its behaviour (we knew from the beginning it would be a hose) but in the effects on enemies, the ground and their interactions.</p></div></div><div class="cp"><p class="cp-label">Iterations</p><div class="prose"><p>Ideas ranged from a vortex that trapped enemies when it touched the ground, to a bubble that lifted the enemy and then exploded, causing fall damage, and many other crazy concepts.</p><p>The real challenge was the water–spore interaction, especially since it also needed to work for puzzles. We considered making it grow plants, but this was discarded due to art restrictions.</p></div></div><div class="cp final"><p class="cp-label">Final design</p><div class="prose"><p>When water touches the ground it creates a bubble that explodes and knocks enemies back when they touch it; hitting an enemy directly with the hose pushes them back.</p><p>Electrifying the bubbles stuns enemies and deals damage, and water plus spores creates a toxic cloud (similar to what spores used to do) that makes enemies turn against each other. For puzzles, we created a specific water–spore interactable.</p></div></div></div>
+    </article>
+    
+    <article class="dcase reveal" id="electroplasm">
+      <div class="dcase-head"><div><h3>Electroplasm</h3><ul class="tags"><li>DPS</li></ul></div><a class="chip" href="https://sable-sandalwood-dee.notion.site/Electroplasm-DPS-e1e04b9cf72947e6a8c9ed9a67ea8f02" target="_blank" rel="noopener">Notion · Electroplasm <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></div>
+      <div class="yt" data-yt="tIn--X-9LRo" data-title="Electroplasm weapon prototype" data-thumb="https://i.ytimg.com/vi/tIn--X-9LRo/hqdefault.jpg"><a class="yt-fallback" href="https://www.youtube.com/watch?v=tIn--X-9LRo" target="_blank" rel="noopener">Watch on YouTube</a></div>
+      <div class="cps"><div class="cp"><p class="cp-label">Challenge</p><div class="prose"><p>The electric weapon was much simpler to design, though it had a few ups and downs. The biggest challenge was deciding what it would do to enemies: we had too many good ideas. It was clear the special effect would only apply when fully charged.</p></div></div><div class="cp"><p class="cp-label">Iterations</p><div class="prose"><p>Initially we wanted it to work like a fusion rifle from Destiny 2. The concept remained similar, but it fires a single projectile instead of multiple ones, with damage varying with how long it is charged.</p><p>The most popular effects were chain lightning and a stun, but both were discarded because they provided too much CC for a DPS weapon.</p></div></div><div class="cp final"><p class="cp-label">Final design</p><div class="prose"><p>Piercing damage, where each enemy the projectile passes through reduces its damage.</p></div></div></div>
+    </article>
 
-<section class="chapter" id="enemies">
-  <div class="wrap">
-    <h2 class="chapter-title">Enemies</h2>
-    <div class="prose chapter-intro">
-      <p>Enemies are a key part of the game, so they obviously took a lot of time and resources to create. From a design perspective, we iterated on the enemy concepts countless times to meet the game's needs as well as the restrictions of other departments.</p>
-      <p>In my case, besides designing the enemy concepts during various design meetings, I was also responsible for prototyping them, including their interactions with other mechanics and gameplay elements, as well as their AI through behaviour trees, iterating them until reaching a satisfactory result.</p>
-      <div class="chips"><a class="chip" href="https://sable-sandalwood-dee.notion.site/ENEMIES-2a75067c74544431abecd884cc34e9df" target="_blank" rel="noopener">Notion · Enemies <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></div>
-    </div>
-    <div style="margin-top:clamp(32px,5vw,56px)">
-    
-    <div class="block">
-      <div class="block-head"><h3 class="small">Puckarb</h3><div class="chips"><a class="chip" href="https://sable-sandalwood-dee.notion.site/Smasher-Mauricio-4e7735800a354204bb4f943fe9123832" target="_blank" rel="noopener">Notion · Puckarb <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></div></div>
-      <div class="split">
-        <div class="reveal sticky-media"><div class="yt" data-yt="YiysNERDmto" data-title="Puckarb (smasher) enemy prototype"><a class="yt-fallback" href="https://www.youtube.com/watch?v=YiysNERDmto" target="_blank" rel="noopener">Watch on YouTube</a></div></div>
-        <div class="prose reveal"><p>The Puckarb is the basic and most common enemy in Bugs 'N' Guns: a short-range ground enemy with low health that typically appears in groups. One of its most important characteristics is its ability to climb, so it can be on walls as well as ceilings.</p><p>This provides several advantages. First, they create many moments of surprise, with ambushes from places where players are not used to encountering enemies. At the same time, being always on a surface makes them perfect targets for weapon combinations to eliminate them quickly.</p><p>This enemy was relatively easy to design. It was clear that we needed a “smasher” type enemy and, given the foundations we had established, a “horde” type as well. The climbing ability also came naturally, as the train sometimes travels along walls or ceilings, so we needed enemies that could pursue it.</p></div>
-      </div><div class="reveal" style="margin-top:clamp(24px,4vw,40px)"><figure><div class="media"><img src="assets/img/bng/puckarb.webp" alt="Puckarb enemy design sheet" loading="lazy" decoding="async" class="zoomable"></div></figure></div>
-    </div>
-    </div>
-  </div>
-</section>
-<section class="section"><div class="wrap"><nav data-pager="bng" aria-label="Bugs 'N' Guns sections"></nav></div></section>
+    <header class="ch-head" id="enemies"><span class="ch-num">04</span><h2>Enemies</h2><div class="prose"><p>Enemies are a key part of the game, so they took a lot of time and resources. We iterated on the enemy concepts countless times to meet the game's needs as well as the restrictions of other departments.</p><p>Besides designing the enemy concepts in the design meetings, I was responsible for prototyping them, including their interactions with other mechanics and gameplay elements, and their AI through behaviour trees, iterating until reaching a satisfactory result.</p></div></header>
+    <article class="dcase reveal" id="puckarb">
+      <div class="dcase-head"><div><h3>Puckarb</h3><ul class="tags"><li>Smasher</li><li>Horde</li><li>Climber</li></ul></div><a class="chip" href="https://sable-sandalwood-dee.notion.site/Smasher-Mauricio-4e7735800a354204bb4f943fe9123832" target="_blank" rel="noopener">Notion · Puckarb <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></div>
+      <div class="yt" data-yt="YiysNERDmto" data-title="Puckarb (smasher) enemy prototype"><a class="yt-fallback" href="https://www.youtube.com/watch?v=YiysNERDmto" target="_blank" rel="noopener">Watch on YouTube</a></div>
+      <dl class="profile">
+        <div><dt>Role</dt><dd>The basic and most common enemy</dd></div>
+        <div><dt>Range</dt><dd>Short-range, ground</dd></div>
+        <div><dt>Health</dt><dd>Low</dd></div>
+        <div><dt>Behaviour</dt><dd>Appears in groups; climbs walls and ceilings</dd></div>
+      </dl>
+      <div class="cps">
+        <div class="cp"><p class="cp-label">Why it climbs</p><div class="prose"><p>Being able to climb creates many moments of surprise, with ambushes from places where players are not used to encountering enemies. At the same time, being always on a surface makes them perfect targets for weapon combinations to eliminate them quickly.</p></div></div>
+        <div class="cp final"><p class="cp-label">Design process</p><div class="prose"><p>This enemy was relatively easy to design. It was clear that we needed a “smasher” type enemy and, given the foundations we had established, a “horde” type as well. The climbing ability came naturally, as the train sometimes travels along walls or ceilings, so we needed enemies that could pursue it.</p></div></div>
+      </div>
+    </article>
+    <div class="reveal" style="margin-top:20px"><div class="ph" data-placeholder="BNG-PROTO-ENEMIES-MORE"><div class="ph-inner"><span class="ph-id">BNG-PROTO-ENEMIES-MORE</span><span>Pending: the rest of the enemies (on Wix this part was marked as WIP)</span></div></div></div>
+</div></div><section class="section"><div class="wrap"><nav data-pager="bng" aria-label="Bugs 'N' Guns sections"></nav></div></section>
 </main>
 <div id="site-footer"></div>
 <script src="js/site.js"></script>
