@@ -13,6 +13,7 @@ Cada hueco pendiente en la web tiene un **ID** visible (recuadro naranja con ray
 | `BNG-TOOLS-CHECKPOINT-TXT` | `bng-tools.html` | Texto de Checkpoints & saves |
 | `BNG-TOOLS-OPTIMIZATION-MEDIA` | `bng-tools.html` | Imagen o vídeo de Optimization |
 | `BNG-TOOLS-OPTIMIZATION-TXT` | `bng-tools.html` | Texto de Optimization |
+| `BNG-PROTO-ENEMIES-MORE` | `bng-prototyping.html` | El resto de enemigos (en Wix, tras el Puckarb, solo había una imagen de "WIP") |
 | `BNG-BLINKBALL-VIDEO` | `bng-blinkball.html` | (Opcional) vídeo de gameplay de BlinkBall |
 
 ## Cómo sustituirlos
@@ -26,6 +27,6 @@ Cada hueco pendiente en la web tiene un **ID** visible (recuadro naranja con ray
 
 ## Estructura
 
-- Cada página es un `.html` en la raíz. El menú, el pie y la sub-navegación de Bugs 'N' Guns se generan desde `js/site.js` (array `NAV`): para añadir una página, añade una entrada ahí.
-- Estilos en `css/style.css` (colores y tipografías en las variables de `:root`).
+- Cada página es un `.html` en la raíz. El menú (`MENU`), el pie con el contacto, las pestañas de Bugs 'N' Guns y los enlaces anterior/siguiente (`GROUPS`) se generan desde `js/site.js`: para añadir una página, añade una entrada ahí.
+- Estilos en `css/style.css`: colores (paleta *moss*) y tipografías en las variables de `:root`. Las fuentes (Barlow Condensed e Inter) están en `assets/fonts/`, sin depender de Google Fonts.
 - Imágenes optimizadas (WebP) en `assets/img/`.

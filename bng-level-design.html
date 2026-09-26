@@ -4,135 +4,62 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Level Design · Bugs &#x27;N&#x27; Guns — Álvaro Calvo García-Arias</title>
-<meta name="description" content="Level design of Bugs &#x27;N&#x27; Guns: objectives, beat chart, 2D layout built for reuse, and the design of the first and fourth combat arenas.">
+<meta name="description" content="Level design of Bugs &#x27;N&#x27; Guns: objectives, beat chart, 2D layout built for reuse, blockout, and the design of the first and fourth combat arenas.">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Level Design · Bugs &#x27;N&#x27; Guns — Álvaro Calvo García-Arias">
-<meta property="og:description" content="Level design of Bugs &#x27;N&#x27; Guns: objectives, beat chart, 2D layout built for reuse, and the design of the first and fourth combat arenas.">
+<meta property="og:description" content="Level design of Bugs &#x27;N&#x27; Guns: objectives, beat chart, 2D layout built for reuse, blockout, and the design of the first and fourth combat arenas.">
 <meta property="og:image" content="assets/img/thumbs/tICzsxpXogc.webp">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="theme-color" content="#0e0f12">
+<meta name="theme-color" content="#141a17">
 <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;family=Prompt:wght@300;400;500&amp;display=swap">
+<link rel="preload" href="assets/fonts/barlow-condensed-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="assets/fonts/inter-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="css/style.css">
 </head>
 <body data-section="bng" data-page="bng-level-design">
-<div id="site-header"><noscript><nav class="wrap" style="padding:20px 0;display:flex;gap:16px;flex-wrap:wrap"><a href="index.html">Portfolio</a><a href="bugs-n-guns.html">Bugs 'N' Guns</a><a href="personal-projects.html">Personal Projects</a><a href="contact.html">Contact</a></nav></noscript></div>
+<div id="site-header"><noscript><nav class="wrap" style="padding:20px 0;display:flex;gap:16px;flex-wrap:wrap"><a href="index.html">Portfolio</a><a href="index.html#work">Work</a><a href="bugs-n-guns.html">Bugs 'N' Guns</a><a href="personal-projects.html">Personal</a><a href="contact.html">Contact</a></nav></noscript></div>
 <main id="main">
-<section class="page-hero">
-  <div class="wrap">
-    <p class="eyebrow">Bugs 'N' Guns</p>
-    <h1>Level Design</h1>
-    <p class="lead">The level design of Bugs 'N' Guns: beat chart and level layout, arenas and encounters, and prototyping ideas for every part of the level, from puzzles to the game's final stage.</p>
+<section class="wrap proj-head">
+  <p class="eyebrow"><a href="bugs-n-guns.html">Bugs 'N' Guns</a> · 04</p>
+  <h1>Level Design</h1>
+  <p class="hero-lead">The level design of Bugs 'N' Guns: beat chart and level layout, arenas and encounters, and prototyping ideas for every part of the level, from puzzles to the game's final stage.</p>
+  
+</section><nav data-subnav="bng" aria-label="Bugs 'N' Guns sections"></nav><section class="wrap glance-wrap"><p class="section-label">At a glance</p><dl class="glance"><div><dt>Pipeline</dt><dd>Objectives, beat chart, 2D layout, blockout and arenas</dd></div><div><dt>Combat</dt><dd>Designed all the combat and encounters in the game</dd></div><div><dt>Layout</dt><dd>2D layout for all the levels, from whiteboard to final map</dd></div><div><dt>Production</dt><dd>Reuse strategy to deliver varied gameplay with limited art resources</dd></div></dl></section><div class="wrap proj-grid"><aside class="sheet side-index"><p class="side-title">On this page</p><ol class="toc-side"><li><a href="#rules"><span>01</span>Rules &amp; objectives</a></li><li><a href="#beat-chart"><span>02</span>Beat chart</a></li><li><a href="#layout"><span>03</span>2D layout</a></li><li><a href="#blockout"><span>04</span>Blockout</a></li><li><a href="#arenas"><span>05</span>Arenas &amp; encounters</a></li><li><a href="#arena-1"><span>06</span>· First arena</a></li><li><a href="#arena-4"><span>07</span>· Fourth arena</a></li></ol><p class="side-title">Documentation</p><ul class="sheet-links"><li><a href="https://sable-sandalwood-dee.notion.site/LEVEL-DESIGN-9b41a421d3874e27a6570153073ee32b" target="_blank" rel="noopener">Level Design<svg class="ic" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></li><li><a href="https://sable-sandalwood-dee.notion.site/Level-info-c69360a2bd75489696d31a57eb194598" target="_blank" rel="noopener">Level info<svg class="ic" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></li><li><a href="https://sable-sandalwood-dee.notion.site/Beat-chart-f3648a0a18444f2abd06e8bf40f4dfbd" target="_blank" rel="noopener">Beat chart<svg class="ic" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></li><li><a href="https://sable-sandalwood-dee.notion.site/Combat-Design-f8c75218f2324956b44007a6a0f4c249" target="_blank" rel="noopener">Combat Design<svg class="ic" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></li></ul></aside><div class="proj-main dossier">
+    <p class="section-label">The pipeline</p>
+    <ol class="steps reveal"><li><a href="#rules"><span>01</span>Rules &amp; objectives</a></li><li><a href="#beat-chart"><span>02</span>Beat chart</a></li><li><a href="#layout"><span>03</span>2D layout</a></li><li><a href="#blockout"><span>04</span>Blockout</a></li><li><a href="#arenas"><span>05</span>Arenas &amp; encounters</a></li></ol>
+
+    <header class="ch-head" id="rules"><span class="ch-num">01</span><h2>Rules, objectives &amp; general concept</h2><div class="prose"><p>I was directly involved in making decisions about the general concepts on which the level should be designed, including the feelings and experiences we wanted the player to have and how we planned to deliver them.</p><p>I also focused on the technical aspects of the level to make sure our goals were achievable with the team and time we had available.</p><p>The objective table outlines what to promote and what to avoid, as we decided to follow it for the creation of the entire level.</p></div></header>
+    <div class="reveal"><figure><div class="media"><img src="assets/img/bng/level-objectives.webp" alt="Level objectives table: what to promote and what to avoid" loading="lazy" decoding="async" class="zoomable"></div></figure></div>
+
+    <header class="ch-head" id="beat-chart"><span class="ch-num">02</span><h2>General path &amp; beat chart</h2><div class="prose"><p>I was involved in the design and creation of the beat chart for Bugs 'N' Guns, the tool we used to define the rhythm, intensity and duration of all the level phases.</p><p>We determined when fights would occur, with which enemies, and how intense they would be. We also established where the puzzles would be, which elements would be used to solve them, and how difficult they would be.</p><p>Additionally, we outlined various “WOW” moments where we wanted to leave an impact on the player.</p></div></header>
+    <div class="reveal"><figure><div class="media"><img src="assets/img/bng/beat-chart.webp" alt="Bugs &#x27;N&#x27; Guns beat chart" loading="lazy" decoding="async" class="zoomable"></div></figure></div>
+
+    <header class="ch-head" id="layout"><span class="ch-num">03</span><h2>2D layout</h2><div class="prose"><p>I was involved in designing and creating the 2D layout for all the levels in Bugs 'N' Guns, from the initial whiteboard sketches to the final detailed map.</p><p>One of the major challenges was managing the diverse gameplay and multiple biomes, combined with the player's high mobility and vertical exploration, which complicated the task for our art team to visually complete the levels. Consequently, our design strategy emphasized reusing areas efficiently while ensuring varied gameplay with minimal adjustments.</p></div></header>
+    <div class="split layout-split">
+      <div class="reveal"><figure><div class="media"><img src="assets/img/bng/layout-2d.webp" alt="2D layout of the Bugs &#x27;N&#x27; Guns levels" loading="lazy" decoding="async" class="zoomable"></div></figure></div>
+      <div class="reuse reveal">
+        <p class="cp-label">Reuse strategy</p>
+        <div class="rcard"><h4>Revisited arenas</h4><p>Two large arenas that players revisit. New elements on re-entry, such as the weapons available at that stage and slight changes in the environment, make each visit a distinctly different experience.</p></div>
+        <div class="rcard"><h4>Shared-shell arenas</h4><p>Three smaller arenas for more static combat share identical wall and ceiling designs, so most decoration is reused. Changing the floor layout, enemy placement and train position gives each one a unique feel.</p></div>
+        <div class="rcard"><h4>Symmetrical caves</h4><p>The entry and exit of the largest arena are symmetrical caves, avoiding duplicated decoration work. Both focus on platforming with a twist: in one, players chase the train; in the other, they use the train as a platform.</p></div>
+      </div>
+    </div>
+
+    <header class="ch-head" id="blockout"><span class="ch-num">04</span><h2>From layout to blockout</h2><div class="prose"><p>This video shows the transition from the 2D layout to the level blocking.</p></div></header>
+    <div class="yt" data-yt="tICzsxpXogc" data-title="Bugs &#x27;N&#x27; Guns — from 2D layout to level blocking"><a class="yt-fallback" href="https://www.youtube.com/watch?v=tICzsxpXogc" target="_blank" rel="noopener">Watch on YouTube</a></div>
+
+    <header class="ch-head" id="arenas"><span class="ch-num">05</span><h2>Arenas &amp; encounters</h2><div class="prose"><p>During the development of Bugs 'N' Guns, I was in charge of designing all the combat and encounters in the game. These are two of the game's arenas.</p></div></header>
     
+    <article class="enc reveal" id="arena-1">
+      <div class="enc-media"><figure><div class="media"><img src="assets/img/bng/arena-1.webp" alt="Layout of the first game arena" loading="lazy" decoding="async" class="zoomable"></div></figure></div>
+      <div><h3>First game arena</h3><dl class="enc-facts"><div><dt>Goal</dt><dd>Introduce the basic mechanics and dynamics of gameplay (combining weapons) in a controlled and accessible environment.</dd></div><div><dt>Layout</dt><dd>The train runs alongside a pit from which no enemies can emerge, so players only need to focus on one side of the train. This reduces the intensity and lets them concentrate on learning the mechanics.</dd></div><div><dt>Enemies</dt><dd>The most basic Smashers, practice targets posing a low, though not nonexistent, threat. Because they arrive in waves, players must learn to combine their weapons, the core gunplay mechanic.</dd></div><div><dt>Teaching moment</dt><dd>The final spawn climbs down one of the rock walls, teaching that enemies can climb and bypass obstacles, and that players can “paint” the walls to defeat them before they reach the ground.</dd></div></dl></div>
+    </article>
     
-  </div>
-</section><nav data-subnav></nav>
-<section class="section">
-  <div class="wrap">
-    <div class="split wide-media">
-      <div class="reveal"><div class="yt" data-yt="tICzsxpXogc" data-title="Bugs &#x27;N&#x27; Guns — from 2D layout to level blocking"><a class="yt-fallback" href="https://www.youtube.com/watch?v=tICzsxpXogc" target="_blank" rel="noopener">Watch on YouTube</a></div></div>
-      <div class="prose reveal">
-        <p>This video shows the transition from the 2D layout to the level blocking.</p>
-        <div class="chips"><a class="chip" href="https://sable-sandalwood-dee.notion.site/LEVEL-DESIGN-9b41a421d3874e27a6570153073ee32b" target="_blank" rel="noopener">Notion · Level Design <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></div>
-        <nav class="toc" aria-label="On this page">
-          <a class="chip" href="#rules">Rules &amp; objectives</a>
-          <a class="chip" href="#beat-chart">Beat chart</a>
-          <a class="chip" href="#layout">2D layout</a>
-          <a class="chip" href="#arenas">Arenas &amp; encounters</a>
-        </nav>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="chapter" id="rules">
-  <div class="wrap">
-    <div class="split">
-      <div class="reveal sticky-media"><figure><div class="media"><img src="assets/img/bng/level-objectives.webp" alt="Level objectives table: what to promote and what to avoid" loading="lazy" decoding="async" class="zoomable"></div></figure></div>
-      <div class="prose reveal">
-        <h2>Rules, objectives &amp; general concept</h2>
-        <p>I was directly involved in making decisions about the general concepts on which the level should be designed, including the feelings and experiences we wanted the player to have and how we planned to deliver them.</p>
-        <p>I also focused on the technical aspects of the level to make sure our goals were achievable with the team and time we had available.</p>
-        <p>The image shows the objective table, which outlines what to promote and what to avoid, as we decided to follow it for the creation of the entire level.</p>
-        <div class="chips"><a class="chip" href="https://sable-sandalwood-dee.notion.site/Level-info-c69360a2bd75489696d31a57eb194598" target="_blank" rel="noopener">Notion · Level info <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="chapter" id="beat-chart">
-  <div class="wrap">
-    <div class="split reverse">
-      <div class="reveal sticky-media"><figure><div class="media"><img src="assets/img/bng/beat-chart.webp" alt="Bugs &#x27;N&#x27; Guns beat chart" loading="lazy" decoding="async" class="zoomable"></div></figure></div>
-      <div class="prose reveal">
-        <h2>General path &amp; beat chart</h2>
-        <p>I was involved in the design and creation of the beat chart for Bugs 'N' Guns, the tool we used to define the rhythm, intensity and duration of all the level phases.</p>
-        <p>We determined when fights would occur, with which enemies, and how intense they would be. We also established where the puzzles would be, which elements would be used to solve them, and how difficult they would be.</p>
-        <p>Additionally, we outlined various “WOW” moments where we wanted to leave an impact on the player.</p>
-        <div class="chips"><a class="chip" href="https://sable-sandalwood-dee.notion.site/Beat-chart-f3648a0a18444f2abd06e8bf40f4dfbd" target="_blank" rel="noopener">Notion · Beat chart <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="chapter" id="layout">
-  <div class="wrap">
-    <div class="split">
-      <div class="reveal sticky-media"><figure><div class="media"><img src="assets/img/bng/layout-2d.webp" alt="2D layout of the Bugs &#x27;N&#x27; Guns levels" loading="lazy" decoding="async" class="zoomable"></div></figure></div>
-      <div class="prose reveal">
-        <h2>2D layout</h2>
-        <p>I was involved in designing and creating the 2D layout for all the levels in Bugs 'N' Guns, from the initial whiteboard sketches to the final detailed map.</p>
-        <p>One of the major challenges was managing the diverse gameplay and multiple biomes, combined with the player's high mobility and vertical exploration, which complicated the task for our art team to visually complete the levels.</p>
-        <p>Consequently, our design strategy emphasized reusing areas efficiently while ensuring varied gameplay with minimal adjustments. Three clear examples illustrate this approach:</p>
-        <ul>
-          <li><strong>Two large arenas that players revisit.</strong> By adding new elements on re-entry, such as the weapons available at that stage and slight changes in the environment, each visit is a distinctly different gameplay experience.</li>
-          <li><strong>Three smaller arenas for more static combat</strong> that share identical wall and ceiling designs, so most of the decoration is reused. Changing the floor layout, enemy placement and train position gives each one a unique feel.</li>
-          <li><strong>Symmetrical caves</strong> as the entry and exit of the largest arena, which avoids duplicating decoration work. Both focus on platforming with a twist: in one, players chase the train; in the other, they use the train as a platform. One passageway, two distinct experiences.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="chapter" id="arenas">
-  <div class="wrap">
-    <h2 class="chapter-title">Arenas &amp; encounters</h2>
-    <div class="prose chapter-intro">
-      <p>During the development of Bugs 'N' Guns, I was in charge of designing all the combat and encounters in the game. Here I explain the process of designing two of the game's arenas.</p>
-      <div class="chips"><a class="chip" href="https://sable-sandalwood-dee.notion.site/Combat-Design-f8c75218f2324956b44007a6a0f4c249" target="_blank" rel="noopener">Notion · Combat Design <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 3.5h7v7M12.5 3.5l-9 9"/></svg></a></div>
-    </div>
-    <div style="margin-top:clamp(32px,5vw,56px)">
-      <div class="block">
-        <div class="split">
-          <div class="reveal sticky-media"><figure><div class="media"><img src="assets/img/bng/arena-1.webp" alt="Layout of the first game arena" loading="lazy" decoding="async" class="zoomable"></div></figure></div>
-          <div class="prose reveal">
-            <h3>First game arena</h3>
-            <p>This is the first arena in the game, so it needed to introduce the basic mechanics and dynamics of gameplay (combining weapons) in a controlled and accessible environment.</p>
-            <p>The train runs alongside a pit from which no enemies can emerge, so players only need to focus on one side of the train. This reduces the arena's intensity and lets players concentrate on learning the mechanics without defending the train from multiple directions.</p>
-            <p>Naturally, the enemies here are the most basic Smashers in the game. Their sole purpose is to be practice targets, posing a low, though not nonexistent, threat. Because they arrive in waves, players must learn to combine their weapons to defeat them, which is the core gunplay mechanic.</p>
-            <p>At the end of the arena, the final spawn appears climbing down one of the rock walls. This teaches players that enemies can climb and bypass obstacles, and that they can use their weapons to “paint” the walls the enemies traverse and defeat them before they reach the ground.</p>
-          </div>
-        </div>
-      </div>
-      <div class="block">
-        <div class="split reverse">
-          <div class="reveal sticky-media"><figure><div class="media"><img src="assets/img/bng/arena-4.webp" alt="Layout of the fourth game arena" loading="lazy" decoding="async" class="zoomable"></div></figure></div>
-          <div class="prose reveal">
-            <h3>Fourth game arena</h3>
-            <p>This arena comes right after players receive their second weapon kit, the Electroplasm and the Hydrogel.</p>
-            <p>The train remains stationary at one end while enemies attack in waves. The pacing and intensity of the waves are controlled through the enemy counter and the AI Director, keeping the difficulty under control.</p>
-            <p>The main goal is to let players experiment and have fun with their new weapons, so the challenge is intentionally moderate, prioritizing learning and player expression over high pressure.</p>
-            <p>To support this, the layout creates a bottleneck that enhances the synergy between the two new weapons. Forcing enemies through narrow, aligned paths lets players take advantage of the Electroplasm's piercing (DPS) to hit several enemies at once, while the Hydrogel pushes enemies toward the abyss, an environmental hazard that rewards good positioning and weapon combination.</p>
-            <p>This way, the arena reinforces the weapon combination mechanics while providing a safe and engaging space to understand the strengths and interactions of the new loadout.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<section class="section"><div class="wrap"><nav data-pager="bng" aria-label="Bugs 'N' Guns sections"></nav></div></section>
+    <article class="enc reveal" id="arena-4">
+      <div class="enc-media"><figure><div class="media"><img src="assets/img/bng/arena-4.webp" alt="Layout of the fourth game arena" loading="lazy" decoding="async" class="zoomable"></div></figure></div>
+      <div><h3>Fourth game arena</h3><dl class="enc-facts"><div><dt>Context</dt><dd>Right after players receive their second weapon kit, the Electroplasm and the Hydrogel.</dd></div><div><dt>Goal</dt><dd>Let players experiment and have fun with their new weapons. The challenge is intentionally moderate, prioritizing learning and player expression over high pressure.</dd></div><div><dt>Pacing</dt><dd>The train stays stationary at one end while enemies attack in waves, controlled through the enemy counter and the AI Director.</dd></div><div><dt>Layout</dt><dd>A bottleneck of narrow, aligned paths lets the Electroplasm's piercing (DPS) hit several enemies at once, while the Hydrogel pushes enemies toward the abyss, an environmental hazard that rewards positioning and weapon combination.</dd></div><div><dt>Outcome</dt><dd>Reinforces the weapon combination mechanics in a safe, engaging space to understand the new loadout.</dd></div></dl></div>
+    </article>
+</div></div><section class="section"><div class="wrap"><nav data-pager="bng" aria-label="Bugs 'N' Guns sections"></nav></div></section>
 </main>
 <div id="site-footer"></div>
 <script src="js/site.js"></script>
