@@ -438,6 +438,8 @@ figure { margin: 0; }
 .ph { display: grid; place-items: center; text-align: center; aspect-ratio: 16 / 9; padding: 20px; border: 1px dashed var(--accent-line);
   background: repeating-linear-gradient(135deg, transparent 0 14px, rgba(255, 107, 69, .05) 14px 28px), var(--s1); color: var(--muted); font-size: .85rem; }
 .ph.square { aspect-ratio: 4 / 3; }
+.pp-img .ph { aspect-ratio: auto; height: 100%; border-width: 0; font-size: .78rem; }
+.ph-inline { font-family: var(--mono); font-size: .78em; color: var(--accent); }
 .ph-inner { display: grid; gap: 6px; justify-items: center; }
 .ph-id { font-family: var(--mono); font-size: .72rem; letter-spacing: .06em; color: var(--accent); padding: 3px 8px; border: 1px solid var(--accent-line); background: rgba(var(--bg-rgb), .6); }
 .ph-text { font-family: var(--mono); font-size: .8rem; color: var(--accent); border: 1px dashed var(--accent-line); padding: 12px 14px; background: var(--accent-soft); }

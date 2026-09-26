@@ -31,7 +31,9 @@
       { id: "super-transform", label: "Super Transform", href: "super-transform.html" },
       { id: "burger-bros-circus", label: "Burger Bros Circus", href: "burger-bros-circus.html" },
       { id: "gea-of-war", label: "Gea Of War", href: "gea-of-war.html" },
-      { id: "against-the-clock", label: "Against The Clock", href: "against-the-clock.html" }
+      { id: "against-the-clock", label: "Against The Clock", href: "against-the-clock.html" },
+      { id: "beat-found", label: "Beat Found", href: "beat-found.html" },
+      { id: "you-are-nobody", label: "You Are Nobody", href: "you-are-nobody.html" }
     ]
   };
 
