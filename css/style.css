@@ -431,11 +431,18 @@ figure { margin: 0; }
 .yt { position: relative; aspect-ratio: 16 / 9; background: #000; overflow: hidden; }
 .yt img { width: 100%; height: 100%; object-fit: cover; transition: transform .8s var(--ease); }
 .yt iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
-.yt-play { position: absolute; inset: 0; display: grid; place-items: center; }
-.yt-play span { width: 76px; height: 76px; display: grid; place-items: center; background: var(--accent); transition: transform .3s var(--ease), background .2s; }
-.yt-play svg { width: 24px; height: 24px; fill: var(--accent-ink); margin-left: 3px; }
+.yt-play { position: absolute; inset: 0; width: 100%; cursor: pointer; background: linear-gradient(180deg, transparent 55%, rgba(var(--bg-rgb), .8)); }
+.yt-label {
+  position: absolute; left: clamp(14px, 2.2vw, 22px); bottom: clamp(12px, 2vw, 18px);
+  display: inline-flex; align-items: center; gap: 10px;
+  font-family: var(--disp); font-weight: 600; font-size: clamp(.95rem, 1.4vw, 1.15rem); letter-spacing: .1em; text-transform: uppercase;
+  color: #fff; text-shadow: 0 1px 10px rgba(0, 0, 0, .6); transition: color .2s;
+}
+.yt-label svg { width: 16px; height: 16px; fill: currentColor; filter: drop-shadow(0 1px 6px rgba(0, 0, 0, .6)); transition: transform .2s var(--ease); }
+.yt-label em { font-style: normal; font-family: var(--sans); font-weight: 500; font-size: .75rem; letter-spacing: 0; text-transform: none; color: var(--soft); padding-left: 10px; border-left: 1px solid rgba(255, 255, 255, .35); }
 .yt:hover img { transform: scale(1.03); }
-.yt:hover .yt-play span { transform: scale(1.08); background: var(--accent-hover); }
+.yt:hover .yt-label, .yt-play:focus-visible .yt-label { color: var(--accent); }
+.yt:hover .yt-label svg, .yt-play:focus-visible .yt-label svg { transform: scale(1.15); }
 .yt-fallback { position: absolute; inset: 0; display: grid; place-items: center; }
 
 /* Placeholders for pending media / text */
@@ -531,6 +538,5 @@ a.contact-item:hover { border-color: var(--accent); }
   .contrib a { grid-template-columns: 92px 1fr; gap: 16px; }
   .contrib img { width: 92px; }
   .contrib .ic { display: none; }
-  .yt-play span { width: 60px; height: 60px; }
   .pp-grid { grid-template-columns: 1fr; }
 }

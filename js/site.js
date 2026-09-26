@@ -44,9 +44,17 @@
   ];
   var MAIL = "Calvoalvaro13@gmail.com";
 
+  // Video lengths in seconds (shown on the play label).
+  var DURATION = {
+    "-eAMfL_nJto": 81, "5_zhbJUPkPs": 704, "CI8AUE0d21w": 33, "EYnCGiVuaXQ": 169, "FyymwatUNNI": 86, "N4DxyZoo71Q": 45,
+    "NoE4qOLrqMI": 60, "SLGUOeP3ZOI": 114, "VWwqmM7BDx8": 57, "WHnHrLpxWmY": 42, "XM_g9x7btv4": 198, "YiysNERDmto": 31,
+    "Yzam-WWlWpI": 101, "pPfRK8eXA9U": 60, "sf2bG8XVwxU": 60, "tICzsxpXogc": 30, "uZoiFMmk6YU": 32, "vTBhdAZtNsY": 82,
+    "1140096228": 70
+  };
+
   var ICON = {
     arrow: '<svg class="ic" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M3 8h10M9 4l4 4-4 4"/></svg>',
-    play: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4.5v15l13-7.5z"/></svg>',
+    play: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3.5v17l15-8.5z"/></svg>',
     close: '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="m3 3 10 10M13 3 3 13"/></svg>'
   };
 
@@ -131,22 +139,24 @@
       "</div></footer>";
   }
 
-  /* ---------- Videos (YouTube or Vimeo): thumbnail first, iframe on click ---------- */
+  /* ---------- Videos (YouTube or Vimeo): thumbnail first, looping player on click ---------- */
   function initVideos() {
     document.querySelectorAll(".yt[data-yt], .yt[data-vimeo]").forEach(function (el) {
       var vimeo = el.getAttribute("data-vimeo");
       var id = vimeo || el.getAttribute("data-yt");
       var title = (el.getAttribute("data-title") || "Video").replace(/"/g, "&quot;");
       var thumb = el.getAttribute("data-thumb") || ("assets/img/thumbs/" + id + ".webp");
+      var secs = DURATION[id];
+      var len = secs ? '<em>' + Math.floor(secs / 60) + ":" + ("0" + (secs % 60)).slice(-2) + "</em>" : "";
       el.innerHTML = '<img src="' + thumb + '" alt="" loading="lazy" decoding="async">' +
-        '<button class="yt-play" type="button" aria-label="Play video: ' + title + '"><span>' + ICON.play + "</span></button>";
+        '<button class="yt-play" type="button" aria-label="Play video: ' + title + '"><span class="yt-label">' + ICON.play + "Play video" + len + "</span></button>";
       var img = el.querySelector("img");
       if (!vimeo) img.addEventListener("error", function () { img.src = "https://i.ytimg.com/vi/" + id + "/hqdefault.jpg"; }, { once: true });
       el.querySelector(".yt-play").addEventListener("click", function () {
         var f = document.createElement("iframe");
         f.src = vimeo
-          ? "https://player.vimeo.com/video/" + id + "?autoplay=1&dnt=1&title=0&byline=0&portrait=0"
-          : "https://www.youtube-nocookie.com/embed/" + id + "?autoplay=1&rel=0&modestbranding=1";
+          ? "https://player.vimeo.com/video/" + id + "?autoplay=1&loop=1&dnt=1&title=0&byline=0&portrait=0"
+          : "https://www.youtube-nocookie.com/embed/" + id + "?autoplay=1&loop=1&playlist=" + id + "&rel=0&modestbranding=1";
         f.title = el.getAttribute("data-title") || "Video";
         f.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; fullscreen; gyroscope; picture-in-picture; web-share";
         f.allowFullscreen = true;
