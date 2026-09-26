@@ -423,6 +423,8 @@ figure { margin: 0; }
 .media img { width: 100%; }
 .media-caption { margin-top: 10px; font-size: .8rem; color: var(--muted); }
 .zoomable { cursor: zoom-in; }
+.gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 12px; margin-top: 12px; }
+.gallery img { aspect-ratio: 16 / 9; object-fit: cover; }
 
 .yt { position: relative; aspect-ratio: 16 / 9; background: #000; overflow: hidden; }
 .yt img { width: 100%; height: 100%; object-fit: cover; transition: transform .8s var(--ease); }
