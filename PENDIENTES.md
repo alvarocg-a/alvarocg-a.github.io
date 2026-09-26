@@ -16,8 +16,6 @@ Cada hueco pendiente en la web tiene un **ID** visible (recuadro naranja con ray
 | `BNG-PROTO-ENEMIES-MORE` | `bng-prototyping.html` | El resto de enemigos (en Wix, tras el Puckarb, solo había una imagen de "WIP") |
 | `BNG-PROTO-HYDROGEL-VIDEO` | `bng-prototyping.html` | Vídeo de Hydrogel: el de Wix (`tIn--X-9LRo`) es privado en YouTube |
 | `BNG-PROTO-ELECTROPLASM-VIDEO` | `bng-prototyping.html` | Vídeo de Electroplasm (en Wix usaba el mismo vídeo privado) |
-| `PP-BEATFOUND-ROLE`, `-ENGINE`, `-CONTRIB` | `beat-found.html` | Tu rol, el motor y tus contribuciones (itch.io no los indica) |
-| `PP-YOUARENOBODY-ROLE`, `-ENGINE`, `-DATE`, `-CONTRIB` | `you-are-nobody.html` | Tu rol, el motor, la fecha/contexto y tus contribuciones |
 | `BNG-BLINKBALL-VIDEO` | `bng-blinkball.html` | (Opcional) vídeo de gameplay de BlinkBall |
 
 ## Cómo sustituirlos

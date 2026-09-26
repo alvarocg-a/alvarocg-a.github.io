@@ -423,7 +423,9 @@ figure { margin: 0; }
 .media img { width: 100%; }
 .media-caption { margin-top: 10px; font-size: .8rem; color: var(--muted); }
 .zoomable { cursor: zoom-in; }
-.gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 12px; margin-top: 12px; }
+.gallery { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 12px; }
+.gallery.cols-2 { grid-template-columns: repeat(2, 1fr); }
+@media (max-width: 640px) { .gallery, .gallery.cols-2 { grid-template-columns: 1fr 1fr; } }
 .gallery img { aspect-ratio: 16 / 9; object-fit: cover; }
 
 .yt { position: relative; aspect-ratio: 16 / 9; background: #000; overflow: hidden; }
