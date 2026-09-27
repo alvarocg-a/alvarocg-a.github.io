@@ -1,5 +1,7 @@
 # Contenido pendiente
 
+> **Los placeholders están ocultos en la web publicada.** Para verlos, pon `SHOW_PLACEHOLDERS = True` en `_internal/build.py` y ejecuta `python3 _internal/build.py` desde la raíz del repo (regenera todas las páginas). Al rellenar un hueco, edita el contenido en `build.py` y vuelve a generar.
+
 Cada hueco pendiente en la web tiene un **ID** visible (recuadro naranja con rayas o texto en naranja) y el atributo `data-placeholder="ID"` en el HTML. Para encontrarlo: busca el ID en el proyecto.
 
 ## Placeholders
@@ -28,6 +30,8 @@ Cada hueco pendiente en la web tiene un **ID** visible (recuadro naranja con ray
 - **Texto:** cambia el `<p class="ph-text" …>…</p>` por párrafos normales `<p>…</p>`.
 
 ## Estructura
+
+- `_internal/` (no se publica: GitHub Pages ignora las carpetas que empiezan por `_`): generador `build.py`, estas notas, el scraper de Wix y su exportación.
 
 - Cada página es un `.html` en la raíz. El menú (`MENU`), el pie con el contacto, las pestañas de Bugs 'N' Guns y los enlaces anterior/siguiente (`GROUPS`) se generan desde `js/site.js`: para añadir una página, añade una entrada ahí.
 - Estilos en `css/style.css`: colores (paleta *moss*) y tipografías en las variables de `:root`. Las fuentes (Barlow Condensed e Inter) están en `assets/fonts/`, sin depender de Google Fonts.

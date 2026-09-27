@@ -325,6 +325,7 @@ img[src$="divertifica.webp"] { filter: brightness(0) invert(1); opacity: .9; } /
 .toc-side a:hover { color: var(--text); }
 .toc-side a.is-active { color: var(--text); border-left-color: var(--accent); }
 .toc-side a.is-active span { color: var(--accent); }
+.toc-side li.sub a { padding-left: 42px; font-size: .84rem; }
 
 .dossier > * + * { margin-top: 24px; }
 .dossier .ch-head { margin-top: clamp(56px, 8vw, 96px); padding-top: 28px; border-top: 1px solid var(--line); }

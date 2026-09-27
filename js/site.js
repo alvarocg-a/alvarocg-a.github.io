@@ -43,6 +43,7 @@
     { label: "X / Twitter", href: "https://twitter.com/calvoalvaro12" }
   ];
   var MAIL = "Calvoalvaro13@gmail.com";
+  var CV = "assets/docs/Alvaro-Calvo-Garcia-Arias-CV.pdf";
 
   // Video lengths in seconds (shown on the play label).
   var DURATION = {
@@ -69,7 +70,8 @@
     if (!mount) return;
     var links = MENU.map(function (m) {
       return '<a href="' + m.href + '"' + (m.id === section ? ' aria-current="page"' : "") + ">" + m.label + "</a>";
-    }).join("") + '<a class="menu-cta" href="contact.html"' + (section === "contact" ? ' aria-current="page"' : "") + ">Contact</a>";
+    }).join("") + '<a href="' + CV + '" target="_blank" rel="noopener">CV</a>' +
+      '<a class="menu-cta" href="contact.html"' + (section === "contact" ? ' aria-current="page"' : "") + ">Contact</a>";
 
     mount.innerHTML =
       '<a class="skip" href="#main">Skip to content</a>' +
@@ -134,7 +136,8 @@
       "<h2>Let's build<br>something fun.</h2>" +
       '<p class="ftr-sub">Open to Technical Game Design and Combat Design roles.</p>' +
       '<div class="ftr-row"><a class="btn btn-accent" href="mailto:' + MAIL + '">' + MAIL + "</a>" +
-      '<div class="ftr-soc">' + SOCIAL.map(function (s) { return '<a href="' + s.href + '" target="_blank" rel="noopener">' + s.label + "</a>"; }).join("") + "</div></div>" +
+      '<div class="ftr-soc">' + SOCIAL.map(function (s) { return '<a href="' + s.href + '" target="_blank" rel="noopener">' + s.label + "</a>"; }).join("") +
+      '<a href="' + CV + '" target="_blank" rel="noopener">CV</a>' + "</div></div>" +
       '<p class="ftr-copy">© ' + new Date().getFullYear() + " Álvaro Calvo García-Arias · Technical Game Designer · Madrid, Spain</p>" +
       "</div></footer>";
   }
