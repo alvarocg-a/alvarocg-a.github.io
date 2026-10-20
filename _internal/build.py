@@ -203,6 +203,109 @@ def numbered(items):
 
 ARROW_SVG = '<svg class="ic" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M3 8h10M9 4l4 4-4 4"/></svg>'
 
+
+# ================================================================ TOOLS (read from _internal/tools/<slug>/tool.md)
+import re as _re
+
+TOOLS_DIR = os.path.join(ROOT, "_internal", "tools")
+TOOL_COVER = {"minimap-full-map-system": "03", "screen-waypoint-markers": "01"}  # which capture is the main image
+
+
+def md_inline(t):
+    t = html.escape(t, quote=False)
+    t = _re.sub(r"`([^`]+)`", r"<code>\1</code>", t)
+    t = _re.sub(r"\*\*([^*]+)\*\*", r"<strong>\1</strong>", t)
+    t = _re.sub(r"(?<![\w*])\*([^*]+)\*(?![\w*])", r"<em>\1</em>", t)
+    return t
+
+
+def parse_tool(slug):
+    raw = open(os.path.join(TOOLS_DIR, slug, "tool.md"), encoding="utf-8").read()
+    meta = {}
+    for line in _re.search(r"```yaml\n(.*?)```", raw, _re.S).group(1).splitlines():
+        m = _re.match(r"(\w+):\s*(.*?)\s*(#.*)?$", line)
+        if not m:
+            continue
+        v = m.group(2).strip()
+        if v.startswith("[") and v.endswith("]"):
+            v = [x.strip().strip('"') for x in v[1:-1].split(",") if x.strip()]
+        else:
+            v = v.strip('"')
+        meta[m.group(1)] = v
+    secs = {}
+    for blk in _re.split(r"\n## ", "\n" + raw.split("```", 2)[2])[1:]:
+        title, _, body = blk.partition("\n")
+        secs[title.strip()] = body.strip()
+
+    def paras(t):
+        return [" ".join(p.split()) for p in _re.split(r"\n\s*\n", t) if p.strip()]
+
+    def items(t, numbered=False):
+        pat = r"^\s*\d+\.\s+" if numbered else r"^\s*-\s+"
+        out = []
+        for line in t.splitlines():
+            if _re.match(pat, line):
+                out.append(_re.sub(pat, "", line).strip())
+            elif out and line.strip():
+                out[-1] += " " + line.strip()
+        return out
+
+    decisions = []
+    for blk in _re.split(r"\n### ", "\n" + secs.get("Design decisions", ""))[1:]:
+        title, _, body = blk.partition("\n")
+        parts = {}
+        for it in items(body):
+            m = _re.match(r"\*\*(Challenge|Iterations|Final design):\*\*\s*(.*)", it)
+            if m:
+                txt = m.group(2)
+                parts[m.group(1)] = txt[:1].upper() + txt[1:]
+        decisions.append((title.strip(), parts))
+    captions = {}
+    for it in items(secs.get("Gallery captions", "")):
+        m = _re.match(r"`(\d+)\.png`:\s*(.*)", it)
+        if m:
+            captions[m.group(1)] = m.group(2)
+    return dict(meta=meta, slug=slug, short=meta["name"].split(" — ")[0],
+                oneliner=" ".join(secs.get("One-liner", "").split()),
+                summary=" ".join(secs.get("Short description", "").split()),
+                about=paras(secs.get("About the tool", "")),
+                features=items(secs.get("Key features", "")),
+                steps=items(secs.get("How it works", ""), numbered=True),
+                decisions=decisions, notes=items(secs.get("Technical notes", "")), captions=captions)
+
+
+def parse_section():
+    raw = open(os.path.join(TOOLS_DIR, "section.md"), encoding="utf-8").read()
+    intro = " ".join(_re.search(r"## Section intro\n(.*?)\n## ", raw, _re.S).group(1).split())
+    order = _re.findall(r"^\d+\.\s+`([\w-]+)`", _re.search(r"## Order\n(.*?)\n## ", raw, _re.S).group(1), _re.M)
+    featured = _re.search(r"## Featured on the portfolio home\n\s*`([\w-]+)`", raw).group(1)
+    return intro, order, featured
+
+
+TOOLS_INTRO, TOOLS_ORDER, TOOLS_FEATURED = parse_section()
+TOOLS = [parse_tool(s) for s in TOOLS_ORDER]
+
+
+def tool_img(t, n):
+    return f"assets/img/tools/{t['slug']}/{n}.webp"
+
+
+def tool_index_card(t):
+    m = t["meta"]
+    tags = "".join(f"<li>{x}</li>" for x in m.get("tags", []))
+    return f"""
+      <a class="tool-card reveal" href="{t['slug']}.html">
+        <div class="tool-card-img"><img src="{tool_img(t, TOOL_COVER[t['slug']])}" alt="" loading="lazy" decoding="async"></div>
+        <div class="tool-card-body">
+          <p class="eyebrow">{m['type']} · {m['engine'].replace('Unreal Engine', 'UE')}</p>
+          <h3>{md_inline(t['short'])}</h3>
+          <p>{md_inline(t['oneliner'])}</p>
+          <ul class="tags">{tags}</ul>
+          <span class="link-arrow">View tool</span>
+        </div>
+      </a>"""
+
+
 # ================================================================ HOME
 PERSONAL = [
     ("you-are-nobody", "You Are Nobody", "img", "assets/img/thumbs/sf2bG8XVwxU.webp", "Global Game Jam · 2025",
@@ -247,6 +350,9 @@ def tile(href, img, eyebrow, name, role, tags, cls="", badge=""):
 DISCIPLINES = ["Gameplay mechanics &amp; 3Cs", "Combat", "Enemies &amp; AI", "Prototyping", "Level design", "Tools"]
 BIG_BADGE = '<span class="tile-badge"><img src="assets/img/logos/big-award.webp" alt="" width="22" height="22">Best Student Game · BIG 2023</span>'
 
+_ft = [t for t in TOOLS if t["slug"] == TOOLS_FEATURED][0]
+feat_tile = tile(f"{_ft['slug']}.html", tool_img(_ft, TOOL_COVER[_ft["slug"]]), f"{_ft['meta']['type']} · Fab · {_ft['meta']['released']}",
+                 md_inline(_ft["short"]), md_inline(_ft["oneliner"]), _ft["meta"].get("tags", [])[:4], "wide")
 home = f"""
 <section class="hero">
   <img class="hero-bg" src="assets/img/thumbs/Yzam-WWlWpI.webp" alt="" fetchpriority="high">
@@ -280,8 +386,13 @@ home = f"""
   </div>
 </section>
 
+<section class="wrap sec" id="tools">
+  <div class="sec-head sec-head-row"><div><p class="eyebrow">03 · Tools</p><h2>Built for Fab</h2></div><a class="link-arrow" href="tools.html">All tools</a></div>
+  {feat_tile}
+</section>
+
 <section class="wrap sec" id="about">
-  <div class="sec-head"><p class="eyebrow">03 · About</p><h2>Designer who prototypes</h2></div>
+  <div class="sec-head"><p class="eyebrow">04 · About</p><h2>Designer who prototypes</h2></div>
   <div class="about-grid">
     <div class="about-text reveal">
       <p>Hi, I'm Álvaro Calvo, a technical designer with over four years of experience working with Unreal Engine 5 and Unity.</p>
@@ -892,6 +1003,61 @@ itch_project("you-are-nobody", "You Are Nobody", "Global Game Jam · Jan 2025",
      "<strong>AI:</strong> the enemies' and the NPCs' AI.",
      "<strong>Team support:</strong> helped the team with the development tools (Unreal Engine, GitHub and others)."],
     "You Are Nobody, a stealth game about stealing faces with a camera, made at the Global Game Jam 2025. Game Designer and Technical Designer.", "assets/img/thumbs/sf2bG8XVwxU.webp")
+
+
+# ================================================================ TOOLS pages
+tools_index = f"""
+<section class="wrap proj-head">
+  <p class="eyebrow">Unreal Engine plugins on Fab</p>
+  <h1>Tools</h1>
+  <p class="hero-lead">{md_inline(TOOLS_INTRO)}</p>
+</section>
+<section class="wrap section" style="padding-top:12px">
+  <div class="tools-grid">{''.join(tool_index_card(t) for t in TOOLS)}
+  </div>
+</section>
+"""
+write("tools.html", "Tools — Álvaro Calvo García-Arias",
+      "Unreal Engine plugins by Álvaro Calvo García-Arias on Fab: " + ", ".join(t["short"] for t in TOOLS) + ".",
+      "tools", "tools", tools_index, og=tool_img(TOOLS[0], TOOL_COVER[TOOLS[0]["slug"]]))
+
+for t in TOOLS:
+    m, slug = t["meta"], t["slug"]
+    cover = TOOL_COVER[slug]
+    shots = sorted(f[:-5] for f in os.listdir(os.path.join(ROOT, "assets", "img", "tools", slug)) if f.endswith(".webp"))
+    rows = [("Type", m["type"]), ("Engine", m["engine"]), ("Implementation", m.get("implementation", "")), ("Price", m.get("price", "")),
+            ("Version", m.get("version", "")), ("Platform", m.get("platform", "")), ("Status", m.get("status", "")), ("Released", m.get("released", ""))]
+    rows = [(k, md_inline(v)) for k, v in rows if v and v != "TODO"]
+    docs = m.get("docs_url", "")
+    acts = btn(m["fab_url"], "Get it on Fab", True)
+    if docs:
+        acts += btn(f"assets/docs/tools/{slug}-user-guide.pdf", "User guide (PDF)")
+    main_fig = (f'<figure><div class="media"><img src="{tool_img(t, cover)}" alt="{html.escape(t["captions"].get(cover, t["short"]))}" class="zoomable" decoding="async"></div>'
+                f'<figcaption class="media-caption">{md_inline(t["captions"].get(cover, ""))}</figcaption></figure>')
+    dec = "".join(design_case(md_inline(title), [], None, "",
+                              [md_inline(p.get("Challenge", ""))], [md_inline(p.get("Iterations", ""))], [md_inline(p.get("Final design", ""))])
+                  for title, p in t["decisions"])
+    notes = "".join(f"<li>{md_inline(n)}</li>" for n in t["notes"])
+    gal = "".join(f'<figure class="media"><img src="{tool_img(t, n)}" alt="{html.escape(t["captions"].get(n, ""))}" loading="lazy" decoding="async" class="zoomable">'
+                  f'<figcaption class="media-caption gal-cap">{md_inline(t["captions"].get(n, ""))}</figcaption></figure>' for n in shots if n != cover)
+    main = f"""{main_fig}
+    <h2>About the tool</h2>
+    <div class="prose">{''.join(f'<p>{md_inline(p)}</p>' for p in t['about'])}</div>
+    <h2>Key features</h2>
+    <div class="prose"><ul>{''.join(f'<li>{md_inline(f)}</li>' for f in t['features'])}</ul></div>
+    <h2>How it works</h2>
+    {numbered([md_inline(x) for x in t['steps']])}
+    <h2>Design decisions</h2>
+    <div class="dossier">{dec}</div>
+    <h2>Technical notes</h2>
+    <div class="prose"><ul>{notes}</ul></div>
+    <h2>Gallery</h2>
+    <div class="gallery tool-gallery cols-{2 if len([n for n in shots if n != cover]) % 2 == 0 else 3}">{gal}</div>"""
+    body = case_head(f'<a href="tools.html">Tools</a> · {m["type"]} · {m["released"]}', md_inline(t["short"]), md_inline(t["oneliner"]), acts) + \
+        case_grid(sheet(rows), main) + """
+<section class="wrap section"><nav data-pager="tools" aria-label="More tools"></nav></section>
+"""
+    write(f"{slug}.html", f"{t['short']} — Unreal Engine plugin — Álvaro Calvo García-Arias", t["summary"], "tools", slug, body, og=tool_img(t, cover))
 
 # ================================================================ CONTACT
 contact = f"""

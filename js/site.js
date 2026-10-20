@@ -9,6 +9,7 @@
     { id: "work", label: "Work", href: "index.html#work" },
     { id: "bng", label: "Bugs 'N' Guns", href: "bugs-n-guns.html" },
     { id: "personal", label: "Personal", href: "personal-projects.html" },
+    { id: "tools", label: "Tools", href: "tools.html" },
     { id: "about", label: "About", href: "index.html#about" }
   ];
 
@@ -25,6 +26,10 @@
       { id: "bng-tools", label: "Tools 'N' Tech", href: "bng-tools.html" },
       { id: "bng-level-design", label: "Level Design", href: "bng-level-design.html" },
       { id: "bng-blinkball", label: "BlinkBall", href: "bng-blinkball.html" }
+    ],
+    tools: [
+      { id: "minimap-full-map-system", label: "Minimap & Full Map System", href: "minimap-full-map-system.html" },
+      { id: "screen-waypoint-markers", label: "Screen Waypoint Markers", href: "screen-waypoint-markers.html" }
     ],
     personal: [
       { id: "you-are-nobody", label: "You Are Nobody", href: "you-are-nobody.html" },

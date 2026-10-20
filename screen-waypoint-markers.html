@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Screen Waypoint Markers — Unreal Engine plugin — Álvaro Calvo García-Arias</title>
+<meta name="description" content="A drop-in screen-space waypoint for Unreal Engine: add one component to an actor and it gets a marker that follows it on screen and clamps to the edge with an arrow when it leaves the view. It handles the case most off-screen indicators get wrong, a target directly behind the camera.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Screen Waypoint Markers — Unreal Engine plugin — Álvaro Calvo García-Arias">
+<meta property="og:description" content="A drop-in screen-space waypoint for Unreal Engine: add one component to an actor and it gets a marker that follows it on screen and clamps to the edge with an arrow when it leaves the view. It handles the case most off-screen indicators get wrong, a target directly behind the camera.">
+<meta property="og:image" content="https://alvarocg-a.github.io/assets/img/tools/screen-waypoint-markers/01.webp">
+<meta property="og:url" content="https://alvarocg-a.github.io/screen-waypoint-markers.html">
+<link rel="canonical" href="https://alvarocg-a.github.io/screen-waypoint-markers.html">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#141a17">
+<link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+<link rel="preload" href="assets/fonts/barlow-condensed-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="assets/fonts/inter-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body data-section="tools" data-page="screen-waypoint-markers">
+<div id="site-header"><noscript><nav class="wrap" style="padding:20px 0;display:flex;gap:16px;flex-wrap:wrap"><a href="index.html">Portfolio</a><a href="index.html#work">Work</a><a href="bugs-n-guns.html">Bugs 'N' Guns</a><a href="personal-projects.html">Personal</a><a href="contact.html">Contact</a></nav></noscript></div>
+<main id="main">
+<section class="wrap proj-head">
+  <p class="eyebrow"><a href="tools.html">Tools</a> · C++ plugin · Oct 2026</p>
+  <h1>Screen Waypoint Markers</h1>
+  <p class="hero-lead">Objective markers that pin to the screen edge and point the right way, even when the target is behind you.</p>
+  <div class="actions"><a class="btn btn-primary" href="https://www.fab.com/listings/34659039-dca8-4e74-b233-29eb00e18f57" target="_blank" rel="noopener">Get it on Fab</a><a class="btn" href="assets/docs/tools/screen-waypoint-markers-user-guide.pdf" target="_blank" rel="noopener">User guide (PDF)</a></div>
+</section><div class="wrap proj-grid ruled"><aside class="sheet"><dl><div><dt>Type</dt><dd>C++ plugin</dd></div><div><dt>Engine</dt><dd>Unreal Engine 5.6 – 5.8</dd></div><div><dt>Implementation</dt><dd>C++ (Widget Component subclass, world subsystem); default marker in UMG</dd></div><div><dt>Price</dt><dd>$14.99 (Personal) / $29.99 (Professional)</dd></div><div><dt>Version</dt><dd>1.0.1</dd></div><div><dt>Platform</dt><dd>Windows</dd></div><div><dt>Status</dt><dd>Released</dd></div><div><dt>Released</dt><dd>Oct 2026</dd></div></dl></aside><div class="proj-main"><figure><div class="media"><img src="assets/img/tools/screen-waypoint-markers/01.webp" alt="Spawn view: the waypoint behind the player pinned to the bottom edge, others clamped to both sides, and an occluded one greyed by a wall." class="zoomable" decoding="async"></div><figcaption class="media-caption">Spawn view: the waypoint behind the player pinned to the bottom edge, others clamped to both sides, and an occluded one greyed by a wall.</figcaption></figure>
+    <h2>About the tool</h2>
+    <div class="prose"><p>Every game where the player has to find something in a 3D world needs an indicator that stays on screen and points the right way. These indicators tend to break in the same places: the marker vanishes or jumps when the target is behind the player, and the way the frame and arrow get added often breaks Blueprint access to the user's own widget.</p><p>The research before starting showed the gap was real: there was only one other C++ option on Fab, very recent and much more expensive. So the design goal was narrow and testable: correct behind the camera, drop-in on an existing project, and no new API to learn. The first playtest proved how hard the first part is: my first fix was mathematically right and still never ran (see below).</p></div>
+    <h2>Key features</h2>
+    <div class="prose"><ul><li>Works on any actor: add the <em>Screen Waypoint</em> component, or drag in the ready-made Blueprint.</li><li>Clamps to the screen edge, rectangle or ellipse, and stays correct when the target is behind the camera.</li><li>Distance and label, with fade and hide distances per marker.</li><li>Optional occlusion check with a shared trace budget, so a hundred markers do not cost a hundred traces a frame.</li><li>On-screen cap with priorities, and Blueprint events for clamped, occluded, shown and hidden.</li><li>Style and icon-set Data Assets to restyle it without UMG, or your own widget with the state already bound.</li></ul></div>
+    <h2>How it works</h2>
+    <ol class="numbered"><li><span>Enable the plugin and add the <em>Screen Waypoint</em> component (or <code>BP_ACGA_Waypoint</code>) to an objective, teammate or point of interest.</span></li><li><span>Set its label and icon; a marker appears straight away, with nothing to author first.</span></li><li><span>Adjust clamp shape, margin, distances, occlusion and priority in the Details panel.</span></li><li><span>Switch markers on and off from Blueprint, and react to their events, from the game logic you already have.</span></li></ol>
+    <h2>Design decisions</h2>
+    <div class="dossier">
+    <article class="dcase reveal">
+      <div class="dcase-head"><div><h3>Behind the camera</h3><ul class="tags"></ul></div></div>
+      
+      <div class="cps"><div class="cp"><p class="cp-label">Challenge</p><div class="prose"><p>An indicator built on a screen-space Widget Component disappears when its target is behind the player, which is exactly when the player needs it most.</p></div></div><div class="cp"><p class="cp-label">Iterations</p><div class="prose"><p>Physically moving the component in front of the camera was ruled out: it fights the actor's attachment and makes the marker jump. My first implementation computed the clamp in view space instead, so a target behind gives a stable marker on the correct edge. The maths was correct and the first playtest still showed the marker vanishing. Reading the engine source showed why: the engine's widget layer hides any widget whose projection fails <em>before</em> the clamp hook is ever reached, so no clamp written after that point can run.</p></div></div><div class="cp final"><p class="cp-label">Final design</p><div class="prose"><p>A projection proxy. While the target is behind, the subsystem parks only the component's cached transform just in front of the camera, so the projection succeeds and the clamp runs. The actor never moves, the real position is still what Blueprint reads, and the transform is recomputed from the truth when the target comes back into view.</p></div></div></div>
+    </article>
+    <article class="dcase reveal">
+      <div class="dcase-head"><div><h3>Never wrap the user's widget</h3><ul class="tags"></ul></div></div>
+      
+      <div class="cps"><div class="cp"><p class="cp-label">Challenge</p><div class="prose"><p>The obvious way to add a frame and an arrow is to wrap the user's widget in another Slate widget, and in Unreal that makes <code>Get User Widget Object</code> return nothing. Every Blueprint node that used it silently stops working.</p></div></div><div class="cp"><p class="cp-label">Iterations</p><div class="prose"><p>Wrapping can be made to work, but only with guards, attribute getters for every editable value, and protection against the wrapper being rebuilt mid-game; each of those patches a symptom of the same decision, so I dropped the wrapper instead.</p></div></div><div class="cp final"><p class="cp-label">Final design</p><div class="prose"><p>Nothing is wrapped. The component exposes clamped, bearing, distance and occlusion state, and the widget draws its own arrow. A default marker widget and a style asset ship with the plugin, so it works with nothing authored, and <code>Get User Widget Object</code> keeps working.</p></div></div></div>
+    </article>
+    <article class="dcase reveal">
+      <div class="dcase-head"><div><h3>One pass for all markers</h3><ul class="tags"></ul></div></div>
+      
+      <div class="cps"><div class="cp"><p class="cp-label">Challenge</p><div class="prose"><p>One tick per marker means every marker repeats the same camera lookup and projection work.</p></div></div><div class="cp"><p class="cp-label">Iterations</p><div class="prose"><p>A tick per component is the default way to build it, and the work it repeats grows with every marker added.</p></div></div><div class="cp final"><p class="cp-label">Final design</p><div class="prose"><p>A world subsystem updates every waypoint in one pass at a fixed rate, with one camera lookup and a shared budget for occlusion traces. The engine's own widget layer still draws them; the plugin does not claim to replace it.</p></div></div></div>
+    </article></div>
+    <h2>Technical notes</h2>
+    <div class="prose"><ul><li><strong>Modules:</strong> a runtime module, plus a demo module (demo map and character) that can be deleted without affecting the product.</li><li><strong>Dependencies:</strong> Core, CoreUObject, Engine, UMG, Slate, SlateCore, DeveloperSettings. Enhanced Input is listed only because the demo module uses it.</li><li><strong>Drop-in:</strong> a subclass of the engine's Widget Component, so there is no new API; nothing to reparent, and removing the component leaves the project as it was.</li><li><strong>Verification:</strong> a self-playing automation test plays the demo map on 5.6 and 5.8; built warning-free on 5.6, 5.7 and 5.8.</li><li><strong>Limitations:</strong> not replicated (markers are local and cosmetic), no world-space billboard mode, no VR, placeholder icon art. Markers pinned to the same screen edge are not spread apart yet, so labels can overlap when several targets lie in the same direction; that is planned for v1.1.</li></ul></div>
+    <h2>Gallery</h2>
+    <div class="gallery tool-gallery cols-2"><figure class="media"><img src="assets/img/tools/screen-waypoint-markers/02.webp" alt="The debug view: state, bearing, widget and icon of every waypoint, listed on screen." loading="lazy" decoding="async" class="zoomable"><figcaption class="media-caption gal-cap">The debug view: state, bearing, widget and icon of every waypoint, listed on screen.</figcaption></figure><figure class="media"><img src="assets/img/tools/screen-waypoint-markers/03.webp" alt="The ready-made waypoint Blueprint in the editor, with every setting in the Details panel." loading="lazy" decoding="async" class="zoomable"><figcaption class="media-caption gal-cap">The ready-made waypoint Blueprint in the editor, with every setting in the Details panel.</figcaption></figure></div></div></div>
+<section class="wrap section"><nav data-pager="tools" aria-label="More tools"></nav></section>
+</main>
+<div id="site-footer"></div>
+<script src="js/site.js"></script>
+</body>
+</html>
