@@ -291,19 +291,13 @@ def tool_img(t, n):
 
 
 def tool_index_card(t):
+    """Same card format as the personal projects, plus the tool's tags and link."""
     m = t["meta"]
     tags = "".join(f"<li>{x}</li>" for x in m.get("tags", []))
     return f"""
-      <a class="tool-card reveal" href="{t['slug']}.html">
-        <div class="tool-card-img"><img src="{tool_img(t, TOOL_COVER[t['slug']])}" alt="" loading="lazy" decoding="async"></div>
-        <div class="tool-card-body">
-          <p class="eyebrow">{m['type']} · {m['engine'].replace('Unreal Engine', 'UE')}</p>
-          <h3>{md_inline(t['short'])}</h3>
-          <p>{md_inline(t['oneliner'])}</p>
-          <ul class="tags">{tags}</ul>
-          <span class="link-arrow">View tool</span>
-        </div>
-      </a>"""
+      <a class="pp pp-tool reveal" href="{t['slug']}.html"><div class="pp-img"><img src="{tool_img(t, TOOL_COVER[t['slug']])}" alt="" loading="lazy" decoding="async"></div>
+        <p class="eyebrow">{m['type']} · {m['engine'].replace('Unreal Engine', 'UE')}</p><h3>{md_inline(t['short'])}</h3><p>{md_inline(t['oneliner'])}</p>
+        <ul class="tags">{tags}</ul><span class="link-arrow">View tool</span></a>"""
 
 
 # ================================================================ HOME
@@ -350,9 +344,6 @@ def tile(href, img, eyebrow, name, role, tags, cls="", badge=""):
 DISCIPLINES = ["Gameplay mechanics &amp; 3Cs", "Combat", "Enemies &amp; AI", "Prototyping", "Level design", "Tools"]
 BIG_BADGE = '<span class="tile-badge"><img src="assets/img/logos/big-award.webp" alt="" width="22" height="22">Best Student Game · BIG 2023</span>'
 
-_ft = [t for t in TOOLS if t["slug"] == TOOLS_FEATURED][0]
-feat_tile = tile(f"{_ft['slug']}.html", tool_img(_ft, TOOL_COVER[_ft["slug"]]), f"{_ft['meta']['type']} · Fab · {_ft['meta']['released']}",
-                 md_inline(_ft["short"]), md_inline(_ft["oneliner"]), _ft["meta"].get("tags", [])[:4], "wide")
 home = f"""
 <section class="hero">
   <img class="hero-bg" src="assets/img/thumbs/Yzam-WWlWpI.webp" alt="" fetchpriority="high">
@@ -386,9 +377,11 @@ home = f"""
   </div>
 </section>
 
-<section class="wrap sec" id="tools">
-  <div class="sec-head sec-head-row"><div><p class="eyebrow">03 · Tools</p><h2>Built for Fab</h2></div><a class="link-arrow" href="tools.html">All tools</a></div>
-  {feat_tile}
+<section class="sec" id="tools">
+  <div class="wrap sec-head sec-head-row"><div><p class="eyebrow">03 · Tools</p><h2>Built for Fab</h2></div>
+    <div class="rail-tools"><div class="rail-nav"><button type="button" class="rail-btn" data-rail-prev="tools-rail" aria-label="Previous tools"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M13 8H3M7 4 3 8l4 4"/></svg></button><button type="button" class="rail-btn" data-rail-next="tools-rail" aria-label="Next tools"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M3 8h10M9 4l4 4-4 4"/></svg></button></div><a class="link-arrow" href="tools.html">All tools</a></div></div>
+  <div class="rail" id="tools-rail" data-rail>{''.join(tool_index_card(t) for t in TOOLS)}
+  </div>
 </section>
 
 <section class="wrap sec" id="about">
@@ -1013,7 +1006,7 @@ tools_index = f"""
   <p class="hero-lead">{md_inline(TOOLS_INTRO)}</p>
 </section>
 <section class="wrap section" style="padding-top:12px">
-  <div class="tools-grid">{''.join(tool_index_card(t) for t in TOOLS)}
+  <div class="pp-grid">{''.join(tool_index_card(t) for t in TOOLS)}
   </div>
 </section>
 """
