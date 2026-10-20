@@ -255,7 +255,7 @@ home = f"""
     <p class="eyebrow">Technical Game Designer · Madrid</p>
     <h1>Designing how<br>games <span>play.</span></h1>
     <ul class="disc" aria-label="Disciplines">{''.join(f'<li>{d}</li>' for d in DISCIPLINES)}</ul>
-    <p class="now"><span class="dot" aria-hidden="true"></span><span>Currently Technical Game Designer at <strong>iBLOXX Studios</strong></span></p>
+    <p class="now"><span class="dot" aria-hidden="true"></span><span>Currently working as a <strong>freelance</strong> Technical Game Designer</span></p>
     <p class="hero-lead">I'm Álvaro Calvo García-Arias. I design, prototype and iterate gameplay in Unreal Engine 5 and Unity, and build the in-engine tools that speed up the team.</p>
     <div class="actions"><a class="btn btn-accent" href="#work">View work</a><a class="btn" href="contact.html">Get in touch</a></div>
   </div>
@@ -275,7 +275,7 @@ home = f"""
 
 <section class="sec" id="personal">
   <div class="wrap sec-head sec-head-row"><div><p class="eyebrow">02 · Personal projects</p><h2>Jams &amp; experiments</h2></div><a class="link-arrow" href="personal-projects.html">All personal projects</a></div>
-  <div class="rail">{''.join(pp_card(*p) for p in PERSONAL)}
+  <div class="rail rail-home">{''.join(pp_card(*p) for p in PERSONAL)}
   </div>
 </section>
 
