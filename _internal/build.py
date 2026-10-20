@@ -274,8 +274,9 @@ home = f"""
 </section>
 
 <section class="sec" id="personal">
-  <div class="wrap sec-head sec-head-row"><div><p class="eyebrow">02 · Personal projects</p><h2>Jams &amp; experiments</h2></div><a class="link-arrow" href="personal-projects.html">All personal projects</a></div>
-  <div class="rail rail-home">{''.join(pp_card(*p) for p in PERSONAL)}
+  <div class="wrap sec-head sec-head-row"><div><p class="eyebrow">02 · Personal projects</p><h2>Jams &amp; experiments</h2></div>
+    <div class="rail-tools"><div class="rail-nav"><button type="button" class="rail-btn" data-rail-prev="home-rail" aria-label="Previous projects"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M13 8H3M7 4 3 8l4 4"/></svg></button><button type="button" class="rail-btn" data-rail-next="home-rail" aria-label="Next projects"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M3 8h10M9 4l4 4-4 4"/></svg></button></div><a class="link-arrow" href="personal-projects.html">All personal projects</a></div></div>
+  <div class="rail" id="home-rail" data-rail>{''.join(pp_card(*p) for p in PERSONAL)}
   </div>
 </section>
 
