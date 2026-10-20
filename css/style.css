@@ -72,6 +72,7 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 .btn-primary, .btn-accent { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
 .btn-primary:hover, .btn-accent:hover { background: var(--accent-hover); border-color: var(--accent-hover); }
 .btn-primary img { filter: none; }
+.btn:not(.btn-primary):not(.btn-accent) img[src$="itchio.webp"] { filter: invert(1); } /* black logo: white on dark buttons */
 
 .chip {
   display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px;
@@ -174,11 +175,19 @@ body[data-header="over"]:not(.scrolled):not(.nav-open) .hdr::before { opacity: 0
   overflow-x: auto; scroll-snap-type: x mandatory; padding-inline: var(--rp); scroll-padding-inline: var(--rp);
   scrollbar-width: none; padding-bottom: 6px; }
 .rail::-webkit-scrollbar { display: none; }
-/* Home: on desktop the rail is a single row of the 4 most recent projects (no hidden overflow) */
-@media (min-width: 821px) {
-  .rail-home { grid-auto-flow: row; grid-template-columns: repeat(4, 1fr); overflow: visible; scroll-snap-type: none; }
-  .rail-home > :nth-child(n+5) { display: none; }
-}
+/* Rail controls (arrows + mouse drag) */
+.rail-tools { display: flex; align-items: center; gap: 24px; }
+.rail-nav { display: flex; gap: 8px; }
+.rail-btn { width: 44px; height: 44px; display: grid; place-items: center; border: 1px solid rgba(255, 255, 255, .28); color: var(--text); transition: border-color .2s, color .2s, opacity .2s; }
+.rail-btn svg { width: 16px; height: 16px; }
+.rail-btn:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
+.rail-btn:disabled { opacity: .3; cursor: default; }
+.rail.is-draggable { cursor: grab; }
+.rail.is-dragging { cursor: grabbing; scroll-snap-type: none; user-select: none; }
+.rail.is-dragging a { pointer-events: none; }
+.rail img { -webkit-user-drag: none; user-select: none; }
+@media (max-width: 640px) { .rail-nav { display: none; } }
+
 .pp-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 32px 16px; }
 .pp { scroll-snap-align: start; display: block; }
 .pp-img { position: relative; aspect-ratio: 16 / 10; overflow: hidden; background: var(--s1); margin-bottom: 14px; }

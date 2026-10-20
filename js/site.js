@@ -237,6 +237,53 @@
     fit();
   }
 
+  /* ---------- Horizontal rails: arrow buttons + mouse drag ---------- */
+  function initRails() {
+    document.querySelectorAll("[data-rail]").forEach(function (rail) {
+      var prev = document.querySelector('[data-rail-prev="' + rail.id + '"]');
+      var next = document.querySelector('[data-rail-next="' + rail.id + '"]');
+      function step() {
+        var card = rail.firstElementChild;
+        var gap = parseFloat(getComputedStyle(rail).columnGap) || 16;
+        return card ? card.getBoundingClientRect().width + gap : rail.clientWidth * 0.8;
+      }
+      function update() {
+        var max = rail.scrollWidth - rail.clientWidth - 2;
+        if (prev) prev.disabled = rail.scrollLeft <= 2;
+        if (next) next.disabled = rail.scrollLeft >= max;
+      }
+      if (prev) prev.addEventListener("click", function () { rail.scrollBy({ left: -step(), behavior: "smooth" }); });
+      if (next) next.addEventListener("click", function () { rail.scrollBy({ left: step(), behavior: "smooth" }); });
+      rail.addEventListener("scroll", update, { passive: true });
+      window.addEventListener("resize", update);
+      update();
+
+      // Mouse drag (touch and trackpads already scroll natively).
+      var down = false, moved = false, startX = 0, startLeft = 0;
+      rail.classList.add("is-draggable");
+      rail.addEventListener("pointerdown", function (e) {
+        if (e.pointerType !== "mouse" || e.button !== 0) return;
+        down = true; moved = false; startX = e.clientX; startLeft = rail.scrollLeft;
+      });
+      window.addEventListener("pointermove", function (e) {
+        if (!down) return;
+        var dx = e.clientX - startX;
+        if (!moved && Math.abs(dx) > 5) { moved = true; rail.classList.add("is-dragging"); }
+        if (moved) rail.scrollLeft = startLeft - dx;
+      });
+      window.addEventListener("pointerup", function () {
+        if (!down) return;
+        down = false;
+        if (moved) {
+          rail.classList.remove("is-dragging");
+          var s = step(), target = Math.round(rail.scrollLeft / s) * s;
+          rail.scrollTo({ left: target, behavior: "smooth" });
+        }
+      });
+      rail.addEventListener("click", function (e) { if (moved) { e.preventDefault(); moved = false; } }, true);
+    });
+  }
+
   renderHeader();
   renderSectionNav();
   renderFooter();
@@ -246,4 +293,5 @@
   initReveal();
   initScrollSpy();
   initSheets();
+  initRails();
 })();
