@@ -171,13 +171,14 @@ body[data-header="over"]:not(.scrolled):not(.nav-open) .hdr::before { opacity: 0
 
 /* ---------- Project cards (personal) ---------- */
 .rail { --rp: max(var(--g), calc((100vw - var(--wrap)) / 2 + var(--g)));
-  display: grid; grid-auto-flow: column; grid-auto-columns: minmax(260px, 1fr); gap: 16px;
+  display: grid; grid-auto-flow: column; grid-auto-columns: 260px; justify-content: start; gap: 16px;
   overflow-x: auto; scroll-snap-type: x mandatory; padding-inline: var(--rp); scroll-padding-inline: var(--rp);
   scrollbar-width: none; padding-bottom: 6px; }
 .rail::-webkit-scrollbar { display: none; }
 /* Rail controls (arrows + mouse drag) */
 .rail-tools { display: flex; align-items: center; gap: 24px; }
 .rail-nav { display: flex; gap: 8px; }
+.rail-nav[hidden] { display: none; }
 .rail-btn { width: 44px; height: 44px; display: grid; place-items: center; border: 1px solid rgba(255, 255, 255, .28); color: var(--text); transition: border-color .2s, color .2s, opacity .2s; }
 .rail-btn svg { width: 16px; height: 16px; }
 .rail-btn:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
@@ -436,6 +437,10 @@ img[src$="divertifica.webp"] { filter: brightness(0) invert(1); opacity: .9; } /
 }
 
 /* ---------- Tools ---------- */
+.pp-tool .tags { margin-top: 12px; }
+.pp-tool .tags li { background: none; border-color: var(--line-strong); color: var(--soft); }
+.pp-tool .link-arrow { margin-top: 12px; font-size: .9rem; }
+.pp-tool:hover .link-arrow { color: var(--accent); }
 .tools-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px; }
 .tool-card { display: flex; flex-direction: column; background: var(--s1); border: 1px solid var(--line); transition: border-color .25s; }
 .tool-card:hover { border-color: var(--accent-line); }

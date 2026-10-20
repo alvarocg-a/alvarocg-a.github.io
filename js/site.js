@@ -256,6 +256,8 @@
         var max = rail.scrollWidth - rail.clientWidth - 2;
         if (prev) prev.disabled = rail.scrollLeft <= 2;
         if (next) next.disabled = rail.scrollLeft >= max;
+        var nav = (prev || next) && (prev || next).parentElement;
+        if (nav) nav.hidden = rail.scrollWidth <= rail.clientWidth + 2; // nothing to scroll: hide the arrows
       }
       if (prev) prev.addEventListener("click", function () { rail.scrollBy({ left: -step(), behavior: "smooth" }); });
       if (next) next.addEventListener("click", function () { rail.scrollBy({ left: step(), behavior: "smooth" }); });
